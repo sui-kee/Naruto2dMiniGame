@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: de0e7d5fd2e082844a148269c603e71b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5476001763222499829
+    second: ItachBasic_0
+  - first:
+      213: -1836385447360730287
+    second: ItachBasic_1
+  - first:
+      213: -1697189005800784622
+    second: ItachBasic_2
+  - first:
+      213: -6922629856294288623
+    second: ItachBasic_3
+  - first:
+      213: 4812635085056280092
+    second: ItachBasic_4
+  - first:
+      213: 1257003801280356035
+    second: ItachBasic_5
+  - first:
+      213: -9041565379864246723
+    second: ItachBasic_6
+  - first:
+      213: -7421999051931843186
+    second: ItachBasic_7
+  - first:
+      213: -6960441462323390533
+    second: ItachBasic_8
+  - first:
+      213: -7625624860208173247
+    second: ItachBasic_9
+  - first:
+      213: 5411426628884560988
+    second: ItachBasic_10
+  - first:
+      213: -1168570294491705429
+    second: ItachBasic_11
+  - first:
+      213: 245748599558123763
+    second: ItachBasic_12
+  - first:
+      213: -198465567196691473
+    second: ItachBasic_13
+  - first:
+      213: -1609218861001587783
+    second: ItachBasic_14
+  - first:
+      213: 1117927494520388986
+    second: ItachBasic_15
+  - first:
+      213: -1949052910199969787
+    second: ItachBasic_16
+  - first:
+      213: -7084749185714379617
+    second: ItachBasic_17
+  - first:
+      213: -2016502488601145724
+    second: ItachBasic_18
+  - first:
+      213: -5955410252126967458
+    second: ItachBasic_19
+  - first:
+      213: -7915977459405664243
+    second: ItachBasic_20
+  - first:
+      213: 1553480884897384154
+    second: ItachBasic_21
+  - first:
+      213: 1439269208931949412
+    second: ItachBasic_22
+  - first:
+      213: 8841808436142021460
+    second: ItachBasic_23
+  - first:
+      213: -6502656213597195736
+    second: ItachBasic_24
+  - first:
+      213: 6951650765164007553
+    second: ItachBasic_25
+  - first:
+      213: 8501962017794338703
+    second: ItachBasic_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ItachBasic_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec5b1d8655104b0800000000000000
+      internalID: -5476001763222499829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 362
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bed5b4a29d386e0800000000000000
+      internalID: -1836385447360730287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 362
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dbb80679f5278e0800000000000000
+      internalID: -1697189005800784622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 362
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113c018c2d0edef90800000000000000
+      internalID: -6922629856294288623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 361
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c168c568c1ae9c240800000000000000
+      internalID: 4812635085056280092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 362
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce91a02c46c17110800000000000000
+      internalID: 1257003801280356035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 266
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36c8b7f038e58280800000000000000
+      internalID: -9041565379864246723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 266
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85015a8f23cff890800000000000000
+      internalID: -7421999051931843186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 266
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb750563e5b876f90800000000000000
+      internalID: -6960441462323390533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f67e887965c2690800000000000000
+      internalID: -7625624860208173247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 266
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cf0c619df391b40800000000000000
+      internalID: 5411426628884560988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 266
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf8fbd228768cfe0800000000000000
+      internalID: -1168570294491705429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 266
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f036bc9c03196300800000000000000
+      internalID: 245748599558123763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3481f3e98ee3df0800000000000000
+      internalID: -198465567196691473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 193
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b34420d8f7eaa9e0800000000000000
+      internalID: -1609218861001587783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 193
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7db78b122da38f00800000000000000
+      internalID: 1117927494520388986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 193
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e61764b293f4e0800000000000000
+      internalID: -1949052910199969787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 194
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94a1c6f62aedad90800000000000000
+      internalID: -7084749185714379617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 194
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ecc36aba1f304e0800000000000000
+      internalID: -2016502488601145724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 178
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a046cde12a5da0800000000000000
+      internalID: -5955410252126967458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00502af07cc42290800000000000000
+      internalID: -7915977459405664243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 103
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60ba552a21f8510800000000000000
+      internalID: 1553480884897384154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bdb8e48bf49f310800000000000000
+      internalID: 1439269208931949412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b1c404de964ba70800000000000000
+      internalID: 8841808436142021460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8227d0450ace1c5a0800000000000000
+      internalID: -6502656213597195736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1805c2c1a89397060800000000000000
+      internalID: 6951650765164007553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachBasic_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fae7ce8690df570800000000000000
+      internalID: 8501962017794338703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c56c3bae13220e44fa093a560ed9e4a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ItachBasic_0: -5476001763222499829
+      ItachBasic_1: -1836385447360730287
+      ItachBasic_10: 5411426628884560988
+      ItachBasic_11: -1168570294491705429
+      ItachBasic_12: 245748599558123763
+      ItachBasic_13: -198465567196691473
+      ItachBasic_14: -1609218861001587783
+      ItachBasic_15: 1117927494520388986
+      ItachBasic_16: -1949052910199969787
+      ItachBasic_17: -7084749185714379617
+      ItachBasic_18: -2016502488601145724
+      ItachBasic_19: -5955410252126967458
+      ItachBasic_2: -1697189005800784622
+      ItachBasic_20: -7915977459405664243
+      ItachBasic_21: 1553480884897384154
+      ItachBasic_22: 1439269208931949412
+      ItachBasic_23: 8841808436142021460
+      ItachBasic_24: -6502656213597195736
+      ItachBasic_25: 6951650765164007553
+      ItachBasic_26: 8501962017794338703
+      ItachBasic_3: -6922629856294288623
+      ItachBasic_4: 4812635085056280092
+      ItachBasic_5: 1257003801280356035
+      ItachBasic_6: -9041565379864246723
+      ItachBasic_7: -7421999051931843186
+      ItachBasic_8: -6960441462323390533
+      ItachBasic_9: -7625624860208173247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
