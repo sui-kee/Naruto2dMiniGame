@@ -85,6 +85,12 @@ public class Itachi : MonoBehaviour
     {
         switch (comingAnimation)
         {
+            case "ItachiKunai":
+                ChangeAnimation(comingAnimation);
+                break;
+            case "ItachiFireBall":
+                ChangeAnimation(comingAnimation);
+                break;
             case "ItachiJump":
                 ChangeAnimation(comingAnimation);
                 break;

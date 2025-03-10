@@ -133,6 +133,8 @@ GameObject:
   - component: {fileID: 288532581}
   - component: {fileID: 288532580}
   - component: {fileID: 288532582}
+  - component: {fileID: 288532583}
+  - component: {fileID: 288532584}
   m_Layer: 0
   m_Name: Itachi
   m_TagString: Untagged
@@ -149,11 +151,13 @@ Transform:
   m_GameObject: {fileID: 288532576}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.24, y: -0.84, z: 0.04010416}
+  m_LocalPosition: {x: -8.07, y: -0.42, z: 0.04010416}
   m_LocalScale: {x: 2.4473, y: 2.4473, z: 2.4473}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1868909102}
+  - {fileID: 1837639919}
+  - {fileID: 752999942}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &288532578
@@ -331,6 +335,36 @@ MonoBehaviour:
   comingAnimation: 
   isAttacking: 0
   isHurt: 0
+--- !u!114 &288532583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 288532576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3515b7f6ac548a41a55620fc26e9aea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireBall: {fileID: 5684499090771543649, guid: fbbdb5cd8b1e14e4a836c9f4cada4fc9, type: 3}
+  shootingPoint: {fileID: 1837639919}
+  itachi: {fileID: 288532582}
+--- !u!114 &288532584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 288532576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 291216010a0230d4cb52bef4493780e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kunai: {fileID: 7086636697201096733, guid: 58e2202e9ec3632479e62e60f0db9763, type: 3}
+  shootingPoint: {fileID: 752999942}
+  itachi: {fileID: 288532582}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -584,6 +618,37 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &752999941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 752999942}
+  m_Layer: 0
+  m_Name: Shooting point Kunai
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &752999942
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 752999941}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.29, y: 0.09, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 288532577}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1106877248
 GameObject:
@@ -1452,6 +1517,37 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 13.152903}
   m_EdgeRadius: 0
+--- !u!1 &1837639918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1837639919}
+  m_Layer: 0
+  m_Name: Shooting point FB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1837639919
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1837639918}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.574, y: 0.087, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 288532577}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1867342147
 GameObject:
   m_ObjectHideFlags: 0

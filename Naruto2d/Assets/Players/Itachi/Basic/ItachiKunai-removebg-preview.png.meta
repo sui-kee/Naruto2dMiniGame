@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 9b4c872eedee46849a10e2ae43181a4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1383454019735403376
+    second: ItachiKunai-removebg-preview_0
+  - first:
+      213: 1873804133399449253
+    second: ItachiKunai-removebg-preview_1
+  - first:
+      213: -7715361839107410158
+    second: ItachiKunai-removebg-preview_2
+  - first:
+      213: -1012737395831739121
+    second: ItachiKunai-removebg-preview_3
+  - first:
+      213: 5438598976874774759
+    second: ItachiKunai-removebg-preview_4
+  - first:
+      213: -7066764790542719374
+    second: ItachiKunai-removebg-preview_5
+  - first:
+      213: -5068973070207254974
+    second: ItachiKunai-removebg-preview_6
+  - first:
+      213: -4795497125717566218
+    second: ItachiKunai-removebg-preview_7
+  - first:
+      213: 2291917768629804871
+    second: ItachiKunai-removebg-preview_8
+  - first:
+      213: 4557795380985426467
+    second: ItachiKunai-removebg-preview_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094c59e16ebfccce0800000000000000
+      internalID: -1383454019735403376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aecee57ee6110a10800000000000000
+      internalID: 1873804133399449253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 67
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f56af8478de490800000000000000
+      internalID: -7715361839107410158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0de1b644b802f1f0800000000000000
+      internalID: -1012737395831739121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 10
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08c6c54f8c97b40800000000000000
+      internalID: 5438598976874774759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 9
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276a6744ddecded90800000000000000
+      internalID: -7066764790542719374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 7
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e764669d367a9b0800000000000000
+      internalID: -5068973070207254974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 7
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc923495c8f27db0800000000000000
+      internalID: -4795497125717566218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 31
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd59541178ecf10800000000000000
+      internalID: 2291917768629804871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiKunai-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 29
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3227d8230ca804f30800000000000000
+      internalID: 4557795380985426467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ItachiKunai-removebg-preview_0: -1383454019735403376
+      ItachiKunai-removebg-preview_1: 1873804133399449253
+      ItachiKunai-removebg-preview_2: -7715361839107410158
+      ItachiKunai-removebg-preview_3: -1012737395831739121
+      ItachiKunai-removebg-preview_4: 5438598976874774759
+      ItachiKunai-removebg-preview_5: -7066764790542719374
+      ItachiKunai-removebg-preview_6: -5068973070207254974
+      ItachiKunai-removebg-preview_7: -4795497125717566218
+      ItachiKunai-removebg-preview_8: 2291917768629804871
+      ItachiKunai-removebg-preview_9: 4557795380985426467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
