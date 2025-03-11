@@ -6,6 +6,8 @@ public class Itachi : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Animator animator;
+    [SerializeField] private GameObject idleBody;
+    [SerializeField] private GameObject runBody;
     private float horizontal;
     public bool isFacingRight = true;
     public float speed = 4f;
@@ -29,7 +31,7 @@ public class Itachi : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x,jump_power);
         }
-       
+        BodyController();
         PlayerAnimatorController();
         PlayerMovementDetector();
         Flip();
@@ -37,7 +39,14 @@ public class Itachi : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(speed * horizontal, rb.linearVelocity.y);
+        if (!isAttacking)
+        {
+            rb.linearVelocity = new Vector2(speed * horizontal, rb.linearVelocity.y);
+        }
+        else
+        {
+            rb.linearVelocity = new Vector2(0f,rb.linearVelocity.y);
+        }
     }
 
     public void PlayerMovementDetector()
@@ -78,6 +87,18 @@ public class Itachi : MonoBehaviour
         {
             currentAnimation = animation;
             animator.CrossFade(animation, crossFade);
+        }
+    }
+
+    private void BodyController()
+    {
+        if(currentAnimation == "ItachiRun")
+        {
+            idleBody.SetActive(false);
+        }
+        else
+        {
+            idleBody.SetActive(true);
         }
     }
 

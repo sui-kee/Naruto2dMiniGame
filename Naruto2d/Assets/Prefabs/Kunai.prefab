@@ -126,7 +126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 1494064666032282894}
   animator: {fileID: 4168379572152246460}
-  speed: 13
+  speed: 17
   rotation_speed: 500
 --- !u!50 &1494064666032282894
 Rigidbody2D:

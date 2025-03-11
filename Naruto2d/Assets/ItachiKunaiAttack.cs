@@ -6,6 +6,7 @@ public class ItachiKunaiAttack : MonoBehaviour
     [SerializeField] private GameObject kunai;
     [SerializeField] private Transform shootingPoint;
     [SerializeField] private Itachi itachi;
+    private bool isShooting = false;
     private bool canShoot = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,17 +19,23 @@ public class ItachiKunaiAttack : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.R) && canShoot)
         {
+            itachi.isAttacking = true;
+            isShooting=true;
             canShoot = false;
             StartCoroutine(KunaiAttack());
+        }
+        if (isShooting)
+        {
+            itachi.rb.linearVelocity = new Vector2(0f, itachi.rb.linearVelocity.y);
         }
     }
 
     private IEnumerator KunaiAttack()
     {
-        itachi.isAttacking = true;
         itachi.comingAnimation = "ItachiKunai";
         yield return new WaitForSeconds(0.88f);
         Instantiate(kunai, shootingPoint.position, shootingPoint.rotation);
+        isShooting = false;
         itachi.isAttacking = false;
         canShoot = true;
     }
