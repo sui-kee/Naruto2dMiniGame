@@ -12,32 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ca6aa57af911c74e8a1e5a0b4e4b739, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1102 &-7277069329462337181
-AnimatorState:
-  serializedVersion: 6
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: YellowIdle
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Transitions: []
-  m_StateMachineBehaviours: []
-  m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
-  m_SpeedParameterActive: 0
-  m_MirrorParameterActive: 0
-  m_CycleOffsetParameterActive: 0
-  m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 4d0a05ef01d33d541b41d20ba1a17a0c, type: 2}
-  m_Tag: 
-  m_SpeedParameter: 
-  m_MirrorParameter: 
-  m_CycleOffsetParameter: 
-  m_TimeParameter: 
 --- !u!1101 &-6047117108286789055
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -104,7 +78,8 @@ AnimatorState:
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 4571752590057105195}
-  m_StateMachineBehaviours: []
+  m_StateMachineBehaviours:
+  - {fileID: -310736465789587078}
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
@@ -216,10 +191,10 @@ AnimatorState:
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
-  - {fileID: -3432165804245748218}
   - {fileID: 7353462146770727124}
   - {fileID: 7943904426669498649}
   - {fileID: -6047117108286789055}
+  - {fileID: -3432165804245748218}
   m_StateMachineBehaviours:
   - {fileID: 440073693528875563}
   m_Position: {x: 50, y: 50, z: 0}
@@ -283,6 +258,18 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!114 &-310736465789587078
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe37c0f79f51c6c488e39aecd40e5f59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
@@ -553,9 +540,6 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 4824013312725756915}
     m_Position: {x: 750, y: 20, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: -7277069329462337181}
-    m_Position: {x: 820, y: 110, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []

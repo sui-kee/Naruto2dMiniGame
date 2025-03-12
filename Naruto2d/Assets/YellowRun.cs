@@ -3,12 +3,14 @@ using UnityEngine;
 public class YellowRun : StateMachineBehaviour
 {
     YellowNinja yellowNinja;
+    YellowKunaiAttack yellow_shoot;
     Rigidbody2D rb;
     Transform player;
     public float sword_range = 1f;
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        yellow_shoot = animator.GetComponent<YellowKunaiAttack>();
         yellowNinja = animator.GetComponent<YellowNinja>();
         rb = animator.GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player").transform;
@@ -18,22 +20,31 @@ public class YellowRun : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         float distance = Vector2.Distance(player.position, rb.transform.position);
+        //auto following player
         if(distance>= sword_range)
         {
             yellowNinja.FollowPlayer();
         }
+        // slicing attack
         if (distance <= sword_range)
         {
             animator.SetTrigger("SwordAttack");
         }
+        // follow or not activator
         if (!yellowNinja.isPlayerOnRange)
         {
             animator.ResetTrigger("PlayerDetected");
             animator.SetTrigger("Activate");
         }
+        // hurt mode
         if (yellowNinja.isHurt)
         {
             animator.SetTrigger("Hurt");
+        }
+        // shooting attack
+        if(yellowNinja.isPlayerOnRange && yellow_shoot.canShoot)
+        {
+            animator.SetTrigger("Shoot");
         }
         
         yellowNinja.Flip();
@@ -46,6 +57,7 @@ public class YellowRun : StateMachineBehaviour
         yellowNinja.Stop();
         animator.ResetTrigger("SwordAttack");
         animator.ResetTrigger("Hurt");
+        animator.ResetTrigger("Shoot");
         yellowNinja.isHurt = false;
     }
 

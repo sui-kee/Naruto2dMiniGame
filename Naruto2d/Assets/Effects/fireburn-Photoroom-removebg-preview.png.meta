@@ -1,0 +1,1542 @@
+fileFormatVersion: 2
+guid: aea81c78a40f3b24fabb62ee1f683264
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8431234188106214875
+    second: fireburn-Photoroom-removebg-preview_0
+  - first:
+      213: 7665180801747729993
+    second: fireburn-Photoroom-removebg-preview_1
+  - first:
+      213: 2611232116060528931
+    second: fireburn-Photoroom-removebg-preview_2
+  - first:
+      213: -1924098788285676123
+    second: fireburn-Photoroom-removebg-preview_3
+  - first:
+      213: 6758938329955628493
+    second: fireburn-Photoroom-removebg-preview_4
+  - first:
+      213: 6458079138266919379
+    second: fireburn-Photoroom-removebg-preview_5
+  - first:
+      213: -480436138557874562
+    second: fireburn-Photoroom-removebg-preview_6
+  - first:
+      213: -8158978080334830291
+    second: fireburn-Photoroom-removebg-preview_7
+  - first:
+      213: -7178058759939479408
+    second: fireburn-Photoroom-removebg-preview_8
+  - first:
+      213: 7309406859931877793
+    second: fireburn-Photoroom-removebg-preview_9
+  - first:
+      213: -4176671683837360498
+    second: fireburn-Photoroom-removebg-preview_10
+  - first:
+      213: 5314360828821806462
+    second: fireburn-Photoroom-removebg-preview_11
+  - first:
+      213: -896246834406680570
+    second: fireburn-Photoroom-removebg-preview_12
+  - first:
+      213: 5313831257604144451
+    second: fireburn-Photoroom-removebg-preview_13
+  - first:
+      213: 7682136433379558639
+    second: fireburn-Photoroom-removebg-preview_14
+  - first:
+      213: -4758452381393457722
+    second: fireburn-Photoroom-removebg-preview_15
+  - first:
+      213: -1129097271502563201
+    second: fireburn-Photoroom-removebg-preview_16
+  - first:
+      213: 3842276154842950439
+    second: fireburn-Photoroom-removebg-preview_17
+  - first:
+      213: 4642622882899035511
+    second: fireburn-Photoroom-removebg-preview_18
+  - first:
+      213: -7922457572376426765
+    second: fireburn-Photoroom-removebg-preview_19
+  - first:
+      213: -6713499730552848433
+    second: fireburn-Photoroom-removebg-preview_20
+  - first:
+      213: -6823738226119078987
+    second: fireburn-Photoroom-removebg-preview_21
+  - first:
+      213: -8921513416971781770
+    second: fireburn-Photoroom-removebg-preview_22
+  - first:
+      213: -8759006289159700211
+    second: fireburn-Photoroom-removebg-preview_23
+  - first:
+      213: 3449213885205168739
+    second: fireburn-Photoroom-removebg-preview_24
+  - first:
+      213: -5753957610545113336
+    second: fireburn-Photoroom-removebg-preview_25
+  - first:
+      213: -7897195116899688876
+    second: fireburn-Photoroom-removebg-preview_26
+  - first:
+      213: -6193290090643939558
+    second: fireburn-Photoroom-removebg-preview_27
+  - first:
+      213: 3762149565559893112
+    second: fireburn-Photoroom-removebg-preview_28
+  - first:
+      213: 5972014449190029380
+    second: fireburn-Photoroom-removebg-preview_29
+  - first:
+      213: -5891716833240835010
+    second: fireburn-Photoroom-removebg-preview_30
+  - first:
+      213: 7869021039650497634
+    second: fireburn-Photoroom-removebg-preview_31
+  - first:
+      213: 7658629868279294110
+    second: fireburn-Photoroom-removebg-preview_32
+  - first:
+      213: -5465965800932936684
+    second: fireburn-Photoroom-removebg-preview_33
+  - first:
+      213: -3147194586544156468
+    second: fireburn-Photoroom-removebg-preview_34
+  - first:
+      213: 8584227908746478840
+    second: fireburn-Photoroom-removebg-preview_35
+  - first:
+      213: -5080699679912129050
+    second: fireburn-Photoroom-removebg-preview_36
+  - first:
+      213: 2056061749147194844
+    second: fireburn-Photoroom-removebg-preview_37
+  - first:
+      213: 1465434651742084274
+    second: fireburn-Photoroom-removebg-preview_38
+  - first:
+      213: 7627010627884523955
+    second: fireburn-Photoroom-removebg-preview_39
+  - first:
+      213: -5908884111272775922
+    second: fireburn-Photoroom-removebg-preview_40
+  - first:
+      213: -8400850391283023033
+    second: fireburn-Photoroom-removebg-preview_41
+  - first:
+      213: 1339891643105620006
+    second: fireburn-Photoroom-removebg-preview_42
+  - first:
+      213: 5971616088419469262
+    second: fireburn-Photoroom-removebg-preview_43
+  - first:
+      213: 768043743218485352
+    second: fireburn-Photoroom-removebg-preview_44
+  - first:
+      213: 3214116775629314640
+    second: fireburn-Photoroom-removebg-preview_45
+  - first:
+      213: -2725206346543603933
+    second: fireburn-Photoroom-removebg-preview_46
+  - first:
+      213: -4337948057250921218
+    second: fireburn-Photoroom-removebg-preview_47
+  - first:
+      213: 7141593628369263647
+    second: fireburn-Photoroom-removebg-preview_48
+  - first:
+      213: 8794130779432803275
+    second: fireburn-Photoroom-removebg-preview_49
+  - first:
+      213: -7716746056561497420
+    second: fireburn-Photoroom-removebg-preview_50
+  - first:
+      213: 3198900771062389097
+    second: fireburn-Photoroom-removebg-preview_51
+  - first:
+      213: -2678197661079279961
+    second: fireburn-Photoroom-removebg-preview_52
+  - first:
+      213: 5106823061519512086
+    second: fireburn-Photoroom-removebg-preview_53
+  - first:
+      213: -2725034477092585612
+    second: fireburn-Photoroom-removebg-preview_54
+  - first:
+      213: -1677956564208415673
+    second: fireburn-Photoroom-removebg-preview_55
+  - first:
+      213: -8746258892530991706
+    second: fireburn-Photoroom-removebg-preview_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 456
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522dccf2d2d3efa80800000000000000
+      internalID: -8431234188106214875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 456
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e315bc351306a60800000000000000
+      internalID: 7665180801747729993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 455
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32121ef46c5fc3420800000000000000
+      internalID: 2611232116060528931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 456
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5097ba85a3c45e0800000000000000
+      internalID: -1924098788285676123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 455
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f6c7c9929ccd50800000000000000
+      internalID: 6758938329955628493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 456
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b2c782c4bf9950800000000000000
+      internalID: 6458079138266919379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 456
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e5fff90e52559f0800000000000000
+      internalID: -480436138557874562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 456
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a17ff9ac75ce80800000000000000
+      internalID: -8158978080334830291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 456
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0982decb699626c90800000000000000
+      internalID: -7178058759939479408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 456
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a10b0defca307560800000000000000
+      internalID: 7309406859931877793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 405
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8601758b3b7906c0800000000000000
+      internalID: -4176671683837360498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 405
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d9c22640760c940800000000000000
+      internalID: 5314360828821806462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 405
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6081f1ca044ef83f0800000000000000
+      internalID: -896246834406680570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 405
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dbcd9ff558eb940800000000000000
+      internalID: 5313831257604144451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 405
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4ccab626e6c9a60800000000000000
+      internalID: 7682136433379558639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 405
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd6e6e35c496fdb0800000000000000
+      internalID: -4758452381393457722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 405
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f781a378304a450f0800000000000000
+      internalID: -1129097271502563201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 405
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b2e5a3ec1825530800000000000000
+      internalID: 3842276154842950439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 405
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7750c411ae8ed6040800000000000000
+      internalID: 4642622882899035511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 429
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6466a10d6cd0290800000000000000
+      internalID: -7922457572376426765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 430
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf77b0909bd4d2a0800000000000000
+      internalID: -6713499730552848433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 405
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0befac363d41a0800000000000000
+      internalID: -6823738226119078987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 379
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679f382c0da603480800000000000000
+      internalID: -8921513416971781770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 381
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01493def22c17680800000000000000
+      internalID: -8759006289159700211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 380
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362cffdf0c11edf20800000000000000
+      internalID: 3449213885205168739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 355
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8079dcaf906d520b0800000000000000
+      internalID: -5753957610545113336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 355
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e9e3fd1e6876290800000000000000
+      internalID: -7897195116899688876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 355
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f983cd9730d0aa0800000000000000
+      internalID: -6193290090643939558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 355
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c661fd817d53430800000000000000
+      internalID: 3762149565559893112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 355
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c87d108bd0e250800000000000000
+      internalID: 5972014449190029380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 355
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c9d7d71ca6c3ea0800000000000000
+      internalID: -5891716833240835010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 355
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264617691f0643d60800000000000000
+      internalID: 7869021039650497634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 355
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98ebfcb94be84a60800000000000000
+      internalID: 7658629868279294110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 355
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41475f0601df424b0800000000000000
+      internalID: -5465965800932936684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 355
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d006b23be254d0800000000000000
+      internalID: -3147194586544156468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f404d34dcd412770800000000000000
+      internalID: 8584227908746478840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 305
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed85605f8abd79b0800000000000000
+      internalID: -5080699679912129050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 305
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5df227449988c10800000000000000
+      internalID: 2056061749147194844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 305
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc92a23d05465410800000000000000
+      internalID: 1465434651742084274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 305
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1af25a1c598d960800000000000000
+      internalID: 7627010627884523955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 305
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fe2a8153d6ffda0800000000000000
+      internalID: -5908884111272775922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 305
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743cf58241f2a6b80800000000000000
+      internalID: -8400850391283023033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 305
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62033d0b950489210800000000000000
+      internalID: 1339891643105620006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 305
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7004581317fd250800000000000000
+      internalID: 5971616088419469262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 305
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868cf7617b3a8aa00800000000000000
+      internalID: 768043743218485352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 256
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a5206ad26da9c20800000000000000
+      internalID: 3214116775629314640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 279
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd0ae344f1e2ad0800000000000000
+      internalID: -2725206346543603933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef48671b9338cc3c0800000000000000
+      internalID: -4337948057250921218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 281
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c942531990c1360800000000000000
+      internalID: 7141593628369263647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 256
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbdb60c9570b0a70800000000000000
+      internalID: 8794130779432803275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 281
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba61ccb85c98e490800000000000000
+      internalID: -7716746056561497420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 256
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96995e28d47c46c20800000000000000
+      internalID: 3198900771062389097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 256
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6661dba6125dad0800000000000000
+      internalID: -2678197661079279961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 256
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b4a074841fd640800000000000000
+      internalID: 5106823061519512086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f3438b49bbe2ad0800000000000000
+      internalID: -2725034477092585612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 256
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c82d12563b6b8e0800000000000000
+      internalID: -1677956564208415673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireburn-Photoroom-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 256
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adb61d70eb0f9680800000000000000
+      internalID: -8746258892530991706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
