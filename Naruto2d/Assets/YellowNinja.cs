@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class YellowNinja : MonoBehaviour
 {
-    [SerializeField] private Rigidbody2D rb;
+    [SerializeField] public Rigidbody2D rb;
     [SerializeField] private Itachi player;
     public float activateRange = 4.5f;
     public float dectectRange = 10f;
@@ -77,7 +77,7 @@ public class YellowNinja : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("FireBall"))
+        if (collision.CompareTag("FireBall") || collision.CompareTag("PlayerKunai"))
         {
             isHurt = true;
         }

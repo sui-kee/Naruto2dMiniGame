@@ -19,6 +19,7 @@ public class YellowWalk : StateMachineBehaviour
         }
         if (yellowNinja.isHurt)
         {
+            yellowNinja.Stop();
             animator.SetTrigger("Hurt");
         }
     }

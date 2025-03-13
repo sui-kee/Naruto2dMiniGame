@@ -39,6 +39,7 @@ public class YellowRun : StateMachineBehaviour
         // hurt mode
         if (yellowNinja.isHurt)
         {
+            yellowNinja.Stop();
             animator.SetTrigger("Hurt");
         }
         // shooting attack

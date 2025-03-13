@@ -23,7 +23,7 @@ public class Fireball : MonoBehaviour
         }
     }
 
-    private IEnumerator FireballBehavior()
+    public IEnumerator FireballBehavior()
     {
         rb.linearVelocity = new Vector2(0f, 0f);
         transform.localScale *= 2f;
@@ -31,26 +31,13 @@ public class Fireball : MonoBehaviour
         animator.CrossFade("FireBallBurn", 0.1f);
         yield return new WaitForSeconds(3f);
         Destroy(gameObject);
-
+        Debug.Log("Destroy should work:");
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+
+    public void BurningInitiator()
     {
-        if (!collision.CompareTag("Player") && !hitSomething && collision.CompareTag("YellowNinja") || collision.CompareTag("FireBall"))
-        {
-            hitSomething = true;
-            burningPos = collision.gameObject.transform.position;
-            StartCoroutine(FireballBehavior());
-        }
-        else
-        {
-            Destroy(gameObject);    
-        }
+        hitSomething = true;
+        StartCoroutine(FireballBehavior());
     }
-
-    //private void OnCollisionEnter2D(Collision2D collision)
-    //{
-    //    hitSomething = true;
-    //    burningPos = collision.gameObject.transform.position;
-    //    StartCoroutine(FireballBehavior());
-    //}
+    
 }
