@@ -92,6 +92,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Fireball: {fileID: 7106179500524115030}
+  Fire_ball_body: {fileID: 5684499090771543649}
 --- !u!1 &5684499090771543649
 GameObject:
   m_ObjectHideFlags: 0

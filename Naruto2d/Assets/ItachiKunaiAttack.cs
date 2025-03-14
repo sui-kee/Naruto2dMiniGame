@@ -33,10 +33,11 @@ public class ItachiKunaiAttack : MonoBehaviour
     private IEnumerator KunaiAttack()
     {
         itachi.comingAnimation = "ItachiKunai";
-        yield return new WaitForSeconds(0.88f);
+        yield return new WaitForSeconds(0.07f);
         Instantiate(kunai, shootingPoint.position, shootingPoint.rotation);
         isShooting = false;
         itachi.isAttacking = false;
+        yield return new WaitForSeconds(0.5f);
         canShoot = true;
     }
 }

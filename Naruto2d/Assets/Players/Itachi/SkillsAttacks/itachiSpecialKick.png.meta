@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 994d31b97ed8936469ef609c98a1f979
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4929407231243017227
+    second: itachiSpecialKick_0
+  - first:
+      213: -7169746358780796267
+    second: itachiSpecialKick_1
+  - first:
+      213: 1652479353006232657
+    second: itachiSpecialKick_2
+  - first:
+      213: -941630216907401061
+    second: itachiSpecialKick_3
+  - first:
+      213: -8915523626537206668
+    second: itachiSpecialKick_4
+  - first:
+      213: -8412195875210437711
+    second: itachiSpecialKick_5
+  - first:
+      213: -3653244285545658478
+    second: itachiSpecialKick_6
+  - first:
+      213: 6523862569973261016
+    second: itachiSpecialKick_7
+  - first:
+      213: -5214473205043453043
+    second: itachiSpecialKick_8
+  - first:
+      213: 8958101603845288947
+    second: itachiSpecialKick_9
+  - first:
+      213: -5202719446337639852
+    second: itachiSpecialKick_10
+  - first:
+      213: 4564234351470412704
+    second: itachiSpecialKick_11
+  - first:
+      213: -2927835728524010773
+    second: itachiSpecialKick_12
+  - first:
+      213: -3978053456857999876
+    second: itachiSpecialKick_13
+  - first:
+      213: 4419149626151821129
+    second: itachiSpecialKick_14
+  - first:
+      213: 4078212756998135801
+    second: itachiSpecialKick_15
+  - first:
+      213: 8500792931309175607
+    second: itachiSpecialKick_16
+  - first:
+      213: -6750572708151515331
+    second: itachiSpecialKick_17
+  - first:
+      213: 8520743601910593387
+    second: itachiSpecialKick_18
+  - first:
+      213: 6326839883508918794
+    second: itachiSpecialKick_19
+  - first:
+      213: -1437198329766940505
+    second: itachiSpecialKick_20
+  - first:
+      213: -4418960029963961145
+    second: itachiSpecialKick_21
+  - first:
+      213: -8322436091446858692
+    second: itachiSpecialKick_22
+  - first:
+      213: -6515497085611081865
+    second: itachiSpecialKick_23
+  - first:
+      213: 3579810924787627344
+    second: itachiSpecialKick_24
+  - first:
+      213: 4405864315792686525
+    second: itachiSpecialKick_25
+  - first:
+      213: 7186678976242361846
+    second: itachiSpecialKick_26
+  - first:
+      213: 8179560117306645835
+    second: itachiSpecialKick_27
+  - first:
+      213: 5920333846475897743
+    second: itachiSpecialKick_28
+  - first:
+      213: 2958956963963117291
+    second: itachiSpecialKick_29
+  - first:
+      213: 5884680110318129647
+    second: itachiSpecialKick_30
+  - first:
+      213: 5028490473984707962
+    second: itachiSpecialKick_31
+  - first:
+      213: -5818125886993559913
+    second: itachiSpecialKick_32
+  - first:
+      213: 8699789509090460944
+    second: itachiSpecialKick_33
+  - first:
+      213: 5402020739932609393
+    second: itachiSpecialKick_34
+  - first:
+      213: -1785835472148816905
+    second: itachiSpecialKick_35
+  - first:
+      213: 5353086539746398716
+    second: itachiSpecialKick_36
+  - first:
+      213: 6502778909670612876
+    second: itachiSpecialKick_37
+  - first:
+      213: -8496481414068872665
+    second: itachiSpecialKick_38
+  - first:
+      213: 1060327623094104578
+    second: itachiSpecialKick_39
+  - first:
+      213: 3935539451501069339
+    second: itachiSpecialKick_40
+  - first:
+      213: -7496154810934178704
+    second: itachiSpecialKick_41
+  - first:
+      213: 8143392029701294259
+    second: itachiSpecialKick_42
+  - first:
+      213: 8446842971956141444
+    second: itachiSpecialKick_43
+  - first:
+      213: -3696046883964209915
+    second: itachiSpecialKick_44
+  - first:
+      213: -5012527627325764021
+    second: itachiSpecialKick_45
+  - first:
+      213: 2986468946858141416
+    second: itachiSpecialKick_46
+  - first:
+      213: -8632058464106740971
+    second: itachiSpecialKick_47
+  - first:
+      213: 7282317775103775735
+    second: itachiSpecialKick_48
+  - first:
+      213: 1120083832183841713
+    second: itachiSpecialKick_49
+  - first:
+      213: 405594701150411716
+    second: itachiSpecialKick_50
+  - first:
+      213: -8777678747158722045
+    second: itachiSpecialKick_51
+  - first:
+      213: 8943264311319900151
+    second: itachiSpecialKick_52
+  - first:
+      213: 542822510864585852
+    second: itachiSpecialKick_53
+  - first:
+      213: -7639635136075560505
+    second: itachiSpecialKick_54
+  - first:
+      213: -3539689245279832963
+    second: itachiSpecialKick_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itachiSpecialKick_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 382
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c5b7b72c5c86440800000000000000
+      internalID: 4929407231243017227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 382
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59268337ca1ff7c90800000000000000
+      internalID: -7169746358780796267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 383
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1549a926739cee610800000000000000
+      internalID: 1652479353006232657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 385
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98d5738e48aee2f0800000000000000
+      internalID: -941630216907401061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 384
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cb5a58f72b54480800000000000000
+      internalID: -8915523626537206668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 382
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb5315db60e14b80800000000000000
+      internalID: -8412195875210437711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 382
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29743529da11d4dc0800000000000000
+      internalID: -3653244285545658478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 405
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d229b6417a698a50800000000000000
+      internalID: 6523862569973261016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 404
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a79a5f3872a7b0800000000000000
+      internalID: -5214473205043453043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 334
+        width: 88
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f33e0752f1915c70800000000000000
+      internalID: 8958101603845288947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 339
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a270f8a3a3cc7b0800000000000000
+      internalID: -5202719446337639852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 340
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a38707d5fa675f30800000000000000
+      internalID: 4564234351470412704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 352
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea11a0daec3e57d0800000000000000
+      internalID: -2927835728524010773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 352
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5d676257d1bc8c0800000000000000
+      internalID: -3978053456857999876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 360
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f541cdb29f35d30800000000000000
+      internalID: 4419149626151821129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 360
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff175b25e8b89830800000000000000
+      internalID: 4078212756998135801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 232
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c5d3c122e8f570800000000000000
+      internalID: 8500792931309175607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 243
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37ae2453e52152a0800000000000000
+      internalID: -6750572708151515331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 303
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67301e3923cf3670800000000000000
+      internalID: 8520743601910593387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 270
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aa25f5a537dc750800000000000000
+      internalID: 6326839883508918794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 316
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f472dbbb0e0ce0800000000000000
+      internalID: -1437198329766940505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 286
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3951f343bca2c0800000000000000
+      internalID: -4418960029963961145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 282
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c6b6f0874c08c80800000000000000
+      internalID: -8322436091446858692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 296
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ffe05dbed4495a0800000000000000
+      internalID: -6515497085611081865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 296
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0557707c11b0ea130800000000000000
+      internalID: 3579810924787627344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 232
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd746f7046c42d30800000000000000
+      internalID: 4405864315792686525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 265
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5a1b5c3763cb360800000000000000
+      internalID: 7186678976242361846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd30be692a38170800000000000000
+      internalID: 8179560117306645835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 133
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bfaee1440492250800000000000000
+      internalID: 5920333846475897743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 133
+        width: 55
+        height: 67
+      alignment: 9
+      pivot: {x: 0.53914934, y: 0.53213704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee90b67ea3501920800000000000000
+      internalID: 2958956963963117291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 120
+        width: 58
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4381264, y: 0.64354676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe19158c1659aa150800000000000000
+      internalID: 5884680110318129647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 121
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d4b4aa179c8c540800000000000000
+      internalID: 5028490473984707962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 124
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e8e3fd45dd14fa0800000000000000
+      internalID: -5818125886993559913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 28
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015c10e077cdbb870800000000000000
+      internalID: 8699789509090460944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd9f8ed35d7fa40800000000000000
+      internalID: 5402020739932609393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_35
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 20
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb174f89107737e0800000000000000
+      internalID: -1785835472148816905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_36
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 19
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1528598dbf94a40800000000000000
+      internalID: 5353086539746398716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 69
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f91d317f28e3a50800000000000000
+      internalID: 6502778909670612876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_38
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 63
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a57b19b2f661a80800000000000000
+      internalID: -8496481414068872665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 77
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202fe08fa5a07be00800000000000000
+      internalID: 1060327623094104578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 73
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14c14e9748dd9630800000000000000
+      internalID: 3935539451501069339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 69
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ccee07aee48f790800000000000000
+      internalID: -7496154810934178704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_42
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8c71dc7e3230170800000000000000
+      internalID: 8143392029701294259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 79
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d53f00ee6393570800000000000000
+      internalID: 8446842971956141444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_44
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 77
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505bf1801f005bcc0800000000000000
+      internalID: -3696046883964209915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_45
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 64
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e8a623eacef6ab0800000000000000
+      internalID: -5012527627325764021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_46
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 36
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6e6362fa1127920800000000000000
+      internalID: 2986468946858141416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 41
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513838ebf84c43880800000000000000
+      internalID: -8632058464106740971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 55
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d29ede6dff0560800000000000000
+      internalID: 7282317775103775735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 36
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e9f79f465b8f00800000000000000
+      internalID: 1120083832183841713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_50
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 55
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbd9d45b36f0a500800000000000000
+      internalID: 405594701150411716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 57
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30acb138fab6f2680800000000000000
+      internalID: -8777678747158722045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_52
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 58
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa6a8f18bdc1c70800000000000000
+      internalID: 8943264311319900151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_53
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 13
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c745b28923e788700800000000000000
+      internalID: 542822510864585852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c98f9cf1509af590800000000000000
+      internalID: -7639635136075560505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSpecialKick_55
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 27
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7433dfa26f70eec0800000000000000
+      internalID: -3539689245279832963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 98beccc33f6cafa478ee4ab95ebe2912
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      itachiSpecialKick_0: 4929407231243017227
+      itachiSpecialKick_1: -7169746358780796267
+      itachiSpecialKick_10: -5202719446337639852
+      itachiSpecialKick_11: 4564234351470412704
+      itachiSpecialKick_12: -2927835728524010773
+      itachiSpecialKick_13: -3978053456857999876
+      itachiSpecialKick_14: 4419149626151821129
+      itachiSpecialKick_15: 4078212756998135801
+      itachiSpecialKick_16: 8500792931309175607
+      itachiSpecialKick_17: -6750572708151515331
+      itachiSpecialKick_18: 8520743601910593387
+      itachiSpecialKick_19: 6326839883508918794
+      itachiSpecialKick_2: 1652479353006232657
+      itachiSpecialKick_20: -1437198329766940505
+      itachiSpecialKick_21: -4418960029963961145
+      itachiSpecialKick_22: -8322436091446858692
+      itachiSpecialKick_23: -6515497085611081865
+      itachiSpecialKick_24: 3579810924787627344
+      itachiSpecialKick_25: 4405864315792686525
+      itachiSpecialKick_26: 7186678976242361846
+      itachiSpecialKick_27: 8179560117306645835
+      itachiSpecialKick_28: 5920333846475897743
+      itachiSpecialKick_29: 2958956963963117291
+      itachiSpecialKick_3: -941630216907401061
+      itachiSpecialKick_30: 5884680110318129647
+      itachiSpecialKick_31: 5028490473984707962
+      itachiSpecialKick_32: -5818125886993559913
+      itachiSpecialKick_33: 8699789509090460944
+      itachiSpecialKick_34: 5402020739932609393
+      itachiSpecialKick_35: -1785835472148816905
+      itachiSpecialKick_36: 5353086539746398716
+      itachiSpecialKick_37: 6502778909670612876
+      itachiSpecialKick_38: -8496481414068872665
+      itachiSpecialKick_39: 1060327623094104578
+      itachiSpecialKick_4: -8915523626537206668
+      itachiSpecialKick_40: 3935539451501069339
+      itachiSpecialKick_41: -7496154810934178704
+      itachiSpecialKick_42: 8143392029701294259
+      itachiSpecialKick_43: 8446842971956141444
+      itachiSpecialKick_44: -3696046883964209915
+      itachiSpecialKick_45: -5012527627325764021
+      itachiSpecialKick_46: 2986468946858141416
+      itachiSpecialKick_47: -8632058464106740971
+      itachiSpecialKick_48: 7282317775103775735
+      itachiSpecialKick_49: 1120083832183841713
+      itachiSpecialKick_5: -8412195875210437711
+      itachiSpecialKick_50: 405594701150411716
+      itachiSpecialKick_51: -8777678747158722045
+      itachiSpecialKick_52: 8943264311319900151
+      itachiSpecialKick_53: 542822510864585852
+      itachiSpecialKick_54: -7639635136075560505
+      itachiSpecialKick_55: -3539689245279832963
+      itachiSpecialKick_6: -3653244285545658478
+      itachiSpecialKick_7: 6523862569973261016
+      itachiSpecialKick_8: -5214473205043453043
+      itachiSpecialKick_9: 8958101603845288947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

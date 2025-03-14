@@ -21,6 +21,13 @@ public class YellowRun : StateMachineBehaviour
     {
         float distance = Vector2.Distance(player.position, rb.transform.position);
         //auto following player
+        // hurt mode
+        if (yellowNinja.isHurt)
+        {
+            yellowNinja.Stop();
+            animator.SetTrigger("Hurt");
+            yellowNinja.isHurt = false;
+        }
         if(distance>= sword_range)
         {
             yellowNinja.FollowPlayer();
@@ -35,12 +42,6 @@ public class YellowRun : StateMachineBehaviour
         {
             animator.ResetTrigger("PlayerDetected");
             animator.SetTrigger("Activate");
-        }
-        // hurt mode
-        if (yellowNinja.isHurt)
-        {
-            yellowNinja.Stop();
-            animator.SetTrigger("Hurt");
         }
         // shooting attack
         if(yellowNinja.isPlayerOnRange && yellow_shoot.canShoot)
@@ -59,7 +60,6 @@ public class YellowRun : StateMachineBehaviour
         animator.ResetTrigger("SwordAttack");
         animator.ResetTrigger("Hurt");
         animator.ResetTrigger("Shoot");
-        yellowNinja.isHurt = false;
     }
 
 }

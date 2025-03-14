@@ -8,6 +8,8 @@ TagManager:
   - YellowNinja
   - NormalEnemy
   - PlayerKunai
+  - Wall
+  - ItachiKick
   layers:
   - Default
   - TransparentFX

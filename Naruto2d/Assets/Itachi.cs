@@ -16,6 +16,7 @@ public class Itachi : MonoBehaviour
     public string comingAnimation = "";
     public bool isAttacking = false;
     public bool isHurt = false;
+    public bool isSpecialKicking = false;// special bool for controlling player linear velocity for kicking skill
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -39,6 +40,10 @@ public class Itachi : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if(isSpecialKicking)
+        {
+            rb.linearVelocity = new Vector2(0f, 0f);
+        }
         if (!isAttacking)
         {
             rb.linearVelocity = new Vector2(speed * horizontal, rb.linearVelocity.y);

@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class FireballBody : MonoBehaviour
 {
-    [SerializeField] Fireball Fireball;
+    [SerializeField] private Fireball Fireball;
+    [SerializeField] private GameObject Fire_ball_body;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -17,9 +18,17 @@ public class FireballBody : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Fireball.hitSomething = true;
-        Fireball.burningPos = collision.gameObject.transform.position;
-        Fireball.BurningInitiator();
-        Destroy(gameObject);
+        if (!collision.CompareTag("Wall"))
+        {
+            Fireball.hitSomething = true;
+            Fireball.burningPos = collision.gameObject.transform.position;
+            Fireball.BurningInitiator();
+            Destroy(gameObject);
+
+        }
+        else
+        {
+            Destroy(Fire_ball_body);    
+        }
     }
 }

@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -14,6 +15,7 @@ public class YellowNinja : MonoBehaviour
     public bool isFacingRight = true;
     public bool isActivate = false;
     public bool isPlayerOnRange = false;
+    public bool kickHurt = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -75,11 +77,20 @@ public class YellowNinja : MonoBehaviour
             isPlayerOnRange = false;
         }
     }
+
+    //public IEnumerator LayingDown()
+    //{
+    //    yield return new WaitForSeconds(0.20f);
+        
+    //}
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("FireBall") || collision.CompareTag("PlayerKunai"))
+        if (collision.CompareTag("ItachiKick"))
         {
+            kickHurt = true;
+        }else if (collision.CompareTag("FireBall") || collision.CompareTag("PlayerKunai"))
+         {
             isHurt = true;
-        }
+         }
     }
 }
