@@ -197,6 +197,7 @@ GameObject:
   - component: {fileID: 288532583}
   - component: {fileID: 288532584}
   - component: {fileID: 288532585}
+  - component: {fileID: 288532586}
   m_Layer: 0
   m_Name: Itachi
   m_TagString: Player
@@ -404,6 +405,21 @@ MonoBehaviour:
   skillDamageBox: {fileID: 2128166225}
   enemyPos: {fileID: 454347094}
   spondingPos: 1.8
+--- !u!114 &288532586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 288532576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255c6c42e602ab049b72145d78b24667, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Flame: {fileID: 4027184745685081087, guid: 8411568a73330b442aa2c34cff7a3f89, type: 3}
+  EnemyTran: {fileID: 454347094}
+  itachi: {fileID: 288532582}
 --- !u!1 &454347089
 GameObject:
   m_ObjectHideFlags: 0

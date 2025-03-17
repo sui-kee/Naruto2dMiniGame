@@ -1,0 +1,1429 @@
+fileFormatVersion: 2
+guid: 4d52da36c984c084f97d4a883c071e79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2703693345835125176
+    second: Amaterasu_0
+  - first:
+      213: 4689084886404063809
+    second: Amaterasu_1
+  - first:
+      213: -6004662346134242042
+    second: Amaterasu_2
+  - first:
+      213: 3321738823503911052
+    second: Amaterasu_3
+  - first:
+      213: 2530719601458430161
+    second: Amaterasu_4
+  - first:
+      213: 6631854509296116226
+    second: Amaterasu_5
+  - first:
+      213: -425069167944597489
+    second: Amaterasu_6
+  - first:
+      213: -845927858475330123
+    second: Amaterasu_7
+  - first:
+      213: -5424245131276146503
+    second: Amaterasu_8
+  - first:
+      213: -3517227011359791773
+    second: Amaterasu_9
+  - first:
+      213: -4255113083376191960
+    second: Amaterasu_10
+  - first:
+      213: 4581980784940970906
+    second: Amaterasu_11
+  - first:
+      213: -2073938199699228181
+    second: Amaterasu_12
+  - first:
+      213: 289595177293976714
+    second: Amaterasu_13
+  - first:
+      213: 8131465590124733937
+    second: Amaterasu_14
+  - first:
+      213: 4702318271106120501
+    second: Amaterasu_15
+  - first:
+      213: 5832133335275006530
+    second: Amaterasu_16
+  - first:
+      213: -3658317650686015999
+    second: Amaterasu_17
+  - first:
+      213: 4385136866784983059
+    second: Amaterasu_18
+  - first:
+      213: -3501321093552544833
+    second: Amaterasu_19
+  - first:
+      213: 877727611525260973
+    second: Amaterasu_20
+  - first:
+      213: 1253621642108028876
+    second: Amaterasu_21
+  - first:
+      213: 3641721009411924488
+    second: Amaterasu_22
+  - first:
+      213: 4434336300236867323
+    second: Amaterasu_23
+  - first:
+      213: -6682241827336595469
+    second: Amaterasu_24
+  - first:
+      213: -5704105286471275593
+    second: Amaterasu_25
+  - first:
+      213: 7491015469833585100
+    second: Amaterasu_26
+  - first:
+      213: 8481186181402265105
+    second: Amaterasu_27
+  - first:
+      213: 5104444828190131106
+    second: Amaterasu_28
+  - first:
+      213: -8023662550583635187
+    second: Amaterasu_29
+  - first:
+      213: -1168583638217865665
+    second: Amaterasu_30
+  - first:
+      213: 4207552713478041207
+    second: Amaterasu_31
+  - first:
+      213: -5279580149166276325
+    second: Amaterasu_32
+  - first:
+      213: 6267684792091916831
+    second: Amaterasu_33
+  - first:
+      213: -4208401612254484696
+    second: Amaterasu_34
+  - first:
+      213: 6363953863662340526
+    second: Amaterasu_35
+  - first:
+      213: -7501733843872363009
+    second: Amaterasu_36
+  - first:
+      213: 3878448122754362854
+    second: Amaterasu_37
+  - first:
+      213: 6423514576155483936
+    second: Amaterasu_38
+  - first:
+      213: 6276439483435675906
+    second: Amaterasu_39
+  - first:
+      213: -6094040304250620030
+    second: Amaterasu_40
+  - first:
+      213: 1742813793836375277
+    second: Amaterasu_41
+  - first:
+      213: 3911958796930847108
+    second: Amaterasu_42
+  - first:
+      213: -7808881082237211939
+    second: Amaterasu_43
+  - first:
+      213: 394428198876016533
+    second: Amaterasu_44
+  - first:
+      213: -1927278760226948726
+    second: Amaterasu_45
+  - first:
+      213: 5454212745145766002
+    second: Amaterasu_46
+  - first:
+      213: -1025584575996509349
+    second: Amaterasu_47
+  - first:
+      213: -4072903559517210437
+    second: Amaterasu_48
+  - first:
+      213: -2894284903908948127
+    second: Amaterasu_49
+  - first:
+      213: 482966793809619917
+    second: Amaterasu_50
+  - first:
+      213: 1827059242989995526
+    second: Amaterasu_51
+  - first:
+      213: 5734414544191632014
+    second: Amaterasu_52
+  - first:
+      213: 7748806198620494740
+    second: Amaterasu_53
+  - first:
+      213: 6342903447236615455
+    second: Amaterasu_54
+  - first:
+      213: -5138244566181032787
+    second: Amaterasu_55
+  - first:
+      213: -1445027265264890905
+    second: Amaterasu_56
+  - first:
+      213: 2896323426219536036
+    second: Amaterasu_57
+  - first:
+      213: 2490616263033088174
+    second: Amaterasu_58
+  - first:
+      213: -3503633757858916620
+    second: Amaterasu_59
+  - first:
+      213: 4286496925896282817
+    second: Amaterasu_60
+  - first:
+      213: -1009182422946805633
+    second: Amaterasu_61
+  - first:
+      213: 3663024484027657335
+    second: Amaterasu_62
+  - first:
+      213: -414688691717827248
+    second: Amaterasu_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amaterasu_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 431
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846f8eb0a3d8a7ad0800000000000000
+      internalID: -2703693345835125176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 427
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14264cf3cd9f21140800000000000000
+      internalID: 4689084886404063809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 420
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d318609672baca0800000000000000
+      internalID: -6004662346134242042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 418
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8813935cdf291e20800000000000000
+      internalID: 3321738823503911052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 418
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d04c07b11cee1320800000000000000
+      internalID: 2530719601458430161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 418
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202eaa40a84190c50800000000000000
+      internalID: 6631854509296116226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 418
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0001b708d9d91af0800000000000000
+      internalID: -425069167944597489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 418
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b598f93819a244f0800000000000000
+      internalID: -845927858475330123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 318
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a4afbac539b4b0800000000000000
+      internalID: -5424245131276146503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 322
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ad711bac403fc0800000000000000
+      internalID: -3517227011359791773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 322
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826be3af13dc2f4c0800000000000000
+      internalID: -4255113083376191960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 320
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93721e5f37769f30800000000000000
+      internalID: 4581980784940970906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 320
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be970d01234e733e0800000000000000
+      internalID: -2073938199699228181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 339
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8416478749d40400800000000000000
+      internalID: 289595177293976714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 340
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f562b23fd4c8d070800000000000000
+      internalID: 8131465590124733937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 339
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bfb1abd8df14140800000000000000
+      internalID: 4702318271106120501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 342
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ae7c35e56efe050800000000000000
+      internalID: 5832133335275006530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 339
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1068153ba7b0b3dc0800000000000000
+      internalID: -3658317650686015999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 339
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31830343fb22bdc30800000000000000
+      internalID: 4385136866784983059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 339
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3e736240fc86fc0800000000000000
+      internalID: -3501321093552544833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 216
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e38ebc905e2c00800000000000000
+      internalID: 877727611525260973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc74794dd32c56110800000000000000
+      internalID: 1253621642108028876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 229
+        width: 55
+        height: 68
+      alignment: 9
+      pivot: {x: 0.55734366, y: 0.3144767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8022311a6fdf98230800000000000000
+      internalID: 3641721009411924488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 216
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf60d36fe5de98d30800000000000000
+      internalID: 4434336300236867323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 217
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d039bd2eb6936a090800000000000000
+      internalID: -8023662550583635187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 216
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36c0b95f5b58cfe0800000000000000
+      internalID: -1168583638217865665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 215
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee69c76ea346a30800000000000000
+      internalID: 4207552713478041207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 218
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea98192425e415850800000000000000
+      internalID: 6363953863662340526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 218
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd467c90dc74e790800000000000000
+      internalID: -7501733843872363009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 123
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017b68c4746a1750800000000000000
+      internalID: 6276439483435675906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2877a3281ae9d6ba0800000000000000
+      internalID: -6094040304250620030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 122
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec944369e7bf2810800000000000000
+      internalID: 1742813793836375277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 29
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4811703acc11a4630800000000000000
+      internalID: 3911958796930847108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaabf7670841a390800000000000000
+      internalID: -7808881082237211939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fe66b6b5a497500800000000000000
+      internalID: 394428198876016533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 29
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a897481cd2ee045e0800000000000000
+      internalID: -1927278760226948726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 33
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27052d3189141bb40800000000000000
+      internalID: 5454212745145766002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 33
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53cb9c034464c1f0800000000000000
+      internalID: -1025584575996509349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_48
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 33
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb87d82bac32a77c0800000000000000
+      internalID: -4072903559517210437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_50
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 33
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe4577db7d3b600800000000000000
+      internalID: 482966793809619917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_52
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 32
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82306d45abb49f40800000000000000
+      internalID: 5734414544191632014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_56
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 32
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebc12bbb5b32fbe0800000000000000
+      internalID: -1445027265264890905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8e5ed9b42709220800000000000000
+      internalID: 2490616263033088174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f690c709a7906fc0800000000000000
+      internalID: -3503633757858916620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_60
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c21ad64e32bc7b30800000000000000
+      internalID: 4286496925896282817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7800b6eee9aef1f0800000000000000
+      internalID: -1009182422946805633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ce6065c5da5d230800000000000000
+      internalID: 3663024484027657335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amaterasu_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05599cdf4dabe3af0800000000000000
+      internalID: -414688691717827248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b03b2b4d716af1b42a535b39ca49f7c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Amaterasu_0: -2703693345835125176
+      Amaterasu_1: 4689084886404063809
+      Amaterasu_10: -4255113083376191960
+      Amaterasu_11: 4581980784940970906
+      Amaterasu_12: -2073938199699228181
+      Amaterasu_13: 289595177293976714
+      Amaterasu_14: 8131465590124733937
+      Amaterasu_15: 4702318271106120501
+      Amaterasu_16: 5832133335275006530
+      Amaterasu_17: -3658317650686015999
+      Amaterasu_18: 4385136866784983059
+      Amaterasu_19: -3501321093552544833
+      Amaterasu_2: -6004662346134242042
+      Amaterasu_20: 877727611525260973
+      Amaterasu_21: 1253621642108028876
+      Amaterasu_22: 3641721009411924488
+      Amaterasu_23: 4434336300236867323
+      Amaterasu_24: -6682241827336595469
+      Amaterasu_25: -5704105286471275593
+      Amaterasu_26: 7491015469833585100
+      Amaterasu_27: 8481186181402265105
+      Amaterasu_28: 5104444828190131106
+      Amaterasu_29: -8023662550583635187
+      Amaterasu_3: 3321738823503911052
+      Amaterasu_30: -1168583638217865665
+      Amaterasu_31: 4207552713478041207
+      Amaterasu_32: -5279580149166276325
+      Amaterasu_33: 6267684792091916831
+      Amaterasu_34: -4208401612254484696
+      Amaterasu_35: 6363953863662340526
+      Amaterasu_36: -7501733843872363009
+      Amaterasu_37: 3878448122754362854
+      Amaterasu_38: 6423514576155483936
+      Amaterasu_39: 6276439483435675906
+      Amaterasu_4: 2530719601458430161
+      Amaterasu_40: -6094040304250620030
+      Amaterasu_41: 1742813793836375277
+      Amaterasu_42: 3911958796930847108
+      Amaterasu_43: -7808881082237211939
+      Amaterasu_44: 394428198876016533
+      Amaterasu_45: -1927278760226948726
+      Amaterasu_46: 5454212745145766002
+      Amaterasu_47: -1025584575996509349
+      Amaterasu_48: -4072903559517210437
+      Amaterasu_49: -2894284903908948127
+      Amaterasu_5: 6631854509296116226
+      Amaterasu_50: 482966793809619917
+      Amaterasu_51: 1827059242989995526
+      Amaterasu_52: 5734414544191632014
+      Amaterasu_53: 7748806198620494740
+      Amaterasu_54: 6342903447236615455
+      Amaterasu_55: -5138244566181032787
+      Amaterasu_56: -1445027265264890905
+      Amaterasu_57: 2896323426219536036
+      Amaterasu_58: 2490616263033088174
+      Amaterasu_59: -3503633757858916620
+      Amaterasu_6: -425069167944597489
+      Amaterasu_60: 4286496925896282817
+      Amaterasu_61: -1009182422946805633
+      Amaterasu_62: 3663024484027657335
+      Amaterasu_63: -414688691717827248
+      Amaterasu_7: -845927858475330123
+      Amaterasu_8: -5424245131276146503
+      Amaterasu_9: -3517227011359791773
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
