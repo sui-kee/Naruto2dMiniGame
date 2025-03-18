@@ -17,7 +17,7 @@ public class ItachiFireBallAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.F) && canShootFire)
+        if (Input.GetKeyDown(KeyCode.F) && canShootFire && !itachi.isAttacking)
         {
             itachi.isAttacking = true;
             canShootFire=false;

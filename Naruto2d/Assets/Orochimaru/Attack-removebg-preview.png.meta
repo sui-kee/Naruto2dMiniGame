@@ -1,199 +1,142 @@
 fileFormatVersion: 2
-guid: 4d52da36c984c084f97d4a883c071e79
+guid: 62e71b21ef29f2448a393bd2b84d3b04
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2703693345835125176
-    second: Amaterasu_0
+      213: 7612654665276472864
+    second: Attack-removebg-preview_0
   - first:
-      213: 4689084886404063809
-    second: Amaterasu_1
+      213: -7424287319644493308
+    second: Attack-removebg-preview_1
   - first:
-      213: -6004662346134242042
-    second: Amaterasu_2
+      213: 6348441991063983786
+    second: Attack-removebg-preview_2
   - first:
-      213: 3321738823503911052
-    second: Amaterasu_3
+      213: -7735618474099365232
+    second: Attack-removebg-preview_3
   - first:
-      213: 2530719601458430161
-    second: Amaterasu_4
+      213: -2125280448109490773
+    second: Attack-removebg-preview_4
   - first:
-      213: 6631854509296116226
-    second: Amaterasu_5
+      213: -3976445401911148613
+    second: Attack-removebg-preview_5
   - first:
-      213: -425069167944597489
-    second: Amaterasu_6
+      213: 4742021335655482172
+    second: Attack-removebg-preview_6
   - first:
-      213: -845927858475330123
-    second: Amaterasu_7
+      213: 206942626024095402
+    second: Attack-removebg-preview_7
   - first:
-      213: -5424245131276146503
-    second: Amaterasu_8
+      213: -3031470000557461306
+    second: Attack-removebg-preview_8
   - first:
-      213: -3517227011359791773
-    second: Amaterasu_9
+      213: 8465041100009782857
+    second: Attack-removebg-preview_9
   - first:
-      213: -4255113083376191960
-    second: Amaterasu_10
+      213: -6046103643834202830
+    second: Attack-removebg-preview_10
   - first:
-      213: 4581980784940970906
-    second: Amaterasu_11
+      213: 3060217202335687032
+    second: Attack-removebg-preview_11
   - first:
-      213: -2073938199699228181
-    second: Amaterasu_12
+      213: -2232498638132200832
+    second: Attack-removebg-preview_12
   - first:
-      213: 289595177293976714
-    second: Amaterasu_13
+      213: -33249749115735671
+    second: Attack-removebg-preview_13
   - first:
-      213: 8131465590124733937
-    second: Amaterasu_14
+      213: 7227986593944285531
+    second: Attack-removebg-preview_14
   - first:
-      213: 4702318271106120501
-    second: Amaterasu_15
+      213: 8107500212761069146
+    second: Attack-removebg-preview_15
   - first:
-      213: 5832133335275006530
-    second: Amaterasu_16
+      213: 5250826091342170244
+    second: Attack-removebg-preview_16
   - first:
-      213: -3658317650686015999
-    second: Amaterasu_17
+      213: -3766192551010758888
+    second: Attack-removebg-preview_17
   - first:
-      213: 4385136866784983059
-    second: Amaterasu_18
+      213: -884454654169088013
+    second: Attack-removebg-preview_18
   - first:
-      213: -3501321093552544833
-    second: Amaterasu_19
+      213: -4183633807689412460
+    second: Attack-removebg-preview_19
   - first:
-      213: 877727611525260973
-    second: Amaterasu_20
+      213: 1237845346459390350
+    second: Attack-removebg-preview_20
   - first:
-      213: 1253621642108028876
-    second: Amaterasu_21
+      213: 4150688665538461492
+    second: Attack-removebg-preview_21
   - first:
-      213: 3641721009411924488
-    second: Amaterasu_22
+      213: -3261421940963876596
+    second: Attack-removebg-preview_22
   - first:
-      213: 4434336300236867323
-    second: Amaterasu_23
+      213: -4726450044363986241
+    second: Attack-removebg-preview_23
   - first:
-      213: -6682241827336595469
-    second: Amaterasu_24
+      213: 7998381266529695007
+    second: Attack-removebg-preview_24
   - first:
-      213: -5704105286471275593
-    second: Amaterasu_25
+      213: 2146957135624871220
+    second: Attack-removebg-preview_25
   - first:
-      213: 7491015469833585100
-    second: Amaterasu_26
+      213: -3202630763467735491
+    second: Attack-removebg-preview_26
   - first:
-      213: 8481186181402265105
-    second: Amaterasu_27
+      213: 1545267465624786675
+    second: Attack-removebg-preview_27
   - first:
-      213: 5104444828190131106
-    second: Amaterasu_28
+      213: 821982513490918046
+    second: Attack-removebg-preview_28
   - first:
-      213: -8023662550583635187
-    second: Amaterasu_29
+      213: -2783985130969211243
+    second: Attack-removebg-preview_29
   - first:
-      213: -1168583638217865665
-    second: Amaterasu_30
+      213: 1414590759291987043
+    second: Attack-removebg-preview_30
   - first:
-      213: 4207552713478041207
-    second: Amaterasu_31
+      213: -3253544412261459106
+    second: Attack-removebg-preview_31
   - first:
-      213: -5279580149166276325
-    second: Amaterasu_32
+      213: -6644379084064729124
+    second: Attack-removebg-preview_32
   - first:
-      213: 6267684792091916831
-    second: Amaterasu_33
+      213: 5489162237719554951
+    second: Attack-removebg-preview_33
   - first:
-      213: -4208401612254484696
-    second: Amaterasu_34
+      213: -3531349678983738632
+    second: Attack-removebg-preview_34
   - first:
-      213: 6363953863662340526
-    second: Amaterasu_35
+      213: -6711241435036496384
+    second: Attack-removebg-preview_35
   - first:
-      213: -7501733843872363009
-    second: Amaterasu_36
+      213: -3906330031126087764
+    second: Attack-removebg-preview_36
   - first:
-      213: 3878448122754362854
-    second: Amaterasu_37
+      213: 7076042160562370615
+    second: Attack-removebg-preview_37
   - first:
-      213: 6423514576155483936
-    second: Amaterasu_38
+      213: -8916257596441900386
+    second: Attack-removebg-preview_38
   - first:
-      213: 6276439483435675906
-    second: Amaterasu_39
+      213: -7265749464521076462
+    second: Attack-removebg-preview_39
   - first:
-      213: -6094040304250620030
-    second: Amaterasu_40
+      213: -4152634789146340867
+    second: Attack-removebg-preview_40
   - first:
-      213: 1742813793836375277
-    second: Amaterasu_41
+      213: 1501880080718689388
+    second: Attack-removebg-preview_41
   - first:
-      213: 3911958796930847108
-    second: Amaterasu_42
+      213: -1001956055978866502
+    second: Attack-removebg-preview_42
   - first:
-      213: -7808881082237211939
-    second: Amaterasu_43
+      213: -7757010484764007433
+    second: Attack-removebg-preview_43
   - first:
-      213: 394428198876016533
-    second: Amaterasu_44
-  - first:
-      213: -1927278760226948726
-    second: Amaterasu_45
-  - first:
-      213: 5454212745145766002
-    second: Amaterasu_46
-  - first:
-      213: -1025584575996509349
-    second: Amaterasu_47
-  - first:
-      213: -4072903559517210437
-    second: Amaterasu_48
-  - first:
-      213: -2894284903908948127
-    second: Amaterasu_49
-  - first:
-      213: 482966793809619917
-    second: Amaterasu_50
-  - first:
-      213: 1827059242989995526
-    second: Amaterasu_51
-  - first:
-      213: 5734414544191632014
-    second: Amaterasu_52
-  - first:
-      213: 7748806198620494740
-    second: Amaterasu_53
-  - first:
-      213: 6342903447236615455
-    second: Amaterasu_54
-  - first:
-      213: -5138244566181032787
-    second: Amaterasu_55
-  - first:
-      213: -1445027265264890905
-    second: Amaterasu_56
-  - first:
-      213: 2896323426219536036
-    second: Amaterasu_57
-  - first:
-      213: 2490616263033088174
-    second: Amaterasu_58
-  - first:
-      213: -3503633757858916620
-    second: Amaterasu_59
-  - first:
-      213: 4286496925896282817
-    second: Amaterasu_60
-  - first:
-      213: -1009182422946805633
-    second: Amaterasu_61
-  - first:
-      213: 3663024484027657335
-    second: Amaterasu_62
-  - first:
-      213: -414688691717827248
-    second: Amaterasu_63
+      213: -5919723925275489857
+    second: Attack-removebg-preview_44
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -289,12 +232,100 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Amaterasu_0
+      name: Attack-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 431
-        width: 9
+        x: 3
+        y: 379
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e3681a51595a960800000000000000
+      internalID: 7612654665276472864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 379
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a2722b402a7f890800000000000000
+      internalID: -7424287319644493308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 379
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6da8afa523a1850800000000000000
+      internalID: 6348441991063983786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 414
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aab5d9bff85a490800000000000000
+      internalID: -7735618474099365232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 422
+        width: 18
         height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -304,965 +335,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 846f8eb0a3d8a7ad0800000000000000
-      internalID: -2703693345835125176
+      spriteID: badc95251bc7182e0800000000000000
+      internalID: -2125280448109490773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amaterasu_1
+      name: Attack-removebg-preview_5
       rect:
         serializedVersion: 2
-        x: 22
-        y: 427
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 14264cf3cd9f21140800000000000000
-      internalID: 4689084886404063809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_2
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 420
-        width: 33
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60d318609672baca0800000000000000
-      internalID: -6004662346134242042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_3
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 418
-        width: 52
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8813935cdf291e20800000000000000
-      internalID: 3321738823503911052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_4
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 418
-        width: 56
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d04c07b11cee1320800000000000000
-      internalID: 2530719601458430161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_5
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 418
-        width: 54
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 202eaa40a84190c50800000000000000
-      internalID: 6631854509296116226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_6
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 418
-        width: 55
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0001b708d9d91af0800000000000000
-      internalID: -425069167944597489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_7
-      rect:
-        serializedVersion: 2
-        x: 339
-        y: 418
-        width: 49
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b598f93819a244f0800000000000000
-      internalID: -845927858475330123
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_8
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 318
-        width: 30
-        height: 62
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b8a4afbac539b4b0800000000000000
-      internalID: -5424245131276146503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_9
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 322
-        width: 42
-        height: 61
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 365ad711bac403fc0800000000000000
-      internalID: -3517227011359791773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_10
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 322
-        width: 40
-        height: 55
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 826be3af13dc2f4c0800000000000000
-      internalID: -4255113083376191960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_11
-      rect:
-        serializedVersion: 2
-        x: 122
-        y: 320
-        width: 48
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a93721e5f37769f30800000000000000
-      internalID: 4581980784940970906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_12
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 320
-        width: 44
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be970d01234e733e0800000000000000
-      internalID: -2073938199699228181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_13
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 339
-        width: 32
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8416478749d40400800000000000000
-      internalID: 289595177293976714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_14
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 340
-        width: 28
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f562b23fd4c8d070800000000000000
-      internalID: 8131465590124733937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_15
-      rect:
-        serializedVersion: 2
-        x: 323
-        y: 339
-        width: 31
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53bfb1abd8df14140800000000000000
-      internalID: 4702318271106120501
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_16
-      rect:
-        serializedVersion: 2
-        x: 356
-        y: 342
-        width: 20
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 24ae7c35e56efe050800000000000000
-      internalID: 5832133335275006530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_17
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 339
-        width: 26
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1068153ba7b0b3dc0800000000000000
-      internalID: -3658317650686015999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_18
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 339
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31830343fb22bdc30800000000000000
-      internalID: 4385136866784983059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_19
-      rect:
-        serializedVersion: 2
-        x: 435
-        y: 339
-        width: 27
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb3e736240fc86fc0800000000000000
-      internalID: -3501321093552544833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_20
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 216
-        width: 26
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da6e38ebc905e2c00800000000000000
-      internalID: 877727611525260973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_21
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 216
-        width: 49
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc74794dd32c56110800000000000000
-      internalID: 1253621642108028876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_22
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 229
-        width: 55
-        height: 68
-      alignment: 9
-      pivot: {x: 0.55734366, y: 0.3144767}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8022311a6fdf98230800000000000000
-      internalID: 3641721009411924488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_23
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 216
-        width: 58
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf60d36fe5de98d30800000000000000
-      internalID: 4434336300236867323
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_29
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 217
-        width: 51
-        height: 69
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d039bd2eb6936a090800000000000000
-      internalID: -8023662550583635187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_30
-      rect:
-        serializedVersion: 2
-        x: 389
-        y: 216
-        width: 55
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f36c0b95f5b58cfe0800000000000000
-      internalID: -1168583638217865665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_31
-      rect:
-        serializedVersion: 2
-        x: 447
-        y: 215
-        width: 49
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77ee69c76ea346a30800000000000000
-      internalID: 4207552713478041207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_35
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 218
-        width: 60
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea98192425e415850800000000000000
-      internalID: 6363953863662340526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_36
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 218
-        width: 60
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffd467c90dc74e790800000000000000
-      internalID: -7501733843872363009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_39
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 123
-        width: 43
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2017b68c4746a1750800000000000000
-      internalID: 6276439483435675906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_40
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 123
-        width: 41
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2877a3281ae9d6ba0800000000000000
-      internalID: -6094040304250620030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_41
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 122
-        width: 43
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dec944369e7bf2810800000000000000
-      internalID: 1742813793836375277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_42
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 29
-        width: 43
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4811703acc11a4630800000000000000
-      internalID: 3911958796930847108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_43
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 29
-        width: 41
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ddaabf7670841a390800000000000000
-      internalID: -7808881082237211939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_44
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 30
-        width: 43
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 59fe66b6b5a497500800000000000000
-      internalID: 394428198876016533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_45
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 29
+        x: 189
+        y: 413
         width: 47
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a897481cd2ee045e0800000000000000
-      internalID: -1927278760226948726
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_46
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 33
-        width: 50
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27052d3189141bb40800000000000000
-      internalID: 5454212745145766002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_47
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 33
-        width: 47
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b53cb9c034464c1f0800000000000000
-      internalID: -1025584575996509349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_48
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 33
-        width: 49
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb87d82bac32a77c0800000000000000
-      internalID: -4072903559517210437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_50
-      rect:
-        serializedVersion: 2
-        x: 372
-        y: 33
-        width: 47
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dcbe4577db7d3b600800000000000000
-      internalID: 482966793809619917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_52
-      rect:
-        serializedVersion: 2
-        x: 424
-        y: 32
-        width: 36
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e82306d45abb49f40800000000000000
-      internalID: 5734414544191632014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_56
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 32
-        width: 34
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ebc12bbb5b32fbe0800000000000000
-      internalID: -1445027265264890905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_58
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 7
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea8e5ed9b42709220800000000000000
-      internalID: 2490616263033088174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_59
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 7
-        width: 15
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f690c709a7906fc0800000000000000
-      internalID: -3503633757858916620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_60
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 7
-        width: 15
         height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1272,63 +357,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c21ad64e32bc7b30800000000000000
-      internalID: 4286496925896282817
+      spriteID: bbfb95e99f3d0d8c0800000000000000
+      internalID: -3976445401911148613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Amaterasu_61
+      name: Attack-removebg-preview_6
       rect:
         serializedVersion: 2
-        x: 62
-        y: 7
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7800b6eee9aef1f0800000000000000
-      internalID: -1009182422946805633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_62
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 7
-        width: 15
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77ce6065c5da5d230800000000000000
-      internalID: 3663024484027657335
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Amaterasu_63
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 7
-        width: 15
+        x: 237
+        y: 413
+        width: 28
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1338,8 +379,844 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 05599cdf4dabe3af0800000000000000
-      internalID: -414688691717827248
+      spriteID: c33811dc74b0fc140800000000000000
+      internalID: 4742021335655482172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 315
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae7d01d8353fd200800000000000000
+      internalID: 206942626024095402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 315
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0f48d881e0ee5d0800000000000000
+      internalID: -3031470000557461306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 315
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3a2fd70ed97570800000000000000
+      internalID: 8465041100009782857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 315
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235411205cce71ca0800000000000000
+      internalID: -6046103643834202830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 359
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87122c0f453187a20800000000000000
+      internalID: 3060217202335687032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 353
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a369021529401e0800000000000000
+      internalID: -2232498638132200832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 354
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981f513878fd98ff0800000000000000
+      internalID: -33249749115735671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 251
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b55df287fe4460800000000000000
+      internalID: 7227986593944285531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 251
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a560706fc70a38070800000000000000
+      internalID: 8107500212761069146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 251
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4888dcf828eaed840800000000000000
+      internalID: 5250826091342170244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 251
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f084934dbcbbbc0800000000000000
+      internalID: -3766192551010758888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 251
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff7f469d29c9b3f0800000000000000
+      internalID: -884454654169088013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 279
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909b5eb73fb0f5c0800000000000000
+      internalID: -4183633807689412460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 273
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e811592c8c5bd2110800000000000000
+      internalID: 1237845346459390350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 273
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ff8aa99553a9930800000000000000
+      internalID: 4150688665538461492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 269
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01ee22460a1db2d0800000000000000
+      internalID: -3261421940963876596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba2e09f9b6486eb0800000000000000
+      internalID: -4726450044363986241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 163
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1534a97265fffe60800000000000000
+      internalID: 7998381266529695007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 163
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d19e8c3268bcd10800000000000000
+      internalID: 2146957135624871220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 185
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e74c4f948fd83d0800000000000000
+      internalID: -3202630763467735491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 187
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f69883a294e17510800000000000000
+      internalID: 1545267465624786675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 163
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a7530bdb4486b00800000000000000
+      internalID: 821982513490918046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 178
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e5c98064c4d59d0800000000000000
+      internalID: -2783985130969211243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 104
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364262efcc2a1a310800000000000000
+      internalID: 1414590759291987043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 104
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd236589619d2d0800000000000000
+      internalID: -3253544412261459106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 104
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7594d2d6c6ac3a0800000000000000
+      internalID: -6644379084064729124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 103
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b23cde8fb6d2c40800000000000000
+      internalID: 5489162237719554951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 117
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa0c764d202efec0800000000000000
+      internalID: -3531349678983738632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 98
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e44c6f871ecd2a0800000000000000
+      internalID: -6711241435036496384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 107
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f947888de9c9c0800000000000000
+      internalID: -3906330031126087764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 47
+        width: 35
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738f104cad6233260800000000000000
+      internalID: 7076042160562370615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 47
+        width: 42
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ac336d4f6134480800000000000000
+      internalID: -8916257596441900386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 47
+        width: 39
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2119c3c8b5fda2b90800000000000000
+      internalID: -7265749464521076462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 46
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1d00f29a0ee56c0800000000000000
+      internalID: -4152634789146340867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 47
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64f872e9ffb7d410800000000000000
+      internalID: 1501880080718689388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 43
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab804d296465812f0800000000000000
+      internalID: -1001956055978866502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 24
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f329a00010995490800000000000000
+      internalID: -7757010484764007433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 34
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9c299347ae8dda0800000000000000
+      internalID: -5919723925275489857
       vertices: []
       indices: 
       edges: []
@@ -1348,7 +1225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b03b2b4d716af1b42a535b39ca49f7c3
+    spriteID: aac7d9b3b4958ef4ba514c41175b0492
     internalID: 0
     vertices: []
     indices: 
@@ -1358,70 +1235,51 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Amaterasu_0: -2703693345835125176
-      Amaterasu_1: 4689084886404063809
-      Amaterasu_10: -4255113083376191960
-      Amaterasu_11: 4581980784940970906
-      Amaterasu_12: -2073938199699228181
-      Amaterasu_13: 289595177293976714
-      Amaterasu_14: 8131465590124733937
-      Amaterasu_15: 4702318271106120501
-      Amaterasu_16: 5832133335275006530
-      Amaterasu_17: -3658317650686015999
-      Amaterasu_18: 4385136866784983059
-      Amaterasu_19: -3501321093552544833
-      Amaterasu_2: -6004662346134242042
-      Amaterasu_20: 877727611525260973
-      Amaterasu_21: 1253621642108028876
-      Amaterasu_22: 3641721009411924488
-      Amaterasu_23: 4434336300236867323
-      Amaterasu_24: -6682241827336595469
-      Amaterasu_25: -5704105286471275593
-      Amaterasu_26: 7491015469833585100
-      Amaterasu_27: 8481186181402265105
-      Amaterasu_28: 5104444828190131106
-      Amaterasu_29: -8023662550583635187
-      Amaterasu_3: 3321738823503911052
-      Amaterasu_30: -1168583638217865665
-      Amaterasu_31: 4207552713478041207
-      Amaterasu_32: -5279580149166276325
-      Amaterasu_33: 6267684792091916831
-      Amaterasu_34: -4208401612254484696
-      Amaterasu_35: 6363953863662340526
-      Amaterasu_36: -7501733843872363009
-      Amaterasu_37: 3878448122754362854
-      Amaterasu_38: 6423514576155483936
-      Amaterasu_39: 6276439483435675906
-      Amaterasu_4: 2530719601458430161
-      Amaterasu_40: -6094040304250620030
-      Amaterasu_41: 1742813793836375277
-      Amaterasu_42: 3911958796930847108
-      Amaterasu_43: -7808881082237211939
-      Amaterasu_44: 394428198876016533
-      Amaterasu_45: -1927278760226948726
-      Amaterasu_46: 5454212745145766002
-      Amaterasu_47: -1025584575996509349
-      Amaterasu_48: -4072903559517210437
-      Amaterasu_49: -2894284903908948127
-      Amaterasu_5: 6631854509296116226
-      Amaterasu_50: 482966793809619917
-      Amaterasu_51: 1827059242989995526
-      Amaterasu_52: 5734414544191632014
-      Amaterasu_53: 7748806198620494740
-      Amaterasu_54: 6342903447236615455
-      Amaterasu_55: -5138244566181032787
-      Amaterasu_56: -1445027265264890905
-      Amaterasu_57: 2896323426219536036
-      Amaterasu_58: 2490616263033088174
-      Amaterasu_59: -3503633757858916620
-      Amaterasu_6: -425069167944597489
-      Amaterasu_60: 4286496925896282817
-      Amaterasu_61: -1009182422946805633
-      Amaterasu_62: 3663024484027657335
-      Amaterasu_63: -414688691717827248
-      Amaterasu_7: -845927858475330123
-      Amaterasu_8: -5424245131276146503
-      Amaterasu_9: -3517227011359791773
+      Attack-removebg-preview_0: 7612654665276472864
+      Attack-removebg-preview_1: -7424287319644493308
+      Attack-removebg-preview_10: -6046103643834202830
+      Attack-removebg-preview_11: 3060217202335687032
+      Attack-removebg-preview_12: -2232498638132200832
+      Attack-removebg-preview_13: -33249749115735671
+      Attack-removebg-preview_14: 7227986593944285531
+      Attack-removebg-preview_15: 8107500212761069146
+      Attack-removebg-preview_16: 5250826091342170244
+      Attack-removebg-preview_17: -3766192551010758888
+      Attack-removebg-preview_18: -884454654169088013
+      Attack-removebg-preview_19: -4183633807689412460
+      Attack-removebg-preview_2: 6348441991063983786
+      Attack-removebg-preview_20: 1237845346459390350
+      Attack-removebg-preview_21: 4150688665538461492
+      Attack-removebg-preview_22: -3261421940963876596
+      Attack-removebg-preview_23: -4726450044363986241
+      Attack-removebg-preview_24: 7998381266529695007
+      Attack-removebg-preview_25: 2146957135624871220
+      Attack-removebg-preview_26: -3202630763467735491
+      Attack-removebg-preview_27: 1545267465624786675
+      Attack-removebg-preview_28: 821982513490918046
+      Attack-removebg-preview_29: -2783985130969211243
+      Attack-removebg-preview_3: -7735618474099365232
+      Attack-removebg-preview_30: 1414590759291987043
+      Attack-removebg-preview_31: -3253544412261459106
+      Attack-removebg-preview_32: -6644379084064729124
+      Attack-removebg-preview_33: 5489162237719554951
+      Attack-removebg-preview_34: -3531349678983738632
+      Attack-removebg-preview_35: -6711241435036496384
+      Attack-removebg-preview_36: -3906330031126087764
+      Attack-removebg-preview_37: 7076042160562370615
+      Attack-removebg-preview_38: -8916257596441900386
+      Attack-removebg-preview_39: -7265749464521076462
+      Attack-removebg-preview_4: -2125280448109490773
+      Attack-removebg-preview_40: -4152634789146340867
+      Attack-removebg-preview_41: 1501880080718689388
+      Attack-removebg-preview_42: -1001956055978866502
+      Attack-removebg-preview_43: -7757010484764007433
+      Attack-removebg-preview_44: -5919723925275489857
+      Attack-removebg-preview_5: -3976445401911148613
+      Attack-removebg-preview_6: 4742021335655482172
+      Attack-removebg-preview_7: 206942626024095402
+      Attack-removebg-preview_8: -3031470000557461306
+      Attack-removebg-preview_9: 8465041100009782857
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
