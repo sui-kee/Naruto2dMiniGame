@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 1cfc89db0f1779b42ad4ea19a1f5556f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3397345810611633699
+    second: OrochimaruSnake1-removebg-preview_0
+  - first:
+      213: -4072597097013529644
+    second: OrochimaruSnake1-removebg-preview_1
+  - first:
+      213: -2982338152225696764
+    second: OrochimaruSnake1-removebg-preview_2
+  - first:
+      213: 5654029704470237417
+    second: OrochimaruSnake1-removebg-preview_3
+  - first:
+      213: 4416755121275308226
+    second: OrochimaruSnake1-removebg-preview_4
+  - first:
+      213: 4509201633328338322
+    second: OrochimaruSnake1-removebg-preview_5
+  - first:
+      213: -7010339539251303009
+    second: OrochimaruSnake1-removebg-preview_6
+  - first:
+      213: 4198979467056283496
+    second: OrochimaruSnake1-removebg-preview_7
+  - first:
+      213: -6591034160020834848
+    second: OrochimaruSnake1-removebg-preview_8
+  - first:
+      213: -333975683115485533
+    second: OrochimaruSnake1-removebg-preview_9
+  - first:
+      213: -1829276526352702078
+    second: OrochimaruSnake1-removebg-preview_10
+  - first:
+      213: 8019605702068093644
+    second: OrochimaruSnake1-removebg-preview_11
+  - first:
+      213: 6138423890296263629
+    second: OrochimaruSnake1-removebg-preview_12
+  - first:
+      213: 4752883744735743246
+    second: OrochimaruSnake1-removebg-preview_13
+  - first:
+      213: 4279441491965851713
+    second: OrochimaruSnake1-removebg-preview_14
+  - first:
+      213: -7523637070158269822
+    second: OrochimaruSnake1-removebg-preview_15
+  - first:
+      213: 6466715150556096864
+    second: OrochimaruSnake1-removebg-preview_16
+  - first:
+      213: 3840317911474015781
+    second: OrochimaruSnake1-removebg-preview_17
+  - first:
+      213: -735629755105007945
+    second: OrochimaruSnake1-removebg-preview_18
+  - first:
+      213: 7049120447837945321
+    second: OrochimaruSnake1-removebg-preview_19
+  - first:
+      213: 8003635602872525495
+    second: OrochimaruSnake1-removebg-preview_20
+  - first:
+      213: 5006849273984795193
+    second: OrochimaruSnake1-removebg-preview_21
+  - first:
+      213: -3220018552686596486
+    second: OrochimaruSnake1-removebg-preview_22
+  - first:
+      213: 1792570015731915700
+    second: OrochimaruSnake1-removebg-preview_23
+  - first:
+      213: -1205195012928823750
+    second: OrochimaruSnake1-removebg-preview_24
+  - first:
+      213: 6996820380373215009
+    second: OrochimaruSnake1-removebg-preview_25
+  - first:
+      213: 4734522745326237936
+    second: OrochimaruSnake1-removebg-preview_26
+  - first:
+      213: -1101590921310480030
+    second: OrochimaruSnake1-removebg-preview_27
+  - first:
+      213: -6186106970027450610
+    second: OrochimaruSnake1-removebg-preview_28
+  - first:
+      213: -7538610624978158944
+    second: OrochimaruSnake1-removebg-preview_29
+  - first:
+      213: 8103817566744683038
+    second: OrochimaruSnake1-removebg-preview_30
+  - first:
+      213: 8162567353368305632
+    second: OrochimaruSnake1-removebg-preview_31
+  - first:
+      213: -5908441929878030926
+    second: OrochimaruSnake1-removebg-preview_32
+  - first:
+      213: -814257118041972654
+    second: OrochimaruSnake1-removebg-preview_33
+  - first:
+      213: -164478423997096924
+    second: OrochimaruSnake1-removebg-preview_34
+  - first:
+      213: -3932558388269612893
+    second: OrochimaruSnake1-removebg-preview_35
+  - first:
+      213: 5203169586169458042
+    second: OrochimaruSnake1-removebg-preview_36
+  - first:
+      213: 8927567225391934095
+    second: OrochimaruSnake1-removebg-preview_37
+  - first:
+      213: 6813715172332753552
+    second: OrochimaruSnake1-removebg-preview_38
+  - first:
+      213: -7971951028378274878
+    second: OrochimaruSnake1-removebg-preview_39
+  - first:
+      213: 267252734926273141
+    second: OrochimaruSnake1-removebg-preview_40
+  - first:
+      213: -600234552189761131
+    second: OrochimaruSnake1-removebg-preview_41
+  - first:
+      213: -5335044288044378012
+    second: OrochimaruSnake1-removebg-preview_42
+  - first:
+      213: -3717991092495571182
+    second: OrochimaruSnake1-removebg-preview_43
+  - first:
+      213: -243501042683080384
+    second: OrochimaruSnake1-removebg-preview_44
+  - first:
+      213: -4453463678624861363
+    second: OrochimaruSnake1-removebg-preview_45
+  - first:
+      213: 7670363832667516271
+    second: OrochimaruSnake1-removebg-preview_46
+  - first:
+      213: -4904777102319989190
+    second: OrochimaruSnake1-removebg-preview_47
+  - first:
+      213: -4914586146306482859
+    second: OrochimaruSnake1-removebg-preview_48
+  - first:
+      213: -7722100349977831479
+    second: OrochimaruSnake1-removebg-preview_49
+  - first:
+      213: -7851410749580876507
+    second: OrochimaruSnake1-removebg-preview_50
+  - first:
+      213: -5884591317425376414
+    second: OrochimaruSnake1-removebg-preview_51
+  - first:
+      213: 4522309119288090638
+    second: OrochimaruSnake1-removebg-preview_52
+  - first:
+      213: -3802445147383679787
+    second: OrochimaruSnake1-removebg-preview_53
+  - first:
+      213: 1166660208196566475
+    second: OrochimaruSnake1-removebg-preview_54
+  - first:
+      213: -7463437594453016385
+    second: OrochimaruSnake1-removebg-preview_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 200
+        width: 107
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd105533cf33ad0d0800000000000000
+      internalID: -3397345810611633699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 103
+        width: 143
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3b83f848a3b77c0800000000000000
+      internalID: -4072597097013529644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 103
+        width: 148
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dec08d45546be90800000000000000
+      internalID: -7010339539251303009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 107
+        width: 147
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e1e496589464fe0800000000000000
+      internalID: -1205195012928823750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 139
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae7e9571715eb70800000000000000
+      internalID: 8927567225391934095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 151
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f577316e1232c0800000000000000
+      internalID: -4453463678624861363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 719d2ee9b01e53a45a38de0c30c1f390
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OrochimaruSnake1-removebg-preview_0: -3397345810611633699
+      OrochimaruSnake1-removebg-preview_1: -4072597097013529644
+      OrochimaruSnake1-removebg-preview_10: -1829276526352702078
+      OrochimaruSnake1-removebg-preview_11: 8019605702068093644
+      OrochimaruSnake1-removebg-preview_12: 6138423890296263629
+      OrochimaruSnake1-removebg-preview_13: 4752883744735743246
+      OrochimaruSnake1-removebg-preview_14: 4279441491965851713
+      OrochimaruSnake1-removebg-preview_15: -7523637070158269822
+      OrochimaruSnake1-removebg-preview_16: 6466715150556096864
+      OrochimaruSnake1-removebg-preview_17: 3840317911474015781
+      OrochimaruSnake1-removebg-preview_18: -735629755105007945
+      OrochimaruSnake1-removebg-preview_19: 7049120447837945321
+      OrochimaruSnake1-removebg-preview_2: -2982338152225696764
+      OrochimaruSnake1-removebg-preview_20: 8003635602872525495
+      OrochimaruSnake1-removebg-preview_21: 5006849273984795193
+      OrochimaruSnake1-removebg-preview_22: -3220018552686596486
+      OrochimaruSnake1-removebg-preview_23: 1792570015731915700
+      OrochimaruSnake1-removebg-preview_24: -1205195012928823750
+      OrochimaruSnake1-removebg-preview_25: 6996820380373215009
+      OrochimaruSnake1-removebg-preview_26: 4734522745326237936
+      OrochimaruSnake1-removebg-preview_27: -1101590921310480030
+      OrochimaruSnake1-removebg-preview_28: -6186106970027450610
+      OrochimaruSnake1-removebg-preview_29: -7538610624978158944
+      OrochimaruSnake1-removebg-preview_3: 5654029704470237417
+      OrochimaruSnake1-removebg-preview_30: 8103817566744683038
+      OrochimaruSnake1-removebg-preview_31: 8162567353368305632
+      OrochimaruSnake1-removebg-preview_32: -5908441929878030926
+      OrochimaruSnake1-removebg-preview_33: -814257118041972654
+      OrochimaruSnake1-removebg-preview_34: -164478423997096924
+      OrochimaruSnake1-removebg-preview_35: -3932558388269612893
+      OrochimaruSnake1-removebg-preview_36: 5203169586169458042
+      OrochimaruSnake1-removebg-preview_37: 8927567225391934095
+      OrochimaruSnake1-removebg-preview_38: 6813715172332753552
+      OrochimaruSnake1-removebg-preview_39: -7971951028378274878
+      OrochimaruSnake1-removebg-preview_4: 4416755121275308226
+      OrochimaruSnake1-removebg-preview_40: 267252734926273141
+      OrochimaruSnake1-removebg-preview_41: -600234552189761131
+      OrochimaruSnake1-removebg-preview_42: -5335044288044378012
+      OrochimaruSnake1-removebg-preview_43: -3717991092495571182
+      OrochimaruSnake1-removebg-preview_44: -243501042683080384
+      OrochimaruSnake1-removebg-preview_45: -4453463678624861363
+      OrochimaruSnake1-removebg-preview_46: 7670363832667516271
+      OrochimaruSnake1-removebg-preview_47: -4904777102319989190
+      OrochimaruSnake1-removebg-preview_48: -4914586146306482859
+      OrochimaruSnake1-removebg-preview_49: -7722100349977831479
+      OrochimaruSnake1-removebg-preview_5: 4509201633328338322
+      OrochimaruSnake1-removebg-preview_50: -7851410749580876507
+      OrochimaruSnake1-removebg-preview_51: -5884591317425376414
+      OrochimaruSnake1-removebg-preview_52: 4522309119288090638
+      OrochimaruSnake1-removebg-preview_53: -3802445147383679787
+      OrochimaruSnake1-removebg-preview_54: 1166660208196566475
+      OrochimaruSnake1-removebg-preview_55: -7463437594453016385
+      OrochimaruSnake1-removebg-preview_6: -7010339539251303009
+      OrochimaruSnake1-removebg-preview_7: 4198979467056283496
+      OrochimaruSnake1-removebg-preview_8: -6591034160020834848
+      OrochimaruSnake1-removebg-preview_9: -333975683115485533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

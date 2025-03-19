@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 46b61846462515549a3b841a79db3704
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -389459103734929717
+    second: ItachiHurt-removebg-preview_0
+  - first:
+      213: 8565087545474372439
+    second: ItachiHurt-removebg-preview_1
+  - first:
+      213: -8429266813099503487
+    second: ItachiHurt-removebg-preview_2
+  - first:
+      213: -9114151935907739843
+    second: ItachiHurt-removebg-preview_3
+  - first:
+      213: 6715388449168020086
+    second: ItachiHurt-removebg-preview_4
+  - first:
+      213: -5874396430087773100
+    second: ItachiHurt-removebg-preview_5
+  - first:
+      213: -9025573808919372487
+    second: ItachiHurt-removebg-preview_6
+  - first:
+      213: 7842469537350319766
+    second: ItachiHurt-removebg-preview_7
+  - first:
+      213: -6694689349678975195
+    second: ItachiHurt-removebg-preview_8
+  - first:
+      213: -5189810502964378082
+    second: ItachiHurt-removebg-preview_9
+  - first:
+      213: 2650648609141364540
+    second: ItachiHurt-removebg-preview_10
+  - first:
+      213: 1382500815478283557
+    second: ItachiHurt-removebg-preview_11
+  - first:
+      213: 5086181905405782625
+    second: ItachiHurt-removebg-preview_12
+  - first:
+      213: -5069646766966027760
+    second: ItachiHurt-removebg-preview_13
+  - first:
+      213: 5094669033558763745
+    second: ItachiHurt-removebg-preview_14
+  - first:
+      213: -4690562597284628608
+    second: ItachiHurt-removebg-preview_15
+  - first:
+      213: 4594488353527906541
+    second: ItachiHurt-removebg-preview_16
+  - first:
+      213: 31085459723981495
+    second: ItachiHurt-removebg-preview_17
+  - first:
+      213: -8419087323418143323
+    second: ItachiHurt-removebg-preview_18
+  - first:
+      213: -4449878131409849912
+    second: ItachiHurt-removebg-preview_19
+  - first:
+      213: -1718447839103444231
+    second: ItachiHurt-removebg-preview_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 325
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc66653320d589af0800000000000000
+      internalID: -389459103734929717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 325
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7535f1a2ebd4dd670800000000000000
+      internalID: 8565087545474372439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 325
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18017306e7a350b80800000000000000
+      internalID: -8429266813099503487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 325
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c7476a17048180800000000000000
+      internalID: -9114151935907739843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 220
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672db61073ad13d50800000000000000
+      internalID: 6715388449168020086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 220
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454abca1293f97ea0800000000000000
+      internalID: -5874396430087773100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 220
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d9a49b078beb280800000000000000
+      internalID: -9025573808919372487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 220
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e76973e7c06dc60800000000000000
+      internalID: 7842469537350319766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 220
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5273bc6a18fa713a0800000000000000
+      internalID: -6694689349678975195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 221
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16873728d61af7b0800000000000000
+      internalID: -5189810502964378082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 121
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c371144cddef8c420800000000000000
+      internalID: 2650648609141364540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 121
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d5548ba21af2310800000000000000
+      internalID: 1382500815478283557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 121
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a2bb6ce7fb59640800000000000000
+      internalID: 5086181905405782625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 121
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a4846202ff4a9b0800000000000000
+      internalID: -5069646766966027760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 121
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8e3794e76e3b640800000000000000
+      internalID: 5094669033558763745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087bd106b26c7eeb0800000000000000
+      internalID: -4690562597284628608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 20
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de043bc90d6e2cf30800000000000000
+      internalID: 4594488353527906541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 20
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b217889f007e6000800000000000000
+      internalID: 31085459723981495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 23
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5daa28fa4692b80800000000000000
+      internalID: -8419087323418143323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 23
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1798b7a6bde32c0800000000000000
+      internalID: -4449878131409849912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ItachiHurt-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa93398bc8d628e0800000000000000
+      internalID: -1718447839103444231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e959b76cd7c86484a8f1503cc729a382
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ItachiHurt-removebg-preview_0: -389459103734929717
+      ItachiHurt-removebg-preview_1: 8565087545474372439
+      ItachiHurt-removebg-preview_10: 2650648609141364540
+      ItachiHurt-removebg-preview_11: 1382500815478283557
+      ItachiHurt-removebg-preview_12: 5086181905405782625
+      ItachiHurt-removebg-preview_13: -5069646766966027760
+      ItachiHurt-removebg-preview_14: 5094669033558763745
+      ItachiHurt-removebg-preview_15: -4690562597284628608
+      ItachiHurt-removebg-preview_16: 4594488353527906541
+      ItachiHurt-removebg-preview_17: 31085459723981495
+      ItachiHurt-removebg-preview_18: -8419087323418143323
+      ItachiHurt-removebg-preview_19: -4449878131409849912
+      ItachiHurt-removebg-preview_2: -8429266813099503487
+      ItachiHurt-removebg-preview_20: -1718447839103444231
+      ItachiHurt-removebg-preview_3: -9114151935907739843
+      ItachiHurt-removebg-preview_4: 6715388449168020086
+      ItachiHurt-removebg-preview_5: -5874396430087773100
+      ItachiHurt-removebg-preview_6: -9025573808919372487
+      ItachiHurt-removebg-preview_7: 7842469537350319766
+      ItachiHurt-removebg-preview_8: -6694689349678975195
+      ItachiHurt-removebg-preview_9: -5189810502964378082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

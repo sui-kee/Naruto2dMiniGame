@@ -44,13 +44,13 @@ public class Itachi : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(0f, 0f);
         }
-        if (!isAttacking)
+        if (!isAttacking && !isHurt)
         {
             rb.linearVelocity = new Vector2(speed * horizontal, rb.linearVelocity.y);
         }
         else
         {
-            rb.linearVelocity = new Vector2(0f,rb.linearVelocity.y);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x,rb.linearVelocity.y);// here I change x value from 0f I don't know why I add this:)))
         }
     }
 
@@ -111,6 +111,18 @@ public class Itachi : MonoBehaviour
     {
         switch (comingAnimation)
         {
+            case "ItachiDie":
+                ChangeAnimation(comingAnimation);
+                break;
+            case "ItachiRevive":
+                ChangeAnimation(comingAnimation);
+                break;
+            case "ItachiBelowDS":// when below incoming damage is hit
+                ChangeAnimation(comingAnimation);
+                break;
+            case "ItachBelowDE":// when itachi below incoming damage end
+                ChangeAnimation(comingAnimation);
+                break;
             case "ItachiBlackFlame":
                 ChangeAnimation(comingAnimation);
                 break;

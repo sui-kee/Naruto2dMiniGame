@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 3b47ad03acf93c049a52be224a17cfa3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8462495274125741970
+    second: SpecialJutsu-removebg-preview_0
+  - first:
+      213: -2923690442745909454
+    second: SpecialJutsu-removebg-preview_1
+  - first:
+      213: -4910996469561383285
+    second: SpecialJutsu-removebg-preview_2
+  - first:
+      213: 8015329355072605156
+    second: SpecialJutsu-removebg-preview_3
+  - first:
+      213: -7223936630554177227
+    second: SpecialJutsu-removebg-preview_4
+  - first:
+      213: 2268179022458662879
+    second: SpecialJutsu-removebg-preview_5
+  - first:
+      213: -8742343518071069900
+    second: SpecialJutsu-removebg-preview_6
+  - first:
+      213: -4180109115949014984
+    second: SpecialJutsu-removebg-preview_7
+  - first:
+      213: -714214868558763287
+    second: SpecialJutsu-removebg-preview_8
+  - first:
+      213: -969381664372212564
+    second: SpecialJutsu-removebg-preview_9
+  - first:
+      213: -7497051676317647529
+    second: SpecialJutsu-removebg-preview_10
+  - first:
+      213: 192865903598216543
+    second: SpecialJutsu-removebg-preview_11
+  - first:
+      213: 1162855228255955205
+    second: SpecialJutsu-removebg-preview_12
+  - first:
+      213: -8508619634602961646
+    second: SpecialJutsu-removebg-preview_13
+  - first:
+      213: 1303888204479835846
+    second: SpecialJutsu-removebg-preview_14
+  - first:
+      213: -8718170583848547763
+    second: SpecialJutsu-removebg-preview_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 174
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e603058626d2f8a80800000000000000
+      internalID: -8462495274125741970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 159
+        width: 174
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fecee5807fc67d0800000000000000
+      internalID: -2923690442745909454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 158
+        width: 171
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a8920bb2a8dbb0800000000000000
+      internalID: -4910996469561383285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb0dd6d49b2c3f60800000000000000
+      internalID: 8015329355072605156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 90
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531d2e798eb6fbb90800000000000000
+      internalID: -7223936630554177227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 90
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf24a8bdc03a7f10800000000000000
+      internalID: 2268179022458662879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 90
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4336fe4a3e4fca680800000000000000
+      internalID: -8742343518071069900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830ac7df7e44df5c0800000000000000
+      internalID: -4180109115949014984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaa0427c599616f0800000000000000
+      internalID: -714214868558763287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac315323801c82f0800000000000000
+      internalID: -969381664372212564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 90
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75df652b83f15f790800000000000000
+      internalID: -7497051676317647529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 89
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55a14974823da200800000000000000
+      internalID: 192865903598216543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e6654baa432010800000000000000
+      internalID: 1162855228255955205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 90
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215939ed58f4be980800000000000000
+      internalID: -8508619634602961646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 89
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cea7d6e967581210800000000000000
+      internalID: 1303888204479835846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialJutsu-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 374
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a827a7b06d20780800000000000000
+      internalID: -8718170583848547763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpecialJutsu-removebg-preview_0: -8462495274125741970
+      SpecialJutsu-removebg-preview_1: -2923690442745909454
+      SpecialJutsu-removebg-preview_10: -7497051676317647529
+      SpecialJutsu-removebg-preview_11: 192865903598216543
+      SpecialJutsu-removebg-preview_12: 1162855228255955205
+      SpecialJutsu-removebg-preview_13: -8508619634602961646
+      SpecialJutsu-removebg-preview_14: 1303888204479835846
+      SpecialJutsu-removebg-preview_15: -8718170583848547763
+      SpecialJutsu-removebg-preview_2: -4910996469561383285
+      SpecialJutsu-removebg-preview_3: 8015329355072605156
+      SpecialJutsu-removebg-preview_4: -7223936630554177227
+      SpecialJutsu-removebg-preview_5: 2268179022458662879
+      SpecialJutsu-removebg-preview_6: -8742343518071069900
+      SpecialJutsu-removebg-preview_7: -4180109115949014984
+      SpecialJutsu-removebg-preview_8: -714214868558763287
+      SpecialJutsu-removebg-preview_9: -969381664372212564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

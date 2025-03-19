@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 05a774b48ee671b4fbade3885e1c3ee9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3495349099995326479
+    second: OroAttack2-removebg-preview_0
+  - first:
+      213: 8296996375806685956
+    second: OroAttack2-removebg-preview_1
+  - first:
+      213: -6897872656859992575
+    second: OroAttack2-removebg-preview_2
+  - first:
+      213: -8624765541555198185
+    second: OroAttack2-removebg-preview_3
+  - first:
+      213: 2739013986364482558
+    second: OroAttack2-removebg-preview_4
+  - first:
+      213: 248591429517108345
+    second: OroAttack2-removebg-preview_5
+  - first:
+      213: 1972262404335537387
+    second: OroAttack2-removebg-preview_6
+  - first:
+      213: -7841516956549195225
+    second: OroAttack2-removebg-preview_7
+  - first:
+      213: -7278073639891290734
+    second: OroAttack2-removebg-preview_8
+  - first:
+      213: 2480465677671777052
+    second: OroAttack2-removebg-preview_9
+  - first:
+      213: 3018393903177544605
+    second: OroAttack2-removebg-preview_10
+  - first:
+      213: -8102663324513449691
+    second: OroAttack2-removebg-preview_11
+  - first:
+      213: 3399989395829711064
+    second: OroAttack2-removebg-preview_12
+  - first:
+      213: 1400669889331717150
+    second: OroAttack2-removebg-preview_13
+  - first:
+      213: 8854271809602361809
+    second: OroAttack2-removebg-preview_14
+  - first:
+      213: 8032789371501949267
+    second: OroAttack2-removebg-preview_15
+  - first:
+      213: 7130358381534410185
+    second: OroAttack2-removebg-preview_16
+  - first:
+      213: -1450870755504556620
+    second: OroAttack2-removebg-preview_17
+  - first:
+      213: 3558404515109665111
+    second: OroAttack2-removebg-preview_18
+  - first:
+      213: 4631663399996088503
+    second: OroAttack2-removebg-preview_19
+  - first:
+      213: 374804258319627769
+    second: OroAttack2-removebg-preview_20
+  - first:
+      213: 8326826850996768035
+    second: OroAttack2-removebg-preview_21
+  - first:
+      213: 5554386008941189465
+    second: OroAttack2-removebg-preview_22
+  - first:
+      213: -2751217939962218214
+    second: OroAttack2-removebg-preview_23
+  - first:
+      213: 8055829749972187874
+    second: OroAttack2-removebg-preview_24
+  - first:
+      213: 6164917791783484793
+    second: OroAttack2-removebg-preview_25
+  - first:
+      213: -957720315271092088
+    second: OroAttack2-removebg-preview_26
+  - first:
+      213: 8462433805932872067
+    second: OroAttack2-removebg-preview_27
+  - first:
+      213: -1744824148060092920
+    second: OroAttack2-removebg-preview_28
+  - first:
+      213: -956388573482720966
+    second: OroAttack2-removebg-preview_29
+  - first:
+      213: 5888776887319787720
+    second: OroAttack2-removebg-preview_30
+  - first:
+      213: 2720021906076110272
+    second: OroAttack2-removebg-preview_31
+  - first:
+      213: 6177045756936770139
+    second: OroAttack2-removebg-preview_32
+  - first:
+      213: -579353500431407579
+    second: OroAttack2-removebg-preview_33
+  - first:
+      213: 3160890925793036256
+    second: OroAttack2-removebg-preview_34
+  - first:
+      213: -7939394358394671035
+    second: OroAttack2-removebg-preview_35
+  - first:
+      213: 7886450099092681458
+    second: OroAttack2-removebg-preview_36
+  - first:
+      213: 978794750296561830
+    second: OroAttack2-removebg-preview_37
+  - first:
+      213: -4688440243865067034
+    second: OroAttack2-removebg-preview_38
+  - first:
+      213: 146525738772091314
+    second: OroAttack2-removebg-preview_39
+  - first:
+      213: -3847302589497646312
+    second: OroAttack2-removebg-preview_40
+  - first:
+      213: -5695592730810303101
+    second: OroAttack2-removebg-preview_41
+  - first:
+      213: -8914402936540861396
+    second: OroAttack2-removebg-preview_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 428
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f71cc043860e7fc0800000000000000
+      internalID: -3495349099995326479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 428
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40339a29e3ad42370800000000000000
+      internalID: 8296996375806685956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 428
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eeaf57d55d540a0800000000000000
+      internalID: -6897872656859992575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 428
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a2989f6dae4880800000000000000
+      internalID: -8624765541555198185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 428
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e41c65bee20620800000000000000
+      internalID: 2739013986364482558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 428
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e29a869c237300800000000000000
+      internalID: 248591429517108345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 462
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec074e0532ee5b10800000000000000
+      internalID: 1972262404335537387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 459
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72adea8cfd55d2390800000000000000
+      internalID: -7841516956549195225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 459
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295352dd5961ffa90800000000000000
+      internalID: -7278073639891290734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 455
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13cc2b44626c6220800000000000000
+      internalID: 2480465677671777052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 340
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933a17434d73e920800000000000000
+      internalID: 3018393903177544605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 340
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5294ac7d2ae8d8f80800000000000000
+      internalID: -8102663324513449691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 340
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0668277503f2f20800000000000000
+      internalID: 3399989395829711064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 340
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14e331e7dd207310800000000000000
+      internalID: 1400669889331717150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 370
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d99a148c41b0ea70800000000000000
+      internalID: 8854271809602361809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 376
+        width: 73
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35138e3bf533a7f60800000000000000
+      internalID: 8032789371501949267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 377
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c576947b2f14f260800000000000000
+      internalID: 7130358381534410185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 375
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5f5232cb87ddbe0800000000000000
+      internalID: -1450870755504556620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f142ad0ef16130800000000000000
+      internalID: 3558404515109665111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 226
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e1fb9259f64040800000000000000
+      internalID: 4631663399996088503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 226
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5f175bc72933500800000000000000
+      internalID: 374804258319627769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 226
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dc8df47e4de8370800000000000000
+      internalID: 8326826850996768035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 226
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959d65095a4251d40800000000000000
+      internalID: 5554386008941189465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 226
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19bed43cd5b1d9d0800000000000000
+      internalID: -2751217939962218214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 267
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eabd1ad97e0ccf60800000000000000
+      internalID: 8055829749972187874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 270
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d7db881103e8550800000000000000
+      internalID: 6164917791783484793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 268
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888671e827e75b2f0800000000000000
+      internalID: -957720315271092088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 268
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381c2e9e5ba907570800000000000000
+      internalID: 8462433805932872067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ca5b8ea329c7e0800000000000000
+      internalID: -1744824148060092920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 148
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31e15ad8a93ab2f0800000000000000
+      internalID: -956388573482720966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 148
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8f932016329b150800000000000000
+      internalID: 5888776887319787720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 148
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd82f423857fb520800000000000000
+      internalID: 2720021906076110272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 148
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52dc87736649b550800000000000000
+      internalID: 6177045756936770139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 148
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52628679f09b5f7f0800000000000000
+      internalID: -579353500431407579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 77
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e746a5cc8dbddb20800000000000000
+      internalID: 3160890925793036256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 77
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540352055ea91d190800000000000000
+      internalID: -7939394358394671035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 77
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f27347b49c427d60800000000000000
+      internalID: 7886450099092681458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 77
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a89177b3a0659d00800000000000000
+      internalID: 978794750296561830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 77
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e6c940705feeb0800000000000000
+      internalID: -4688440243865067034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 62
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b156f11260980200800000000000000
+      internalID: 146525738772091314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 73
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8136d81cda2ab9ac0800000000000000
+      internalID: -3847302589497646312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 54
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d31ce769035f0b0800000000000000
+      internalID: -5695592730810303101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OroAttack2-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 63
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c68ce72cda94480800000000000000
+      internalID: -8914402936540861396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 890c366d73c5db34188e391be42ed5f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OroAttack2-removebg-preview_0: -3495349099995326479
+      OroAttack2-removebg-preview_1: 8296996375806685956
+      OroAttack2-removebg-preview_10: 3018393903177544605
+      OroAttack2-removebg-preview_11: -8102663324513449691
+      OroAttack2-removebg-preview_12: 3399989395829711064
+      OroAttack2-removebg-preview_13: 1400669889331717150
+      OroAttack2-removebg-preview_14: 8854271809602361809
+      OroAttack2-removebg-preview_15: 8032789371501949267
+      OroAttack2-removebg-preview_16: 7130358381534410185
+      OroAttack2-removebg-preview_17: -1450870755504556620
+      OroAttack2-removebg-preview_18: 3558404515109665111
+      OroAttack2-removebg-preview_19: 4631663399996088503
+      OroAttack2-removebg-preview_2: -6897872656859992575
+      OroAttack2-removebg-preview_20: 374804258319627769
+      OroAttack2-removebg-preview_21: 8326826850996768035
+      OroAttack2-removebg-preview_22: 5554386008941189465
+      OroAttack2-removebg-preview_23: -2751217939962218214
+      OroAttack2-removebg-preview_24: 8055829749972187874
+      OroAttack2-removebg-preview_25: 6164917791783484793
+      OroAttack2-removebg-preview_26: -957720315271092088
+      OroAttack2-removebg-preview_27: 8462433805932872067
+      OroAttack2-removebg-preview_28: -1744824148060092920
+      OroAttack2-removebg-preview_29: -956388573482720966
+      OroAttack2-removebg-preview_3: -8624765541555198185
+      OroAttack2-removebg-preview_30: 5888776887319787720
+      OroAttack2-removebg-preview_31: 2720021906076110272
+      OroAttack2-removebg-preview_32: 6177045756936770139
+      OroAttack2-removebg-preview_33: -579353500431407579
+      OroAttack2-removebg-preview_34: 3160890925793036256
+      OroAttack2-removebg-preview_35: -7939394358394671035
+      OroAttack2-removebg-preview_36: 7886450099092681458
+      OroAttack2-removebg-preview_37: 978794750296561830
+      OroAttack2-removebg-preview_38: -4688440243865067034
+      OroAttack2-removebg-preview_39: 146525738772091314
+      OroAttack2-removebg-preview_4: 2739013986364482558
+      OroAttack2-removebg-preview_40: -3847302589497646312
+      OroAttack2-removebg-preview_41: -5695592730810303101
+      OroAttack2-removebg-preview_42: -8914402936540861396
+      OroAttack2-removebg-preview_5: 248591429517108345
+      OroAttack2-removebg-preview_6: 1972262404335537387
+      OroAttack2-removebg-preview_7: -7841516956549195225
+      OroAttack2-removebg-preview_8: -7278073639891290734
+      OroAttack2-removebg-preview_9: 2480465677671777052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

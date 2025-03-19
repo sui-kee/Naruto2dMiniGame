@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 249d06a22056d864697e5929359bb462
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8129104653267154367
+    second: OrochimaruHurt-removebg-preview_0
+  - first:
+      213: 4706039734120777363
+    second: OrochimaruHurt-removebg-preview_1
+  - first:
+      213: -4618407276734921180
+    second: OrochimaruHurt-removebg-preview_2
+  - first:
+      213: 1024683139418433592
+    second: OrochimaruHurt-removebg-preview_3
+  - first:
+      213: 7752182909696367463
+    second: OrochimaruHurt-removebg-preview_4
+  - first:
+      213: 3858699588188849698
+    second: OrochimaruHurt-removebg-preview_5
+  - first:
+      213: 1896447022021769685
+    second: OrochimaruHurt-removebg-preview_6
+  - first:
+      213: 8643993340093612034
+    second: OrochimaruHurt-removebg-preview_7
+  - first:
+      213: -4983704080813269626
+    second: OrochimaruHurt-removebg-preview_8
+  - first:
+      213: -711003923849132251
+    second: OrochimaruHurt-removebg-preview_9
+  - first:
+      213: -8821990742932473921
+    second: OrochimaruHurt-removebg-preview_10
+  - first:
+      213: 6764112408874622109
+    second: OrochimaruHurt-removebg-preview_11
+  - first:
+      213: -1365909636763934833
+    second: OrochimaruHurt-removebg-preview_12
+  - first:
+      213: -8542311808690263509
+    second: OrochimaruHurt-removebg-preview_13
+  - first:
+      213: -6347530326500506044
+    second: OrochimaruHurt-removebg-preview_14
+  - first:
+      213: -4453177436242492028
+    second: OrochimaruHurt-removebg-preview_15
+  - first:
+      213: -2874939997248990690
+    second: OrochimaruHurt-removebg-preview_16
+  - first:
+      213: 7370241649291014391
+    second: OrochimaruHurt-removebg-preview_17
+  - first:
+      213: 1602113057999376605
+    second: OrochimaruHurt-removebg-preview_18
+  - first:
+      213: -8421164722990488885
+    second: OrochimaruHurt-removebg-preview_19
+  - first:
+      213: 1365123313757414826
+    second: OrochimaruHurt-removebg-preview_20
+  - first:
+      213: 6723295835379768550
+    second: OrochimaruHurt-removebg-preview_21
+  - first:
+      213: -6886503349339259420
+    second: OrochimaruHurt-removebg-preview_22
+  - first:
+      213: -5385633032465048318
+    second: OrochimaruHurt-removebg-preview_23
+  - first:
+      213: -4860257234948611153
+    second: OrochimaruHurt-removebg-preview_24
+  - first:
+      213: -4277731020510213267
+    second: OrochimaruHurt-removebg-preview_25
+  - first:
+      213: -8067770629684114225
+    second: OrochimaruHurt-removebg-preview_26
+  - first:
+      213: -4465379367132552008
+    second: OrochimaruHurt-removebg-preview_27
+  - first:
+      213: 7692768830214726108
+    second: OrochimaruHurt-removebg-preview_28
+  - first:
+      213: 5876541638813435056
+    second: OrochimaruHurt-removebg-preview_29
+  - first:
+      213: 8398779726330822616
+    second: OrochimaruHurt-removebg-preview_30
+  - first:
+      213: -1447424785145472128
+    second: OrochimaruHurt-removebg-preview_31
+  - first:
+      213: 7566864764797623354
+    second: OrochimaruHurt-removebg-preview_32
+  - first:
+      213: 6561224797008973115
+    second: OrochimaruHurt-removebg-preview_33
+  - first:
+      213: 1170107915192643095
+    second: OrochimaruHurt-removebg-preview_34
+  - first:
+      213: 7637923978599749142
+    second: OrochimaruHurt-removebg-preview_35
+  - first:
+      213: -52447684847921422
+    second: OrochimaruHurt-removebg-preview_36
+  - first:
+      213: -8310472293509444417
+    second: OrochimaruHurt-removebg-preview_37
+  - first:
+      213: -1710646528140392915
+    second: OrochimaruHurt-removebg-preview_38
+  - first:
+      213: 2588852679688753735
+    second: OrochimaruHurt-removebg-preview_39
+  - first:
+      213: -7241139866942971714
+    second: OrochimaruHurt-removebg-preview_40
+  - first:
+      213: 3280439875423856725
+    second: OrochimaruHurt-removebg-preview_41
+  - first:
+      213: -6058791476504666140
+    second: OrochimaruHurt-removebg-preview_42
+  - first:
+      213: 9051934827272950655
+    second: OrochimaruHurt-removebg-preview_43
+  - first:
+      213: -87389068297404053
+    second: OrochimaruHurt-removebg-preview_44
+  - first:
+      213: -2833766962154230952
+    second: OrochimaruHurt-removebg-preview_45
+  - first:
+      213: -575172811522099414
+    second: OrochimaruHurt-removebg-preview_46
+  - first:
+      213: -1694343575725095614
+    second: OrochimaruHurt-removebg-preview_47
+  - first:
+      213: -2194827684372181177
+    second: OrochimaruHurt-removebg-preview_48
+  - first:
+      213: -2898117921271089431
+    second: OrochimaruHurt-removebg-preview_49
+  - first:
+      213: 1487304875553485160
+    second: OrochimaruHurt-removebg-preview_50
+  - first:
+      213: 6180257333558864737
+    second: OrochimaruHurt-removebg-preview_51
+  - first:
+      213: 1659534348121298698
+    second: OrochimaruHurt-removebg-preview_52
+  - first:
+      213: 4025413350948035058
+    second: OrochimaruHurt-removebg-preview_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 387
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2004f1d1522a5f770800000000000000
+      internalID: 8643993340093612034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 387
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dd5751b8356dab0800000000000000
+      internalID: -4983704080813269626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 386
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5274015c2b10226f0800000000000000
+      internalID: -711003923849132251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c98c7e564fedd50800000000000000
+      internalID: 6764112408874622109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 304
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f17691c605b0de0800000000000000
+      internalID: -1365909636763934833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 304
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a646a4bac937980800000000000000
+      internalID: -8542311808690263509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 305
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4460be77cca09e7a0800000000000000
+      internalID: -6347530326500506044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 213
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec9ca3d0f1fd4d50800000000000000
+      internalID: 6723295835379768550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 213
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed7816a0b93e60a0800000000000000
+      internalID: -6886503349339259420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 213
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d9f419a436245b0800000000000000
+      internalID: -5385633032465048318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 213
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3add9abc5ec8cb0800000000000000
+      internalID: -4860257234948611153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 213
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bc1dd1d4272a4c0800000000000000
+      internalID: -4277731020510213267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429aacbbc37de320800000000000000
+      internalID: 2588852679688753735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 129
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0e1fdf7ad428b90800000000000000
+      internalID: -7241139866942971714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5586aa9afa6768d20800000000000000
+      internalID: 3280439875423856725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 130
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef56c2c049daeba0800000000000000
+      internalID: -6058791476504666140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 130
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73579524ceee9d70800000000000000
+      internalID: 9051934827272950655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 45
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2733c410639408f0800000000000000
+      internalID: -575172811522099414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 45
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245c071be7b7c78e0800000000000000
+      internalID: -1694343575725095614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 44
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f8dc989d76a81e0800000000000000
+      internalID: -2194827684372181177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 44
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e671710b11d7c7d0800000000000000
+      internalID: -2898117921271089431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861721c77e7f3a410800000000000000
+      internalID: 1487304875553485160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 44
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b674bec4fa4c550800000000000000
+      internalID: 6180257333558864737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 45
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07545072b9d70710800000000000000
+      internalID: 1659534348121298698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruHurt-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f95f597d142dd730800000000000000
+      internalID: 4025413350948035058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6eb51e4acac93a84384ace120978542d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OrochimaruHurt-removebg-preview_0: -8129104653267154367
+      OrochimaruHurt-removebg-preview_1: 4706039734120777363
+      OrochimaruHurt-removebg-preview_10: -8821990742932473921
+      OrochimaruHurt-removebg-preview_11: 6764112408874622109
+      OrochimaruHurt-removebg-preview_12: -1365909636763934833
+      OrochimaruHurt-removebg-preview_13: -8542311808690263509
+      OrochimaruHurt-removebg-preview_14: -6347530326500506044
+      OrochimaruHurt-removebg-preview_15: -4453177436242492028
+      OrochimaruHurt-removebg-preview_16: -2874939997248990690
+      OrochimaruHurt-removebg-preview_17: 7370241649291014391
+      OrochimaruHurt-removebg-preview_18: 1602113057999376605
+      OrochimaruHurt-removebg-preview_19: -8421164722990488885
+      OrochimaruHurt-removebg-preview_2: -4618407276734921180
+      OrochimaruHurt-removebg-preview_20: 1365123313757414826
+      OrochimaruHurt-removebg-preview_21: 6723295835379768550
+      OrochimaruHurt-removebg-preview_22: -6886503349339259420
+      OrochimaruHurt-removebg-preview_23: -5385633032465048318
+      OrochimaruHurt-removebg-preview_24: -4860257234948611153
+      OrochimaruHurt-removebg-preview_25: -4277731020510213267
+      OrochimaruHurt-removebg-preview_26: -8067770629684114225
+      OrochimaruHurt-removebg-preview_27: -4465379367132552008
+      OrochimaruHurt-removebg-preview_28: 7692768830214726108
+      OrochimaruHurt-removebg-preview_29: 5876541638813435056
+      OrochimaruHurt-removebg-preview_3: 1024683139418433592
+      OrochimaruHurt-removebg-preview_30: 8398779726330822616
+      OrochimaruHurt-removebg-preview_31: -1447424785145472128
+      OrochimaruHurt-removebg-preview_32: 7566864764797623354
+      OrochimaruHurt-removebg-preview_33: 6561224797008973115
+      OrochimaruHurt-removebg-preview_34: 1170107915192643095
+      OrochimaruHurt-removebg-preview_35: 7637923978599749142
+      OrochimaruHurt-removebg-preview_36: -52447684847921422
+      OrochimaruHurt-removebg-preview_37: -8310472293509444417
+      OrochimaruHurt-removebg-preview_38: -1710646528140392915
+      OrochimaruHurt-removebg-preview_39: 2588852679688753735
+      OrochimaruHurt-removebg-preview_4: 7752182909696367463
+      OrochimaruHurt-removebg-preview_40: -7241139866942971714
+      OrochimaruHurt-removebg-preview_41: 3280439875423856725
+      OrochimaruHurt-removebg-preview_42: -6058791476504666140
+      OrochimaruHurt-removebg-preview_43: 9051934827272950655
+      OrochimaruHurt-removebg-preview_44: -87389068297404053
+      OrochimaruHurt-removebg-preview_45: -2833766962154230952
+      OrochimaruHurt-removebg-preview_46: -575172811522099414
+      OrochimaruHurt-removebg-preview_47: -1694343575725095614
+      OrochimaruHurt-removebg-preview_48: -2194827684372181177
+      OrochimaruHurt-removebg-preview_49: -2898117921271089431
+      OrochimaruHurt-removebg-preview_5: 3858699588188849698
+      OrochimaruHurt-removebg-preview_50: 1487304875553485160
+      OrochimaruHurt-removebg-preview_51: 6180257333558864737
+      OrochimaruHurt-removebg-preview_52: 1659534348121298698
+      OrochimaruHurt-removebg-preview_53: 4025413350948035058
+      OrochimaruHurt-removebg-preview_6: 1896447022021769685
+      OrochimaruHurt-removebg-preview_7: 8643993340093612034
+      OrochimaruHurt-removebg-preview_8: -4983704080813269626
+      OrochimaruHurt-removebg-preview_9: -711003923849132251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -585,6 +585,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6178360622139330892}
   - component: {fileID: 8549368910004967660}
+  - component: {fileID: 1640626923960684752}
   m_Layer: 0
   m_Name: RunBody
   m_TagString: Untagged
@@ -644,6 +645,18 @@ CapsuleCollider2D:
   m_Offset: {x: 0.019551337, y: -0.06858816}
   m_Size: {x: 0.20673083, y: 0.48220864}
   m_Direction: 0
+--- !u!114 &1640626923960684752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5569671882106606425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d4b5dc88916f1d4c9eb80418f64fb64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8909246323654819948
 GameObject:
   m_ObjectHideFlags: 0
