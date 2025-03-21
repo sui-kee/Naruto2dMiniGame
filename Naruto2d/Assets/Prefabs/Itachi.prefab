@@ -170,6 +170,7 @@ MonoBehaviour:
   animator: {fileID: 1815361732073660900}
   idleBody: {fileID: 4252428461235301550}
   runBody: {fileID: 5569671882106606425}
+  kickSkill: {fileID: 8927202915329031367}
   isFacingRight: 1
   speed: 4
   jump_power: 7
@@ -223,6 +224,9 @@ MonoBehaviour:
   itachi: {fileID: 1693187861678449641}
   skillDamageBox: {fileID: 2020006879727503729}
   enemyPos: {fileID: 0}
+  body1: {fileID: 0}
+  body2: {fileID: 0}
+  isKicking: 0
   spondingPos: 1.8
 --- !u!114 &6137626677948347272
 MonoBehaviour:

@@ -8,6 +8,7 @@ public class Itachi : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private GameObject idleBody;
     [SerializeField] private GameObject runBody;
+    [SerializeField] private ItachiKick kickSkill;
     private float horizontal;
     public bool isFacingRight = true;
     public float speed = 4f;
@@ -50,7 +51,7 @@ public class Itachi : MonoBehaviour
         }
         else
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x,rb.linearVelocity.y);// here I change x value from 0f I don't know why I add this:)))
+            rb.linearVelocity = new Vector2(0f,rb.linearVelocity.y);// 0f is used to stop player horizontally so it won't move horizontally when the skill is used
         }
     }
 
@@ -101,7 +102,7 @@ public class Itachi : MonoBehaviour
         {
             idleBody.SetActive(false);
         }
-        else
+        else if(!kickSkill.isKicking)
         {
             idleBody.SetActive(true);
         }

@@ -9,8 +9,11 @@ TagManager:
   - NormalEnemy
   - PlayerKunai
   - Wall
-  - ItachiKick
   - BigSnakeBelowD
+  - ItachiKickAboveD
+  - ItachiKick
+  - TestGun
+  - Orochimaru
   layers:
   - Default
   - TransparentFX

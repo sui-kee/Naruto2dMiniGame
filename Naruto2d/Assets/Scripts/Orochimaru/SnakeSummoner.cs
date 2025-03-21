@@ -9,6 +9,7 @@ public class SnakeSummoner : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Invoke(nameof(RemoveSnake), 1f);
         StartCoroutine(SummonBigSnake());
     }
 
@@ -23,5 +24,10 @@ public class SnakeSummoner : MonoBehaviour
         big_snake.SetActive(true);
         yield return new WaitForSeconds(rock_shatter_speed);   
         shatter_rock.SetActive(true);
+    }
+
+    private void RemoveSnake()
+    {
+        Destroy(gameObject);
     }
 }
