@@ -50,5 +50,10 @@ public class OroBody : MonoBehaviour
             oro.horizontalHurt = true;
             oro.isHurt = true;
         }
+        if (collision.gameObject.tag.ToString().ToLower().Contains("normaldamage"))
+        {
+            oro.normalHurt = true;
+            oro.isHurt = true;  
+        }
     }
 }

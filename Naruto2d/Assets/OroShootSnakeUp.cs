@@ -10,7 +10,7 @@ public class OroShootSnakeUp : MonoBehaviour
     public Vector2 direction;
     public float angle;
     public bool canShoot = true;
-    public float shootCoolDown = 1.9f;
+    public float shootCoolDown = 1f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -32,14 +32,20 @@ public class OroShootSnakeUp : MonoBehaviour
         {
             canShoot = false;
             oro.isAttacking = true;
-            yield return new WaitForSeconds(0.40f);
-            if (!oro.isHurt)
+            if (oro.isHurt)
             {
-                Instantiate(snake, shootingPoint.position, shootingPoint.rotation);
+                canShoot = true;
+                oro.isAttacking = false;
+                yield break;
             }
-            oro.isAttacking = false;
-            yield return new WaitForSeconds(shootCoolDown);
-            canShoot = true;
+            yield return new WaitForSeconds(0.40f);
+
+                Instantiate(snake, shootingPoint.position, shootingPoint.rotation);
+                yield return new WaitForSeconds(0.45f);
+                oro.isAttacking = false;
+                yield return new WaitForSeconds(shootCoolDown);
+                canShoot = true;
+
             
         }
     }

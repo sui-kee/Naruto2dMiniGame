@@ -27,6 +27,7 @@ public class OnSightState : StateMachineBehaviour
         }
         if (player.IsGrounded() && detector.PlayerIsOnSight())
         {
+            oro.Stop();
             animator.SetTrigger("HorizontalDetect");
         }
         if(!player.IsGrounded() && shootSnakeUp.canShoot && !oro.isHurt && player.transform.position.y >-1.5f)

@@ -7,6 +7,7 @@ public class HurtInterupter : StateMachineBehaviour
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         oro = animator.GetComponent< Orochimaru>();
+        oro.isAttacking = false;
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
@@ -17,11 +18,17 @@ public class HurtInterupter : StateMachineBehaviour
             oro.isIdle = true;  
             animator.SetTrigger("AboveHurt");
         }
+        if (oro.normalHurt)
+        {
+            oro.isIdle = false;
+            animator.SetTrigger("Hurt");
+        }
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         animator.ResetTrigger("AboveHurt");
+        animator.ResetTrigger("Hurt");
     }
 }

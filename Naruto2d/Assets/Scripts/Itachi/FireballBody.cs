@@ -16,19 +16,16 @@ public class FireballBody : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!collision.CompareTag("Wall"))
+        if (!collision.gameObject.CompareTag("Wall"))
         {
             Fireball.hitSomething = true;
-            Fireball.burningPos = collision.gameObject.transform.position;
-            Fireball.BurningInitiator();
-            Destroy(gameObject);
-
+            Fireball.DestroyFireBall();
         }
         else
         {
-            Destroy(Fire_ball_body);    
+            Destroy(Fire_ball_body);
         }
     }
 }

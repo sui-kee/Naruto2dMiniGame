@@ -14,6 +14,7 @@ public class Orochimaru : MonoBehaviour
     public bool belowHurt = false;
     public bool aboveHurt = false;
     public bool horizontalHurt = false;
+    public bool normalHurt = false;
     public bool isAttacking = false;
     public bool isFacingRight = true;
     public bool isIdle = true;
@@ -78,7 +79,8 @@ public class Orochimaru : MonoBehaviour
         isAttacking = false;
         isIdle = true;
         isDying = false;
-        summonSnake.canSummon = true;
+        //summonSnake.canSummon = true;
         shootSnakeUp.canShoot = true;
+        normalHurt = false;
 }
 }

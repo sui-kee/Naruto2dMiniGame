@@ -9,12 +9,13 @@ public class OroIdle : StateMachineBehaviour
     {
         detector = animator.GetComponent< OroPlayerDetector>();
         oro = animator.GetComponent< Orochimaru>();
+        oro.normalHurt = false;
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        oro.Stop();
+        //oro.Stop();
         if (oro.aboveHurt)
         {
             animator.SetTrigger("AboveHurt");

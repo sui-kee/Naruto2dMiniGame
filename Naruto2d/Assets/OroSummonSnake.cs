@@ -25,22 +25,24 @@ public class OroSummonSnake : MonoBehaviour
     {
         oro.isAttacking = true;
         canSummon = false;
-        //float predictMovement = player.isFacingRight ? 1f : -1f;
+        float predictMovement = player.isFacingRight ? 0.5f : -0.5f;
+        Vector2 summoningPos = new Vector2(player.transform.position.x +predictMovement, -2.88f);
         yield return new WaitForSeconds(0.50f);
         if (oro.isHurt)
         {
+            oro.isAttacking = false;
+            canSummon = true;
             yield break;
         }
         else
         {
-            Vector2 summoningPos = new Vector2(player.transform.position.x, -2.88f);
             Instantiate(BigSnake, summoningPos, oro.rb.transform.rotation);
             yield return new WaitForSeconds(1.10f);
             
-        }
             oro.isAttacking = false;
             yield return new WaitForSeconds(4f);
             canSummon = true;
+        }
     }
 
     public void SummonSnake()

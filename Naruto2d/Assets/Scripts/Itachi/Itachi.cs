@@ -29,7 +29,7 @@ public class Itachi : MonoBehaviour
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
-        if(Input.GetButtonDown("Jump") && IsGrounded())
+        if(Input.GetButtonDown("Jump") && IsGrounded() && !isHurt)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x,jump_power);
         }
