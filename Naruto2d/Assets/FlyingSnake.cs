@@ -5,34 +5,37 @@ public class FlyingSnake : MonoBehaviour
 {
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
+    OroShootSnakeUp shooter;
     Orochimaru oro;
     Transform target;
     public float speed = 7f;
     public Vector2 targetDirection;
+    public float rotation;
     public bool isFacingRight = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        shooter = GameObject.FindGameObjectWithTag("Orochimaru").GetComponent<OroShootSnakeUp>();
         oro = GameObject.FindGameObjectWithTag("Orochimaru").GetComponent<Orochimaru>();
-        target = GameObject.FindGameObjectWithTag("Player").gameObject.transform;
-        Vector2 direction = (target.position - transform.position).normalized;
-        //if (!oro.isFacingRight)  // Meaning Orochimaru is flipped
-        //{
-        //    transform.Rotate(0f, 180f, 0f);
-        //}
-
-        // Rotate to face player
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        rb.rotation = angle;
-        targetDirection = direction;
-        rb.freezeRotation = true;// there is a bug when the oro face left and shoot the snake the snake keep spinning 
+        target = GameObject.FindGameObjectWithTag("Player").transform;
+        targetDirection = shooter.direction;
+        rotation = shooter.angle;
+        if(!oro.isFacingRight)
+        {
+            transform.rotation = Quaternion.Euler(0f,0f,shooter.angle); 
+        }
+        else
+        {
+            rb.rotation = shooter.angle;
+        }
         StartCoroutine(FlyingSnakeBehaviour());
     }
 
     // Update is called once per frame
     void Update()
     {
-        // Move towards player
+        //Vector2 direction = (target.position - transform.position).normalized;
+        //float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         rb.linearVelocity = targetDirection * speed;
     }
 
@@ -42,9 +45,9 @@ public class FlyingSnake : MonoBehaviour
         animator.CrossFade("FSnakeE",0.1f);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!collision.gameObject.CompareTag("Orochimaru"))
+        if (!collision.CompareTag("Orochimaru"))
         {
             Destroy(gameObject);
         }

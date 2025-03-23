@@ -247,6 +247,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 8958962525445305651}
   animator: {fileID: 5957651131906759449}
-  speed: 10
+  speed: 8
   hitSomething: 0
   destroyTime: 0.3

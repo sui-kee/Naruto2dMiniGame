@@ -154,8 +154,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 4233428742904139100}
   animator: {fileID: 1737600575448689960}
-  speed: 9
+  speed: 11
   targetDirection: {x: 0, y: 0}
+  rotation: 0
   isFacingRight: 1
 --- !u!61 &377838365502619975
 BoxCollider2D:
@@ -187,7 +188,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0

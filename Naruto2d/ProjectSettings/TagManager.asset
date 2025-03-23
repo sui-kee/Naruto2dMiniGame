@@ -15,6 +15,7 @@ TagManager:
   - TestGun
   - Orochimaru
   - normalDamage
+  - OroFlyDetector
   layers:
   - Default
   - TransparentFX
