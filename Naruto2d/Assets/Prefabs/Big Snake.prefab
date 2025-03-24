@@ -185,7 +185,6 @@ GameObject:
   - component: {fileID: 5256221206659919804}
   - component: {fileID: 5734132568254203050}
   - component: {fileID: 8049906900026833641}
-  - component: {fileID: 3533310853671303711}
   - component: {fileID: 2153277608194788404}
   m_Layer: 0
   m_Name: Snake
@@ -280,116 +279,6 @@ MonoBehaviour:
   moveTo: {fileID: 4761836879323058160}
   speed: 10
   removingTime: 1
---- !u!60 &3533310853671303711
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6819947941716971953}
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.07, y: 2.16}
-    newSize: {x: 1.07, y: 2.16}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.145, y: -0.51}
-      - {x: 0.33499998, y: -0.52}
-      - {x: 0.475, y: -0.45}
-      - {x: 0.465, y: -0.11}
-      - {x: 0.42499998, y: 0.19999999}
-      - {x: 0.465, y: 0.13}
-      - {x: 0.53499997, y: 0.14}
-      - {x: 0.53499997, y: 0.22999999}
-      - {x: 0.525, y: 0.26999998}
-      - {x: 0.45499998, y: 0.45999998}
-      - {x: 0.475, y: 0.59}
-      - {x: 0.505, y: 0.85999995}
-      - {x: 0.475, y: 0.98999995}
-      - {x: 0.46901667, y: 0.9924851}
-      - {x: 0.52500254, y: 1.0088748}
-      - {x: 0.5713778, y: 1.007709}
-      - {x: 0.574157, y: 1.0482868}
-      - {x: 0.7604078, y: 1.2043382}
-      - {x: 0.6951825, y: 1.1615821}
-      - {x: 0.67590266, y: 1.203385}
-      - {x: 0.64212763, y: 1.119719}
-      - {x: 0.5530178, y: 1.0726732}
-      - {x: 0.5363476, y: 1.1076288}
-      - {x: 0.5305497, y: 1.0908356}
-      - {x: 0.5036823, y: 1.1021382}
-      - {x: 0.4971932, y: 1.0913582}
-      - {x: 0.4566039, y: 1.0563942}
-      - {x: 0.45100453, y: 1.050517}
-      - {x: 0.44208172, y: 1.0607753}
-      - {x: 0.42995372, y: 1.0590447}
-      - {x: 0.345, y: 1.0799999}
-      - {x: 0.2673097, y: 1.1090955}
-      - {x: 0.22878858, y: 1.0957595}
-      - {x: 0.2352592, y: 1.147214}
-      - {x: 0.20148684, y: 1.0957198}
-      - {x: 0.20590633, y: 1.1439902}
-      - {x: 0.17625877, y: 1.0946863}
-      - {x: 0.0684367, y: 1.1388036}
-      - {x: 0.016885009, y: 1.1801957}
-      - {x: 0.033347875, y: 1.2828602}
-      - {x: -0.022746816, y: 1.1727563}
-      - {x: 0.19116412, y: 1.0684521}
-      - {x: 0.11068311, y: 0.9948034}
-      - {x: -0.024999999, y: 0.84999996}
-      - {x: -0.114999995, y: 0.63}
-      - {x: -0.145, y: 0.5}
-      - {x: -0.445, y: 0.26}
-      - {x: -0.48499998, y: 0.17999999}
-      - {x: -0.45499998, y: 0.13}
-      - {x: -0.33499998, y: 0.14999999}
-      - {x: -0.24499999, y: 0.19999999}
-      - {x: -0.205, y: 0.16}
-      - {x: -0.205, y: -0.049999997}
-      - {x: -0.39499998, y: -0.35999998}
-      - {x: -0.445, y: -0.57}
-      - {x: -0.505, y: -0.88}
-      - {x: -0.53499997, y: -1.04}
-      - {x: -0.53499997, y: -1.0699999}
-      - {x: -0.515, y: -1.0799999}
-      - {x: 0.024999999, y: -1.0799999}
-      - {x: 0.044999998, y: -1.0699999}
-      - {x: 0.074999996, y: -1}
-      - {x: 0.095, y: -0.7}
-  m_UseDelaunayMesh: 0
 --- !u!95 &2153277608194788404
 Animator:
   serializedVersion: 7
@@ -537,8 +426,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -71041453
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -4072597097013529644, guid: 1cfc89db0f1779b42ad4ea19a1f5556f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

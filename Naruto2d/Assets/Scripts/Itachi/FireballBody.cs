@@ -18,14 +18,6 @@ public class FireballBody : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!collision.gameObject.CompareTag("Wall"))
-        {
-            Fireball.hitSomething = true;
-            Fireball.DestroyFireBall();
-        }
-        else
-        {
-            Destroy(Fire_ball_body);
-        }
+        Destroy(Fire_ball_body);    
     }
 }

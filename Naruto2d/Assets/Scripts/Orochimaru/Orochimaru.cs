@@ -19,6 +19,7 @@ public class Orochimaru : MonoBehaviour
     public bool isFacingRight = true;
     public bool isIdle = true;
     public bool isDying = false;
+    public bool oro_isGrounded = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -29,6 +30,14 @@ public class Orochimaru : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (IsGrounded())
+        {
+            oro_isGrounded = true;
+        }
+        else if (!IsGrounded())
+        {
+            oro_isGrounded = false;
+        }
     }
 
     public bool IsGrounded()

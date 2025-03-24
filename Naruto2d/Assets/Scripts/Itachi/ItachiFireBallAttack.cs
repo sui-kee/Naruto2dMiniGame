@@ -33,7 +33,10 @@ public class ItachiFireBallAttack : MonoBehaviour
     {
         itachi.comingAnimation = "ItachiFireBall";
         yield return new WaitForSeconds(1f);
-        Instantiate(fireBall, shootingPoint.position, shootingPoint.rotation);
+        if (!itachi.isHurt)
+        {
+            Instantiate(fireBall, shootingPoint.position, shootingPoint.rotation);
+        }
         itachi.isAttacking = false;
         canShootFire = true ;
     }

@@ -19,14 +19,9 @@ public class Fireball : MonoBehaviour
         rb.linearVelocity = transform.right * speed;
     }
 
-    private void FireballBehave() 
+    public void DestroyFireball() 
     {
         Destroy(gameObject);
-    }
-
-    public void DestroyFireBall()
-    {
-        Invoke(nameof(FireballBehave), destroyTime);
     }
     
 }

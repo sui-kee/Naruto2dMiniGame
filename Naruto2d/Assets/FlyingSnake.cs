@@ -47,9 +47,10 @@ public class FlyingSnake : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!collision.CompareTag("Orochimaru"))
+        if (collision.CompareTag("Player") || collision.CompareTag("Wall"))
         {
             Destroy(gameObject);
         }
+
     }
 }

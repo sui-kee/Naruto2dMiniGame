@@ -4,10 +4,8 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - FireBall
   - YellowNinja
   - NormalEnemy
-  - PlayerKunai
   - Wall
   - BigSnakeBelowD
   - ItachiKickAboveD
@@ -16,6 +14,7 @@ TagManager:
   - Orochimaru
   - normalDamage
   - OroFlyDetector
+  - OroObjectDetector
   layers:
   - Default
   - TransparentFX
