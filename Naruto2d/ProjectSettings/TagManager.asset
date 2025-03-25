@@ -15,6 +15,7 @@ TagManager:
   - normalDamage
   - OroFlyDetector
   - OroObjectDetector
+  - OrochimaruBody
   layers:
   - Default
   - TransparentFX
@@ -60,6 +61,9 @@ TagManager:
     locked: 0
   - name: foreGround
     uniqueID: 4223925843
+    locked: 0
+  - name: first
+    uniqueID: 2560648273
     locked: 0
   m_RenderingLayers:
   - Default

@@ -8,7 +8,7 @@ public class OroObjectDetector : MonoBehaviour
     public GameObject normalDamageObj = null;
     public float closeRange = 4f;// to initiate the jumping mode range, the range of the obj coming and oro 
     public bool canJump = false;
-
+    public float oroYposMaxer = 1f;// distance y increaser for oro Y pos so it will not jump when the incoming flying obj is too high 
     public bool normalDamageInClose = false;
 
     private void Start()
@@ -20,8 +20,8 @@ public class OroObjectDetector : MonoBehaviour
     {
         if (normalDamageObj != null)
         {
-            float distance = Vector2.Distance(normalDamageObj.transform.position, oro.transform.position);
-            if (distance <= closeRange && normalDamageObj.transform.position.x > oro.transform.position.x)
+            float distance = Vector2.Distance(normalDamageObj.transform.position, oro.transform.position );
+            if (distance <= closeRange && normalDamageObj.transform.position.x > oro.transform.position.x && (normalDamageObj.transform.position.y <= oro.transform.position.y + oroYposMaxer))
             {
                 canJump = true;
             }

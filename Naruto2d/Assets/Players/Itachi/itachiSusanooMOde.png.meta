@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: d44531afe0d519a49878a2375baab713
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 172679765175721232
+    second: itachiSusanooMOde_0
+  - first:
+      213: -3181083205525705420
+    second: itachiSusanooMOde_1
+  - first:
+      213: -6799243205791168857
+    second: itachiSusanooMOde_2
+  - first:
+      213: -6149100435397748324
+    second: itachiSusanooMOde_3
+  - first:
+      213: 8481473165803749378
+    second: itachiSusanooMOde_4
+  - first:
+      213: -4467486187557702870
+    second: itachiSusanooMOde_5
+  - first:
+      213: 5720364511123020412
+    second: itachiSusanooMOde_6
+  - first:
+      213: -7569601141054239405
+    second: itachiSusanooMOde_7
+  - first:
+      213: -8229728106464326508
+    second: itachiSusanooMOde_8
+  - first:
+      213: 7628881771527545660
+    second: itachiSusanooMOde_9
+  - first:
+      213: 2460601113221232212
+    second: itachiSusanooMOde_10
+  - first:
+      213: 5860017634209345206
+    second: itachiSusanooMOde_11
+  - first:
+      213: -340825537577833595
+    second: itachiSusanooMOde_12
+  - first:
+      213: -8948367153005305616
+    second: itachiSusanooMOde_13
+  - first:
+      213: 3735631174780411130
+    second: itachiSusanooMOde_14
+  - first:
+      213: -1887611424890821694
+    second: itachiSusanooMOde_15
+  - first:
+      213: -4940642085060210021
+    second: itachiSusanooMOde_16
+  - first:
+      213: -2187516500616167274
+    second: itachiSusanooMOde_17
+  - first:
+      213: -617336104554204997
+    second: itachiSusanooMOde_18
+  - first:
+      213: -3998311462337003872
+    second: itachiSusanooMOde_19
+  - first:
+      213: 1496543240594300668
+    second: itachiSusanooMOde_20
+  - first:
+      213: -4229330883243919780
+    second: itachiSusanooMOde_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itachiSusanooMOde_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 419
+        width: 82
+        height: 95
+      alignment: 9
+      pivot: {x: 0.66, y: 0.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a64459045c34a1a0800000000000000
+      internalID: -6799243205791168857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 82
+        height: 96
+      alignment: 9
+      pivot: {x: 0.66, y: 0.6127949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99daebbbb10aaaa0800000000000000
+      internalID: -6149100435397748324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 417
+        width: 82
+        height: 96
+      alignment: 9
+      pivot: {x: 0.66, y: 0.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2008db358ee34b570800000000000000
+      internalID: 8481473165803749378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 416
+        width: 82
+        height: 96
+      alignment: 9
+      pivot: {x: 0.66, y: 0.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23b8af6bfc4002c0800000000000000
+      internalID: -4467486187557702870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d02102edf53f690800000000000000
+      internalID: -7569601141054239405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 131
+        height: 96
+      alignment: 9
+      pivot: {x: 0.41045433, y: 0.5187991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c4520e3e12acd80800000000000000
+      internalID: -8229728106464326508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 315
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c332a593d8b3fd960800000000000000
+      internalID: 7628881771527545660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 99
+        height: 96
+      alignment: 9
+      pivot: {x: 0.60026085, y: 0.46240234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4567b77fcafc52220800000000000000
+      internalID: 2460601113221232212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 73
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6359698, y: 0.42480436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bea2989df6f25150800000000000000
+      internalID: 5860017634209345206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 201
+        width: 112
+        height: 84
+      alignment: 9
+      pivot: {x: 0.42749023, y: 0.70410264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58baa46baf4254bf0800000000000000
+      internalID: -340825537577833595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 197
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0685d1c7301d380800000000000000
+      internalID: -8948367153005305616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 131
+        width: 76
+        height: 67
+      alignment: 9
+      pivot: {x: 0.523746, y: 0.7289538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc59a0e2c0a7d330800000000000000
+      internalID: 3735631174780411130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 74
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6750821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3e969f86bddc5e0800000000000000
+      internalID: -1887611424890821694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 129
+        width: 107
+        height: 71
+      alignment: 9
+      pivot: {x: 0.70239544, y: 0.53812784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9214a543305f6bb0800000000000000
+      internalID: -4940642085060210021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 120
+        width: 108
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690c778255164a1e0800000000000000
+      internalID: -2187516500616167274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 77
+        height: 67
+      alignment: 9
+      pivot: {x: 0.57031274, y: 0.7424216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f50d6518ce67f0800000000000000
+      internalID: -617336104554204997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 75
+        height: 66
+      alignment: 9
+      pivot: {x: 0.48796874, y: 0.6914072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb702b8e42388c0800000000000000
+      internalID: -3998311462337003872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 39
+        width: 105
+        height: 65
+      alignment: 9
+      pivot: {x: 0.76640743, y: 0.65270525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe92a6f52ac4c410800000000000000
+      internalID: 1496543240594300668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachiSusanooMOde_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 33
+        width: 130
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5638aa38f56e45c0800000000000000
+      internalID: -4229330883243919780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc39a5b88662f3d44bf8a3a8ffbe9ebf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      itachiSusanooMOde_10: 2460601113221232212
+      itachiSusanooMOde_11: 5860017634209345206
+      itachiSusanooMOde_12: -340825537577833595
+      itachiSusanooMOde_13: -8948367153005305616
+      itachiSusanooMOde_14: 3735631174780411130
+      itachiSusanooMOde_15: -1887611424890821694
+      itachiSusanooMOde_16: -4940642085060210021
+      itachiSusanooMOde_17: -2187516500616167274
+      itachiSusanooMOde_18: -617336104554204997
+      itachiSusanooMOde_19: -3998311462337003872
+      itachiSusanooMOde_2: -6799243205791168857
+      itachiSusanooMOde_20: 1496543240594300668
+      itachiSusanooMOde_21: -4229330883243919780
+      itachiSusanooMOde_3: -6149100435397748324
+      itachiSusanooMOde_4: 8481473165803749378
+      itachiSusanooMOde_5: -4467486187557702870
+      itachiSusanooMOde_7: -7569601141054239405
+      itachiSusanooMOde_8: -8229728106464326508
+      itachiSusanooMOde_9: 7628881771527545660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

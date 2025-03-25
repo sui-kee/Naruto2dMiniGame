@@ -15,8 +15,8 @@ public class OroBigSnakeSummonState : StateMachineBehaviour
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        oro.Stop();
-        if(detector.ShouldSummonSnake() && summonSnake.canSummon && !oro.isHurt)
+        oro.rb.linearVelocity = new Vector2(0f,oro.rb.linearVelocity.y);// stop horizontally
+        if( summonSnake.canSummon && !oro.isHurt)//detector.ShouldSummonSnake() &&
         {
             summonSnake.SummonSnake();
         }

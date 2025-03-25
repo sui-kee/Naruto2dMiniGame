@@ -9,6 +9,7 @@ public class ItachiKick : MonoBehaviour
     [SerializeField] private GameObject body1;
     [SerializeField] private GameObject body2;
     private bool canKick = true;
+    public bool targetIsLock = false;  // when kunai hit target it will lock target and make it kickable
     public bool isKicking = false;
     public float spondingPos = 3f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -20,7 +21,7 @@ public class ItachiKick : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.C) && !itachi.isAttacking && !itachi.isHurt )
+        if (Input.GetKeyDown(KeyCode.C) && !itachi.isAttacking && !itachi.isHurt && targetIsLock)
         {
             itachi.isAttacking = true;
             StartCoroutine(ItachiKickSkill());
@@ -29,8 +30,9 @@ public class ItachiKick : MonoBehaviour
 
     private IEnumerator ItachiKickSkill()
     {
-        if(canKick && !isKicking)
+        if(canKick && !isKicking )
         {
+            targetIsLock = false;
             //itachi.tag = "ItachiKickAboveD";// there is a problem of tag name that reach to the target, add this to ensure the tag reach to enemy is * ItachiKickAboveD*
             float kickingRePosition = itachi.isFacingRight ? -0.5f : 0.5f;// for position to direct hit with leg 
             canKick = false;

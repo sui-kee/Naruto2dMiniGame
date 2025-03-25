@@ -15,9 +15,11 @@ public class Itachi : MonoBehaviour
     public float jump_power = 5f;
     public string currentAnimation = "ItachiIdle";
     public string comingAnimation = "";
+    public bool SusanooMode = false;
     public bool isAttacking = false;
     public bool isHurt = false;
     public bool isSpecialKicking = false;// special bool for controlling player linear velocity for kicking skill
+    public float susanooScale = 3f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -29,13 +31,23 @@ public class Itachi : MonoBehaviour
     void Update()
     {
         horizontal = Input.GetAxisRaw("Horizontal");
-        if(Input.GetButtonDown("Jump") && IsGrounded() && !isHurt)
+        if (Input.GetKeyDown(KeyCode.T) && !SusanooMode)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x,jump_power);
+            SusanooMode = true;
+            comingAnimation = "ItachiSSModeIdle";
+            transform.localScale *= susanooScale;
         }
-        BodyController();
+        if (!SusanooMode)
+        {
+            if (Input.GetButtonDown("Jump") && IsGrounded() && !isHurt)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jump_power);
+            }
+           
+            BodyController();
+            PlayerMovementDetector();
+        }
         PlayerAnimatorController();
-        PlayerMovementDetector();
         Flip();
     }
 
@@ -48,6 +60,9 @@ public class Itachi : MonoBehaviour
         if (!isAttacking && !isHurt)
         {
             rb.linearVelocity = new Vector2(speed * horizontal, rb.linearVelocity.y);
+        }else if (currentAnimation == "ItachiBelowDE" && !IsGrounded())// when itachi is kock down and falling
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x,rb.linearVelocity.y);
         }
         else
         {
@@ -112,6 +127,9 @@ public class Itachi : MonoBehaviour
     {
         switch (comingAnimation)
         {
+            case "ItachiSSModeIdle":
+                ChangeAnimation(comingAnimation);
+                break;
             case "ItachiDie":
                 ChangeAnimation(comingAnimation);
                 break;
