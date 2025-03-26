@@ -18,6 +18,7 @@ public class Itachi : MonoBehaviour
     public bool SusanooMode = false;
     public bool isAttacking = false;
     public bool isHurt = false;
+    public bool isDying = false;// this dying bool should be TRUE when ever the player get knock up or knock down and also for death mode
     public bool isSpecialKicking = false;// special bool for controlling player linear velocity for kicking skill
     public float susanooScale = 3f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -44,7 +45,6 @@ public class Itachi : MonoBehaviour
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jump_power);
             }
            
-            BodyController();
             PlayerMovementDetector();
         }
         PlayerAnimatorController();
@@ -53,21 +53,27 @@ public class Itachi : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if(isSpecialKicking)
+        BodyController();
+        if(!isDying)
         {
-            rb.linearVelocity = new Vector2(0f, 0f);
+
+            if(isSpecialKicking)
+            {
+                rb.linearVelocity = new Vector2(0f, 0f);
+            }
+            if (!isAttacking && !isHurt)
+            {
+                rb.linearVelocity = new Vector2(speed * horizontal, rb.linearVelocity.y);
+            }else if (currentAnimation == "ItachiBelowDE" && !IsGrounded())// when itachi is kock down and falling
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x,rb.linearVelocity.y);
+            }
+            else
+            {
+                rb.linearVelocity = new Vector2(0f,rb.linearVelocity.y);// 0f is used to stop player horizontally so it won't move horizontally when the skill is used
+            }
         }
-        if (!isAttacking && !isHurt)
-        {
-            rb.linearVelocity = new Vector2(speed * horizontal, rb.linearVelocity.y);
-        }else if (currentAnimation == "ItachiBelowDE" && !IsGrounded())// when itachi is kock down and falling
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x,rb.linearVelocity.y);
-        }
-        else
-        {
-            rb.linearVelocity = new Vector2(0f,rb.linearVelocity.y);// 0f is used to stop player horizontally so it won't move horizontally when the skill is used
-        }
+        
     }
 
     public void PlayerMovementDetector()
@@ -113,12 +119,21 @@ public class Itachi : MonoBehaviour
 
     private void BodyController()
     {
-        if(currentAnimation == "ItachiRun")
+        if (isDying && IsGrounded())
+        {
+            rb.linearVelocity = new Vector2(0f, 0f);
+            rb.gravityScale = 0f;
+            idleBody.SetActive(false);
+            runBody.SetActive(false);
+        }
+        if (currentAnimation == "ItachiRun")
         {
             idleBody.SetActive(false);
+            runBody.SetActive(true);
         }
-        else if(!kickSkill.isKicking)
+        else if(!kickSkill.isKicking && !isDying)
         {
+            rb.gravityScale = 1f;
             idleBody.SetActive(true);
         }
     }

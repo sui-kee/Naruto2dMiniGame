@@ -6,10 +6,12 @@ public class OroOnRun : StateMachineBehaviour
     Orochimaru oro;
     OroSummonSnake summonSnake;
     Itachi player;
+    OroSummonGates gates;
     public bool shouldPhysicalAttack = false;
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
+        gates = animator.GetComponent<OroSummonGates>();
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Itachi>();
         summonSnake = animator.GetComponent< OroSummonSnake>();
         detector = animator.GetComponent< OroPlayerDetector>(); 
@@ -37,6 +39,10 @@ public class OroOnRun : StateMachineBehaviour
             oro.isIdle = true;// to stop the player movements
             animator.SetTrigger("AboveHurt");
         }
+        if(gates.canSummon && player.IsGrounded() && detector.PlayerIsOnRangeToSummonGate() && !oro.isHurt)
+        {
+            animator.SetTrigger("DevilGates");
+        }
         if (detector.ShouldSummonSnake() && summonSnake.canSummon)
         {
             animator.SetTrigger("SnakeSummon");
@@ -58,6 +64,7 @@ public class OroOnRun : StateMachineBehaviour
         animator.ResetTrigger("AboveHurt");
         animator.ResetTrigger("PhysicalAttack");
         animator.ResetTrigger("SnakeSummon");
+        animator.ResetTrigger("DevilGates");
     }
 
 }

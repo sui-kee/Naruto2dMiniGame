@@ -28,8 +28,8 @@ Transform:
   m_GameObject: {fileID: 520075184858197499}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.67, y: -0.3, z: 0.000042195432}
-  m_LocalScale: {x: 1.353, y: 1.353, z: 1.353}
+  m_LocalPosition: {x: 2.67, y: 0.0084, z: 0.000042195432}
+  m_LocalScale: {x: 1.353, y: 1.6016815, z: 1.353}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2308222774945489587}
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveTo: {fileID: 8438929528497845300}
   speed: 5
-  remove_speed: 0.8
+  remove_speed: 1.5
 --- !u!1 &1517823869841798031
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,7 +261,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &6416140626814024178
 Transform:
   m_ObjectHideFlags: 0
@@ -420,8 +420,8 @@ Transform:
   m_GameObject: {fileID: 7640535946792130231}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.67, y: -0.3, z: 0.000042195432}
-  m_LocalScale: {x: 1.353, y: 1.353, z: 1.353}
+  m_LocalPosition: {x: 2.67, y: 0.0012, z: 0.000042195432}
+  m_LocalScale: {x: 1.353, y: 1.5949165, z: 1.353}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9184838086225991901}
@@ -541,7 +541,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveTo: {fileID: 3362719422708744044}
   speed: 5
-  remove_speed: 0.8
+  remove_speed: 1.5
 --- !u!1 &8434419997543391672
 GameObject:
   m_ObjectHideFlags: 0
@@ -570,8 +570,8 @@ Transform:
   m_GameObject: {fileID: 8434419997543391672}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.67, y: -0.3, z: 0.000042195432}
-  m_LocalScale: {x: 1.353, y: 1.353, z: 1.353}
+  m_LocalPosition: {x: 2.67, y: 0.0371, z: 0.000042195432}
+  m_LocalScale: {x: 1.353, y: 1.6248177, z: 1.353}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3528384227677811953}
@@ -691,4 +691,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveTo: {fileID: 85257725867359838}
   speed: 5
-  remove_speed: 0.8
+  remove_speed: 1.5

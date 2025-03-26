@@ -8,6 +8,7 @@ public class OroPlayerDetector : MonoBehaviour
     public float detectRange = 8f;
     public float stopRange = 1f;
     public float snakeSummonRange = 5f;
+    public float gateSummonRange = 4f;
     public float player_oro_distance;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -54,6 +55,11 @@ public class OroPlayerDetector : MonoBehaviour
     public bool ShouldSummonSnake()
     {
         return player_oro_distance < snakeSummonRange && player_oro_distance > 3;
+    }
+
+    public bool PlayerIsOnRangeToSummonGate()
+    {
+        return player_oro_distance <= gateSummonRange && player_oro_distance>3;
     }
 
     public bool PlayerHorizontalIsHigh()

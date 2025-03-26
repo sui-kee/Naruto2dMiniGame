@@ -25,5 +25,7 @@ public class GateSummoner : MonoBehaviour
         gate2.SetActive(true);
         yield return new WaitForSeconds(0.7f);
         gate3.SetActive(true);
+        yield return new WaitForSeconds(2f);
+        Destroy(gameObject);
     }
 }

@@ -35,7 +35,7 @@ public class OroBody : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag.ToString().ToLower().Contains("belowd"))
+        if (collision.gameObject.tag.ToString().ToLower().Contains("belowd") && !collision.CompareTag("BigSnakeBelowD"))
         {
             oro.belowHurt = true;
             oro.isHurt = true;
