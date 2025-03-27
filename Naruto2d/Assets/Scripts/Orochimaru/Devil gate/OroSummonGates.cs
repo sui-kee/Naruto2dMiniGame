@@ -7,6 +7,7 @@ public class OroSummonGates : MonoBehaviour
     OroPlayerDetector oroDetect;
     [SerializeField] private Transform summoingPos;
     [SerializeField] private GameObject devilGates;
+    [SerializeField] private float summonCooldown = 3f;
     public bool canSummon = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -31,8 +32,9 @@ public class OroSummonGates : MonoBehaviour
             Instantiate(devilGates, summoingPos.position, summoingPos.rotation);
         }
         yield return new WaitForSeconds(1f);
-        canSummon = true;
         oro.isAttacking = false;
+        yield return new WaitForSeconds(summonCooldown);
+        canSummon = true;
     }
 
     public void SummonGates()

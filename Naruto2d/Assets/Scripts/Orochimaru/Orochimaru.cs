@@ -10,7 +10,7 @@ public class Orochimaru : MonoBehaviour
     OroSummonSnake summonSnake;
     OroShootSnakeUp shootSnakeUp;
     public bool isHurt = false;
-    public float runningSpeed = 3f;
+    public float runningSpeed = 2f;
     public bool belowHurt = false;
     public bool aboveHurt = false;
     public bool horizontalHurt = false;

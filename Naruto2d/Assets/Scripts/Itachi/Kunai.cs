@@ -9,9 +9,13 @@ public class Kunai : MonoBehaviour
     public float speed = 6f;
     public float rotation_speed = 100f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    private void Awake()
+    {
+        
+        specialKick = GameObject.FindGameObjectWithTag("ItachiKick").GetComponent<ItachiKick>();
+    }
     void Start()
     {
-        specialKick = GameObject.FindGameObjectWithTag("Player").GetComponent<ItachiKick>();
         rb.linearVelocity = transform.right * speed;
         StartCoroutine(KunaiBehaviour());
     }

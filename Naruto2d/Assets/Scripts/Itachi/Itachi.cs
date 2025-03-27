@@ -9,6 +9,7 @@ public class Itachi : MonoBehaviour
     [SerializeField] private GameObject idleBody;
     [SerializeField] private GameObject runBody;
     [SerializeField] private ItachiKick kickSkill;
+    [SerializeField] private float Ground_CheckPoint_radius = 0.3f;
     private float horizontal;
     public bool isFacingRight = true;
     public float speed = 4f;
@@ -97,7 +98,7 @@ public class Itachi : MonoBehaviour
     }
     public bool IsGrounded()
     {
-        return Physics2D.OverlapCircle(groundCheck.position, 0.3f, groundLayer);
+        return Physics2D.OverlapCircle(groundCheck.position, Ground_CheckPoint_radius, groundLayer);
     }
     private void Flip()
     {

@@ -12,7 +12,11 @@ public class OnSightState : StateMachineBehaviour
         shootSnakeUp = animator.GetComponent<OroShootSnakeUp>();
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Itachi>();
         detector = animator.GetComponent<OroPlayerDetector>();
-        oro = animator.GetComponent<Orochimaru>();
+        if(detector == null)
+        {
+            Debug.Log(" Yes it indeed null once");
+        }
+        oro =animator.GetComponent<Orochimaru>();
         oro.isHurt = false;
     }
 

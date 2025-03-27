@@ -16,6 +16,7 @@ TagManager:
   - OroFlyDetector
   - OroObjectDetector
   - OrochimaruBody
+  - AudioManager
   layers:
   - Default
   - TransparentFX

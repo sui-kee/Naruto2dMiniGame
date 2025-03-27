@@ -12,11 +12,11 @@ GameObject:
   - component: {fileID: 8976911260534636982}
   - component: {fileID: 1737600575448689960}
   - component: {fileID: 4233428742904139100}
-  - component: {fileID: 7188400991073300128}
   - component: {fileID: 377838365502619975}
+  - component: {fileID: 7188400991073300128}
   m_Layer: 0
   m_Name: Flying snake
-  m_TagString: Untagged
+  m_TagString: BigSnakeBelowD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -140,24 +140,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &7188400991073300128
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 933502217657486466}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 607d1e812a3242a4dbc0e16bf1b0a41b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rb: {fileID: 4233428742904139100}
-  animator: {fileID: 1737600575448689960}
-  speed: 11
-  targetDirection: {x: 0, y: 0}
-  rotation: 0
-  isFacingRight: 1
 --- !u!61 &377838365502619975
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -204,3 +186,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.1551758, y: 0.10348016}
   m_EdgeRadius: 0
+--- !u!114 &7188400991073300128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 933502217657486466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 607d1e812a3242a4dbc0e16bf1b0a41b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 4233428742904139100}
+  animator: {fileID: 1737600575448689960}
+  speed: 11
+  targetDirection: {x: 0, y: 0}
+  rotation: 0
+  isFacingRight: 1

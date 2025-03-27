@@ -5,10 +5,10 @@ public class OroPlayerDetector : MonoBehaviour
     [SerializeField] private Orochimaru oro;
     [SerializeField] private Itachi itachi;
     [Header("........Ranges........")]
-    public float detectRange = 8f;
+    public float detectRange = 10f;
     public float stopRange = 1f;
-    public float snakeSummonRange = 5f;
-    public float gateSummonRange = 4f;
+    public float snakeSummonRange = 7f;
+    public float gateSummonRange = 6f;
     public float player_oro_distance;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
