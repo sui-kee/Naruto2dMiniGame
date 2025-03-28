@@ -8,10 +8,16 @@ public class ItachiKick : MonoBehaviour
     [SerializeField] private Transform enemyPos;
     [SerializeField] private GameObject body1;
     [SerializeField] private GameObject body2;
+    AudioManager audioManager;
     private bool canKick = true;
     public bool targetIsLock = false;  // when kunai hit target it will lock target and make it kickable
     public bool isKicking = false;
     public float spondingPos = 3f;
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
+    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -23,6 +29,7 @@ public class ItachiKick : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.C) && !itachi.isAttacking && !itachi.isHurt && targetIsLock)
         {
+            itachi.isSpecialKicking = true;
             itachi.isAttacking = true;
             StartCoroutine(ItachiKickSkill());
         }
@@ -32,17 +39,15 @@ public class ItachiKick : MonoBehaviour
     {
         if(canKick && !isKicking )
         {
+            audioManager.PlaySFX(audioManager.ItachiTsukyumi);
             targetIsLock = false;
             //itachi.tag = "ItachiKickAboveD";// there is a problem of tag name that reach to the target, add this to ensure the tag reach to enemy is * ItachiKickAboveD*
             float kickingRePosition = itachi.isFacingRight ? -0.5f : 0.5f;// for position to direct hit with leg 
             canKick = false;
             isKicking=true;
-            itachi.isSpecialKicking = true;
 
             itachi.comingAnimation = "ItachiKick";
             itachi.rb.gravityScale = 0f;
-            body1.SetActive(false);
-            body2.SetActive(false);
             yield return new WaitForSeconds(0.30f);
             //itachi.rb.gravityScale = 1f;
             itachi.transform.position = new Vector2(enemyPos.position.x + kickingRePosition, enemyPos.position.y+spondingPos);

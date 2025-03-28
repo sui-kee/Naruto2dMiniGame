@@ -13,6 +13,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] public AudioClip ItachiFireballStart;
     [SerializeField] public AudioClip ItachiFireballEnd;
     [SerializeField] public AudioClip ItachiHurt;
+    [SerializeField] public AudioClip ItachiTsukyumi;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

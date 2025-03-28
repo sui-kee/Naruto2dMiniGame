@@ -120,6 +120,11 @@ public class Itachi : MonoBehaviour
 
     private void BodyController()
     {
+        if (isSpecialKicking)
+        {
+            idleBody.SetActive(false);
+            runBody.SetActive(false);   
+        }
         if (isDying && IsGrounded())
         {
             rb.linearVelocity = new Vector2(0f, 0f);

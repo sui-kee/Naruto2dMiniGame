@@ -15,7 +15,6 @@ GameObject:
   - component: {fileID: 1693187861678449641}
   - component: {fileID: 665407377792873153}
   - component: {fileID: 8943293281303074330}
-  - component: {fileID: 8927202915329031367}
   - component: {fileID: 6137626677948347272}
   - component: {fileID: 1387210055920288018}
   m_Layer: 0
@@ -171,7 +170,8 @@ MonoBehaviour:
   animator: {fileID: 1815361732073660900}
   idleBody: {fileID: 4252428461235301550}
   runBody: {fileID: 5569671882106606425}
-  kickSkill: {fileID: 8927202915329031367}
+  kickSkill: {fileID: 0}
+  Ground_CheckPoint_radius: 0.3
   isFacingRight: 1
   speed: 4
   jump_power: 7
@@ -180,6 +180,7 @@ MonoBehaviour:
   SusanooMode: 0
   isAttacking: 0
   isHurt: 0
+  isDying: 0
   isSpecialKicking: 0
   susanooScale: 3
 --- !u!114 &665407377792873153
@@ -212,26 +213,6 @@ MonoBehaviour:
   kunai: {fileID: 7086636697201096733, guid: 58e2202e9ec3632479e62e60f0db9763, type: 3}
   shootingPoint: {fileID: 617670525653280350}
   itachi: {fileID: 1693187861678449641}
---- !u!114 &8927202915329031367
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 478502891051809813}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a407b1dfaac33d46a4240fbf2e5ed93, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itachi: {fileID: 1693187861678449641}
-  skillDamageBox: {fileID: 2020006879727503729}
-  enemyPos: {fileID: 0}
-  body1: {fileID: 0}
-  body2: {fileID: 0}
-  targetIsLock: 0
-  isKicking: 0
-  spondingPos: 1.8
 --- !u!114 &6137626677948347272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -633,6 +614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f8d70d40f95fbd4bbe17fdfe6a16f7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hitThurst: 2
 --- !u!1 &8909246323654819948
 GameObject:
   m_ObjectHideFlags: 0

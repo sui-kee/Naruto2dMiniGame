@@ -641,9 +641,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 104
-        y: 267
+        y: 258
         width: 63
-        height: 75
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -663,9 +663,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 176
-        y: 300
-        width: 31
-        height: 37
+        y: 257
+        width: 64
+        height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -681,101 +681,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OroSnakeSummon-removebg-preview_20
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 290
-        width: 35
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d10ba20c7959aa00800000000000000
-      internalID: 768243600598958547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: OroSnakeSummon-removebg-preview_21
-      rect:
-        serializedVersion: 2
-        x: 279
-        y: 329
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80b8f063f62f94a50800000000000000
-      internalID: 6505997696175672072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: OroSnakeSummon-removebg-preview_22
-      rect:
-        serializedVersion: 2
-        x: 296
-        y: 303
-        width: 30
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d49ba14e2d579b00800000000000000
-      internalID: 835238709152158928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: OroSnakeSummon-removebg-preview_23
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 311
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a5216267eaa3be40800000000000000
-      internalID: 5671064266554287528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: OroSnakeSummon-removebg-preview_24
       rect:
         serializedVersion: 2
-        x: 264
-        y: 311
-        width: 18
-        height: 17
+        x: 252
+        y: 257
+        width: 73
+        height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -808,28 +720,6 @@ TextureImporter:
       bones: []
       spriteID: 39d2299f376e5bb20800000000000000
       internalID: 3149676900198264211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: OroSnakeSummon-removebg-preview_26
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 286
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 616b4c2c3ff54cad0800000000000000
-      internalID: -2682913977456609770
       vertices: []
       indices: 
       edges: []

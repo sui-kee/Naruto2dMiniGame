@@ -855,7 +855,7 @@ GameObject:
   - component: {fileID: 285559600}
   - component: {fileID: 285559603}
   m_Layer: 0
-  m_Name: CinemachineCamera
+  m_Name: PlayerCamera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -905,7 +905,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 34
-    OrthographicSize: 4.95
+    OrthographicSize: 4.5
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -1661,7 +1661,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 4.95
+  orthographic size: 4.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1820,17 +1820,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 60b855a7b93d8c5488975a4d14a3f865, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &574829547 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 8927202915329031367, guid: 1f47c5fe2e4c8ac4e84bf560766738cb, type: 3}
-  m_PrefabInstance: {fileID: 8011894442384262982}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a407b1dfaac33d46a4240fbf2e5ed93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &672961385
@@ -2141,7 +2130,7 @@ MonoBehaviour:
   body2: {fileID: 1910405477}
   targetIsLock: 0
   isKicking: 0
-  spondingPos: 3
+  spondingPos: 2
 --- !u!1 &952931243
 GameObject:
   m_ObjectHideFlags: 0
@@ -2369,7 +2358,7 @@ AudioSource:
   m_Volume: 0.166
   m_Pitch: 1
   Loop: 0
-  Mute: 0
+  Mute: 1
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
@@ -3007,6 +2996,7 @@ MonoBehaviour:
   ItachiFireballStart: {fileID: 8300000, guid: 3bc2e1ebcf326ef4c928b517cf05c5a7, type: 3}
   ItachiFireballEnd: {fileID: 8300000, guid: f9d81f23075106740a6c7f400c287971, type: 3}
   ItachiHurt: {fileID: 8300000, guid: 157c672d478fae445ba5038aa596f679, type: 3}
+  ItachiTsukyumi: {fileID: 8300000, guid: ec7b02d13d8990c4d9af8005829d5c06, type: 3}
 --- !u!81 &1280464775
 AudioListener:
   m_ObjectHideFlags: 0
@@ -4768,6 +4758,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 574829542}
+    - target: {fileID: 5046138747272209763, guid: 468b86be875287b4da99c43f80b0a46f, type: 3}
+      propertyPath: BigSnake
+      value: 
+      objectReference: {fileID: 7078168926847681378, guid: 3ca292ca3102225468fffdf241896c1c, type: 3}
     - target: {fileID: 5629773459160075937, guid: 468b86be875287b4da99c43f80b0a46f, type: 3}
       propertyPath: m_Name
       value: Orochimaru
@@ -4904,7 +4898,7 @@ PrefabInstance:
     - target: {fileID: 1693187861678449641, guid: 1f47c5fe2e4c8ac4e84bf560766738cb, type: 3}
       propertyPath: kickSkill
       value: 
-      objectReference: {fileID: 574829547}
+      objectReference: {fileID: 837538919}
     - target: {fileID: 1693187861678449641, guid: 1f47c5fe2e4c8ac4e84bf560766738cb, type: 3}
       propertyPath: jump_power
       value: 9

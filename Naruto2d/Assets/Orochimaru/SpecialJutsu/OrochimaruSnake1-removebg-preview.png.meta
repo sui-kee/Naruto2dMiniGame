@@ -202,7 +202,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -213,7 +213,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -240,7 +240,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -273,7 +273,7 @@ TextureImporter:
         width: 107
         height: 216
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -292,10 +292,10 @@ TextureImporter:
         serializedVersion: 2
         x: 12
         y: 103
-        width: 143
-        height: 76
+        width: 46
+        height: 66
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -309,15 +309,103 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 125
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4041e7c604b9c96d0800000000000000
+      internalID: -2982338152225696764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 103
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e094745f06277e40800000000000000
+      internalID: 5654029704470237417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 157
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8808fb1677b4d30800000000000000
+      internalID: 4416755121275308226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 161
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2959527aef6e39e30800000000000000
+      internalID: 4509201633328338322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: OrochimaruSnake1-removebg-preview_6
       rect:
         serializedVersion: 2
         x: 320
         y: 103
-        width: 148
-        height: 76
+        width: 35
+        height: 83
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -331,15 +419,389 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 165
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f7c010495c54a30800000000000000
+      internalID: 4198979467056283496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 151
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53e7d2a51f784a0800000000000000
+      internalID: -6591034160020834848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6784cb2ea7d5bf0800000000000000
+      internalID: -333975683115485533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 147
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28569c2f0ba1d96e0800000000000000
+      internalID: -1829276526352702078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 149
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2477675ec5b4f60800000000000000
+      internalID: 8019605702068093644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 103
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc351e56100103550800000000000000
+      internalID: 6138423890296263629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 121
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dc3bf7592a5f140800000000000000
+      internalID: 4752883744735743246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 139
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14831bd0d51a36b30800000000000000
+      internalID: 4279441491965851713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 103
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282714652fba69790800000000000000
+      internalID: -7523637070158269822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 135
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0696884da236eb950800000000000000
+      internalID: 6466715150556096864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e8af92bcc8b4530800000000000000
+      internalID: 3840317911474015781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b622c0a2a48ac5f0800000000000000
+      internalID: -735629755105007945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 103
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edb25013b183d160800000000000000
+      internalID: 7049120447837945321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e2ecfc20a21f60800000000000000
+      internalID: 8003635602872525495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 109
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93249c323e6eb7540800000000000000
+      internalID: 5006849273984795193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 104
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ea2fccf223053d0800000000000000
+      internalID: -3220018552686596486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 128
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb97be8eec70e810800000000000000
+      internalID: 1792570015731915700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: OrochimaruSnake1-removebg-preview_24
       rect:
         serializedVersion: 2
-        x: 164
+        x: 210
         y: 107
-        width: 147
-        height: 76
+        width: 23
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -353,15 +815,279 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 103
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127eb51b013b91160800000000000000
+      internalID: 6996820380373215009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 103
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f87d203a5764b140800000000000000
+      internalID: 4734522745326237936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 103
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695e7fb4ec56b0f0800000000000000
+      internalID: -1101590921310480030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f12f47c78862aa0800000000000000
+      internalID: -6186106970027450610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 59
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf03ee399716790800000000000000
+      internalID: -7538610624978158944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12236e142b867070800000000000000
+      internalID: 8103817566744683038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 53
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd7b0c2c3474170800000000000000
+      internalID: 8162567353368305632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 67
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5b8997e5ff00ea0800000000000000
+      internalID: -5908441929878030926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250664b177d23b4f0800000000000000
+      internalID: -814257118041972654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cdf6caeb7a7bdf0800000000000000
+      internalID: -164478423997096924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a005b04bfebc69c0800000000000000
+      internalID: -3932558388269612893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 23
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d2fb9cb2f553840800000000000000
+      internalID: 5203169586169458042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: OrochimaruSnake1-removebg-preview_37
       rect:
         serializedVersion: 2
-        x: 172
+        x: 208
         y: 12
-        width: 139
-        height: 76
+        width: 24
+        height: 53
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -375,15 +1101,169 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092559f39dd2f8e50800000000000000
+      internalID: 6813715172332753552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f3b2e6c0fd5190800000000000000
+      internalID: -7971951028378274878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a388a42f875b300800000000000000
+      internalID: 267252734926273141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 23
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59940dedad98ba7f0800000000000000
+      internalID: -600234552189761131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468532e7c7d16f5b0800000000000000
+      internalID: -5335044288044378012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2172cb5dcca076cc0800000000000000
+      internalID: -3717991092495571182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04110708719ee9cf0800000000000000
+      internalID: -243501042683080384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: OrochimaruSnake1-removebg-preview_45
       rect:
         serializedVersion: 2
         x: 12
         y: 12
-        width: 151
-        height: 76
+        width: 34
+        height: 23
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -396,11 +1276,231 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6da628344b927a60800000000000000
+      internalID: 7670363832667516271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e4fb9463bbeebb0800000000000000
+      internalID: -4904777102319989190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 14
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d985340f1ebcbb0800000000000000
+      internalID: -4914586146306482859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7d6a725a695d490800000000000000
+      internalID: -7722100349977831479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 12
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5256c85958f2a0390800000000000000
+      internalID: -7851410749580876507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263338cef5bb55ea0800000000000000
+      internalID: -5884591317425376414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e002dab0f2872ce30800000000000000
+      internalID: 4522309119288090638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4b940e8400b3bc0800000000000000
+      internalID: -3802445147383679787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 12
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb323374fc03010800000000000000
+      internalID: 1166660208196566475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrochimaruSnake1-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 12
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb005530d0b8c6890800000000000000
+      internalID: -7463437594453016385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 719d2ee9b01e53a45a38de0c30c1f390
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -409,63 +1509,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      OrochimaruSnake1-removebg-preview_0: -3397345810611633699
-      OrochimaruSnake1-removebg-preview_1: -4072597097013529644
-      OrochimaruSnake1-removebg-preview_10: -1829276526352702078
-      OrochimaruSnake1-removebg-preview_11: 8019605702068093644
-      OrochimaruSnake1-removebg-preview_12: 6138423890296263629
-      OrochimaruSnake1-removebg-preview_13: 4752883744735743246
-      OrochimaruSnake1-removebg-preview_14: 4279441491965851713
-      OrochimaruSnake1-removebg-preview_15: -7523637070158269822
-      OrochimaruSnake1-removebg-preview_16: 6466715150556096864
-      OrochimaruSnake1-removebg-preview_17: 3840317911474015781
-      OrochimaruSnake1-removebg-preview_18: -735629755105007945
-      OrochimaruSnake1-removebg-preview_19: 7049120447837945321
-      OrochimaruSnake1-removebg-preview_2: -2982338152225696764
-      OrochimaruSnake1-removebg-preview_20: 8003635602872525495
-      OrochimaruSnake1-removebg-preview_21: 5006849273984795193
-      OrochimaruSnake1-removebg-preview_22: -3220018552686596486
-      OrochimaruSnake1-removebg-preview_23: 1792570015731915700
-      OrochimaruSnake1-removebg-preview_24: -1205195012928823750
-      OrochimaruSnake1-removebg-preview_25: 6996820380373215009
-      OrochimaruSnake1-removebg-preview_26: 4734522745326237936
-      OrochimaruSnake1-removebg-preview_27: -1101590921310480030
-      OrochimaruSnake1-removebg-preview_28: -6186106970027450610
-      OrochimaruSnake1-removebg-preview_29: -7538610624978158944
-      OrochimaruSnake1-removebg-preview_3: 5654029704470237417
-      OrochimaruSnake1-removebg-preview_30: 8103817566744683038
-      OrochimaruSnake1-removebg-preview_31: 8162567353368305632
-      OrochimaruSnake1-removebg-preview_32: -5908441929878030926
-      OrochimaruSnake1-removebg-preview_33: -814257118041972654
-      OrochimaruSnake1-removebg-preview_34: -164478423997096924
-      OrochimaruSnake1-removebg-preview_35: -3932558388269612893
-      OrochimaruSnake1-removebg-preview_36: 5203169586169458042
-      OrochimaruSnake1-removebg-preview_37: 8927567225391934095
-      OrochimaruSnake1-removebg-preview_38: 6813715172332753552
-      OrochimaruSnake1-removebg-preview_39: -7971951028378274878
-      OrochimaruSnake1-removebg-preview_4: 4416755121275308226
-      OrochimaruSnake1-removebg-preview_40: 267252734926273141
-      OrochimaruSnake1-removebg-preview_41: -600234552189761131
-      OrochimaruSnake1-removebg-preview_42: -5335044288044378012
-      OrochimaruSnake1-removebg-preview_43: -3717991092495571182
-      OrochimaruSnake1-removebg-preview_44: -243501042683080384
-      OrochimaruSnake1-removebg-preview_45: -4453463678624861363
-      OrochimaruSnake1-removebg-preview_46: 7670363832667516271
-      OrochimaruSnake1-removebg-preview_47: -4904777102319989190
-      OrochimaruSnake1-removebg-preview_48: -4914586146306482859
-      OrochimaruSnake1-removebg-preview_49: -7722100349977831479
-      OrochimaruSnake1-removebg-preview_5: 4509201633328338322
-      OrochimaruSnake1-removebg-preview_50: -7851410749580876507
-      OrochimaruSnake1-removebg-preview_51: -5884591317425376414
-      OrochimaruSnake1-removebg-preview_52: 4522309119288090638
-      OrochimaruSnake1-removebg-preview_53: -3802445147383679787
-      OrochimaruSnake1-removebg-preview_54: 1166660208196566475
-      OrochimaruSnake1-removebg-preview_55: -7463437594453016385
-      OrochimaruSnake1-removebg-preview_6: -7010339539251303009
-      OrochimaruSnake1-removebg-preview_7: 4198979467056283496
-      OrochimaruSnake1-removebg-preview_8: -6591034160020834848
-      OrochimaruSnake1-removebg-preview_9: -333975683115485533
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

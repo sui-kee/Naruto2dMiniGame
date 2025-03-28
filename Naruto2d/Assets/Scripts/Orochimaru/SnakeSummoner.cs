@@ -9,7 +9,7 @@ public class SnakeSummoner : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Invoke(nameof(RemoveSnake), 1f);
+        Invoke(nameof(RemoveSnake), 1.20f);
         StartCoroutine(SummonBigSnake());
     }
 
