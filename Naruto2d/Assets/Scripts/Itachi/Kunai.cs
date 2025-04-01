@@ -6,6 +6,7 @@ public class Kunai : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
     ItachiKick specialKick;
+    //GameObject target=null;
     public float speed = 6f;
     public float rotation_speed = 100f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -24,6 +25,10 @@ public class Kunai : MonoBehaviour
     void Update()
     {
         //transform.Rotate(0f,0f,-rotation_speed*Time.deltaTime);
+        //if(target != null)
+        //{
+        //    transform.position = new Vector2(target.transform.position.x, target.transform.position.y + 2);
+        //}
 
     }
 
@@ -36,7 +41,8 @@ public class Kunai : MonoBehaviour
     {
         if (collision.CompareTag("OrochimaruBody"))
         {
-            specialKick.targetIsLock = true;
+
+            specialKick.target = collision.gameObject;
             Destroy(gameObject);
         }
         if (!collision.CompareTag("OroObjectDetector"))
@@ -44,4 +50,9 @@ public class Kunai : MonoBehaviour
             Destroy(gameObject);
         }   
     }
+
+    //public void DestroyKunai()
+    //{
+    //    Destroy(gameObject);
+    //}
 }

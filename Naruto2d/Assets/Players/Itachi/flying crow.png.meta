@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: a96a655677df71f4aaa09069250fce1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3615347358651571948
+    second: flying crow_0
+  - first:
+      213: -8410231278952955955
+    second: flying crow_1
+  - first:
+      213: 6473153765251712016
+    second: flying crow_2
+  - first:
+      213: 1561874148010727528
+    second: flying crow_3
+  - first:
+      213: -6918136655569357014
+    second: flying crow_4
+  - first:
+      213: 7439682525702941505
+    second: flying crow_5
+  - first:
+      213: -7349566440797455547
+    second: flying crow_6
+  - first:
+      213: -5245247832970143589
+    second: flying crow_7
+  - first:
+      213: -8866527724407736641
+    second: flying crow_8
+  - first:
+      213: -6688755156541474817
+    second: flying crow_9
+  - first:
+      213: -1651459430363739995
+    second: flying crow_10
+  - first:
+      213: 1622782564767083770
+    second: flying crow_11
+  - first:
+      213: 300983074588284678
+    second: flying crow_12
+  - first:
+      213: -1212687358538294981
+    second: flying crow_13
+  - first:
+      213: -8486754290211647332
+    second: flying crow_14
+  - first:
+      213: -5260500808851216118
+    second: flying crow_15
+  - first:
+      213: 2607545785795177964
+    second: flying crow_16
+  - first:
+      213: -1102567112494689474
+    second: flying crow_17
+  - first:
+      213: -6468393417858780941
+    second: flying crow_18
+  - first:
+      213: -4921054516447841087
+    second: flying crow_19
+  - first:
+      213: -7275057417669336784
+    second: flying crow_20
+  - first:
+      213: 5636579457369584709
+    second: flying crow_21
+  - first:
+      213: -7269346538388245969
+    second: flying crow_22
+  - first:
+      213: -5232707354201397576
+    second: flying crow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flying crow_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 120
+        width: 82
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5361783, y: 0.25278276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf312b063bd84b80800000000000000
+      internalID: -8410231278952955955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_8
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 121
+        width: 89
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5166667, y: 0.33744624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb63683f204c3f480800000000000000
+      internalID: -8866527724407736641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 114
+        height: 61
+      alignment: 9
+      pivot: {x: 0.44795415, y: 0.32978445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afca3a01528458610800000000000000
+      internalID: 1622782564767083770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 120
+        width: 135
+        height: 37
+      alignment: 9
+      pivot: {x: 0.48901254, y: 0.5801796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6075d3cf28e4d2400800000000000000
+      internalID: 300983074588284678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 120
+        width: 126
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54708934, y: 0.63088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9099e310fdf83a80800000000000000
+      internalID: -8486754290211647332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 110
+        width: 72
+        height: 47
+      alignment: 9
+      pivot: {x: 0.396993, y: 0.6262382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a4cbb262fef6b0800000000000000
+      internalID: -5260500808851216118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_16
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 97
+        width: 86
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5517436, y: 0.80169004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced63e9a31ddf2420800000000000000
+      internalID: 2607545785795177964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 112
+        width: 72
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45879787, y: 0.730737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33d9b68d05e2b0f0800000000000000
+      internalID: -1102567112494689474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_18
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 120
+        width: 87
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44885182, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f07d0d1576ab36a0800000000000000
+      internalID: -6468393417858780941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying crow_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 121
+        width: 103
+        height: 51
+      alignment: 9
+      pivot: {x: 0.3991936, y: 0.47091645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c47bca7df6e4bbb0800000000000000
+      internalID: -4921054516447841087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e0f026523af17584f9cb3818dd477c3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flying crow_0: -3615347358651571948
+      flying crow_1: -8410231278952955955
+      flying crow_10: -1651459430363739995
+      flying crow_11: 1622782564767083770
+      flying crow_12: 300983074588284678
+      flying crow_13: -1212687358538294981
+      flying crow_14: -8486754290211647332
+      flying crow_15: -5260500808851216118
+      flying crow_16: 2607545785795177964
+      flying crow_17: -1102567112494689474
+      flying crow_18: -6468393417858780941
+      flying crow_19: -4921054516447841087
+      flying crow_2: 6473153765251712016
+      flying crow_20: -7275057417669336784
+      flying crow_21: 5636579457369584709
+      flying crow_22: -7269346538388245969
+      flying crow_23: -5232707354201397576
+      flying crow_3: 1561874148010727528
+      flying crow_4: -6918136655569357014
+      flying crow_5: 7439682525702941505
+      flying crow_6: -7349566440797455547
+      flying crow_7: -5245247832970143589
+      flying crow_8: -8866527724407736641
+      flying crow_9: -6688755156541474817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
