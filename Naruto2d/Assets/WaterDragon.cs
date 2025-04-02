@@ -2,19 +2,21 @@ using UnityEngine;
 
 public class WaterDragon : MonoBehaviour
 {
+    [SerializeField] private DragonGate dragonGate;
     [SerializeField] private Rigidbody2D rb;
-    Transform target;
+    public Transform target;
     public float speed = 1f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        target = GameObject.FindGameObjectWithTag("Player").transform;
+        target = dragonGate.dragon_target;
         rb.linearVelocity = transform.right * speed;
     }
 
     // Update is called once per frame
     void Update()
     {
+        target = dragonGate.dragon_target;
         Vector3 targetPos = new Vector3(target.position.x, target.position.y);
         Vector3 direction = (targetPos - transform.position).normalized;
 
@@ -26,5 +28,13 @@ public class WaterDragon : MonoBehaviour
         //Vector3 newPosition = Vector3.MoveTowards(transform.position, target.position,Time.deltaTime);
         //rb.MovePosition(newPosition);
         //rb.linearVelocity = new Vector2(rb.linearVelocity.x*speed,rb.linearVelocity.y);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+        }
     }
 }

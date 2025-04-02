@@ -17,6 +17,7 @@ TagManager:
   - OroObjectDetector
   - OrochimaruBody
   - AudioManager
+  - WaterDragon
   layers:
   - Default
   - TransparentFX
