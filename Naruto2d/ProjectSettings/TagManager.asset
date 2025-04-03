@@ -18,6 +18,8 @@ TagManager:
   - OrochimaruBody
   - AudioManager
   - WaterDragon
+  - AnbuEnemy
+  - AnbuBody
   layers:
   - Default
   - TransparentFX

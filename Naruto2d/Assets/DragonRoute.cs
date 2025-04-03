@@ -2,8 +2,9 @@ using UnityEngine;
 
 public class DragonRoute : MonoBehaviour
 {
-    [SerializeField] private Transform nextRoute;// when the dragon reach this gameobj route and must church to this next route 
     [SerializeField] private DragonGate dragonGate;
+    public Transform next_route;// when the dragon reach this gameobj route and must church to this next route 
+    public bool lastRoute = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,6 +21,7 @@ public class DragonRoute : MonoBehaviour
     {
         if (collision.CompareTag("WaterDragon"))
         {
+            Transform nextRoute = lastRoute ? dragonGate.itachi.transform : next_route;
             dragonGate.dragon_target = nextRoute;
             Destroy(gameObject);
         }

@@ -4,13 +4,21 @@ public class WaterDragon : MonoBehaviour
 {
     [SerializeField] private DragonGate dragonGate;
     [SerializeField] private Rigidbody2D rb;
+    AnbuWaterJutsu jutsu;
+    Anbu anbu;
     public Transform target;
     public float speed = 1f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        anbu = GameObject.FindGameObjectWithTag("AnbuEnemy").GetComponent<Anbu>();
+        jutsu = GameObject.FindGameObjectWithTag("AnbuEnemy").GetComponentInChildren<AnbuWaterJutsu>();
         target = dragonGate.dragon_target;
         rb.linearVelocity = transform.right * speed;
+        if (!anbu.isFacingRight)
+        {
+            transform.Rotate(180f,0f,0f);
+        }
     }
 
     // Update is called once per frame
@@ -30,11 +38,13 @@ public class WaterDragon : MonoBehaviour
         //rb.linearVelocity = new Vector2(rb.linearVelocity.x*speed,rb.linearVelocity.y);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Destroy(gameObject);
+            jutsu.canSummon = true;
+            Destroy(dragonGate.gameObject);
         }
     }
 }

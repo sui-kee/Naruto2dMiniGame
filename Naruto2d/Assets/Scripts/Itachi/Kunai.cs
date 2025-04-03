@@ -39,7 +39,7 @@ public class Kunai : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("OrochimaruBody"))
+        if (collision.CompareTag("OrochimaruBody") || collision.CompareTag("AnbuBody"))
         {
 
             specialKick.target = collision.gameObject;
