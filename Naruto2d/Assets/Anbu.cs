@@ -26,7 +26,7 @@ public class Anbu : MonoBehaviour
         rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
         distance = Vector2.Distance(itachi.transform.position,transform.position);
         Flip();
-        Debug.Log($" P vs Anbu distance: {distance} child- {anbuBody.player_anbu_distance}");
+        //Debug.Log($" P vs Anbu distance: {distance} child- {anbuBody.player_anbu_distance}");
     }
 
     public bool IsGrounded()

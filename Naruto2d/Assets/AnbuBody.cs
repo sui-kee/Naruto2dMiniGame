@@ -18,7 +18,17 @@ public class AnbuBody : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!collision.gameObject.CompareTag("Wall"))
+        //Debug.Log($"hit by:{collision.gameObject.tag}");
+        if (collision.gameObject.CompareTag("ItachiKickAboveD"))
+        {
+            anbu.isHurt = true;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log($"hit by:{collision.gameObject.tag}");
+        if (collision.CompareTag("ItachiKickAboveD"))
         {
             anbu.isHurt = true;
         }

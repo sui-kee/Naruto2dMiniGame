@@ -47,6 +47,7 @@ public class Kunai : MonoBehaviour
         }
         if (!collision.CompareTag("OroObjectDetector"))
         {
+            //specialKick.target = gameObject; 
             Destroy(gameObject);
         }   
     }
