@@ -14,7 +14,7 @@ public class WaterDragon : MonoBehaviour
         anbu = GameObject.FindGameObjectWithTag("AnbuEnemy").GetComponent<Anbu>();
         jutsu = GameObject.FindGameObjectWithTag("AnbuEnemy").GetComponentInChildren<AnbuWaterJutsu>();
         target = dragonGate.dragon_target;
-        rb.linearVelocity = transform.right * speed;
+        //rb.linearVelocity = transform.right * speed;
         if (!anbu.isFacingRight)
         {
             transform.Rotate(180f,0f,0f);

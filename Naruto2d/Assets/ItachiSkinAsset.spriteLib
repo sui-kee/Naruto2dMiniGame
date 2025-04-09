@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: normal idle
+    m_Hash: 841269355
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: itachiHeadSkin_0
+      m_Hash: 550061498
+      m_Sprite: {fileID: -1319105784493336573, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1319105784493336573, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+    - m_Name: itachiHeadSkin_1
+      m_Hash: 399406380
+      m_Sprite: {fileID: -8016007422005508618, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8016007422005508618, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+    - m_Name: itachiHeadSkin_2
+      m_Hash: 247932054
+      m_Sprite: {fileID: 7670595495710448242, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7670595495710448242, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+    - m_Name: itachiHeadSkin_3
+      m_Hash: 968889344
+      m_Sprite: {fileID: 9027269784849648223, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 9027269784849648223, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+    - m_Name: itachiHeadSkin_4
+      m_Hash: 665092515
+      m_Sprite: {fileID: -5489332930994977127, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5489332930994977127, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+    - m_Name: itachiHeadSkin_6
+      m_Hash: 162193551
+      m_Sprite: {fileID: -1910752368200024703, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1910752368200024703, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+    - m_Name: itachiHeadSkin_7
+      m_Hash: 1051578393
+      m_Sprite: {fileID: 8355671258489810920, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8355671258489810920, guid: 54d8ad09a9956ae498e893f338a1b809, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 7
+  - m_Name: normal no skin
+    m_Hash: 295437768
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: ItachBasic_6
+      m_Hash: 273233948
+      m_Sprite: {fileID: -9041565379864246723, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -9041565379864246723, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+    - m_Name: ItachBasic_7
+      m_Hash: 659425418
+      m_Sprite: {fileID: -7421999051931843186, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7421999051931843186, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+    - m_Name: ItachBasic_8
+      m_Hash: 938546459
+      m_Sprite: {fileID: -6960441462323390533, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6960441462323390533, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+    - m_Name: ItachBasic_9
+      m_Hash: 16131469
+      m_Sprite: {fileID: -7625624860208173247, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7625624860208173247, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+    - m_Name: ItachBasic_10
+      m_Hash: 789273745
+      m_Sprite: {fileID: 5411426628884560988, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5411426628884560988, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+    - m_Name: ItachBasic_11
+      m_Hash: 403467271
+      m_Sprite: {fileID: -1168570294491705429, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1168570294491705429, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+    - m_Name: ItachBasic_12
+      m_Hash: 17120701
+      m_Sprite: {fileID: 245748599558123763, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 245748599558123763, guid: de0e7d5fd2e082844a148269c603e71b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 7
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638796719175217108
+  m_Version: 1

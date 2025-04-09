@@ -148,6 +148,9 @@ public class Itachi : MonoBehaviour
     {
         switch (comingAnimation)
         {
+            case "ItachiVanish":
+                ChangeAnimation(comingAnimation);
+                break;
             case "ItachiSSModeIdle":
                 ChangeAnimation(comingAnimation);
                 break;

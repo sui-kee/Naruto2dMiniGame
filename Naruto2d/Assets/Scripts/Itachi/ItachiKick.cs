@@ -10,8 +10,10 @@ public class ItachiKick : MonoBehaviour
     AudioManager audioManager;
     private bool canKick = true;
     public GameObject target = null;  // when kunai hit target it will lock target and make it kickable
+    public bool targetIsEnemy = false; // when kunia hit something this bool will determine whether the target is enemy or object
     public bool isKicking = false;
     public float spondingPos = 3f;
+    //public Transform relocationPosition = null;
 
     private void Awake()
     {
@@ -28,9 +30,17 @@ public class ItachiKick : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.C) && !itachi.isAttacking && !itachi.isHurt && target != null)
         {
-            itachi.isSpecialKicking = true;
-            itachi.isAttacking = true;
-            StartCoroutine(ItachiKickSkill());
+            if (targetIsEnemy)
+            {
+                itachi.isSpecialKicking = true;
+                itachi.isAttacking = true;
+                StartCoroutine(ItachiKickSkill());
+            }
+            else if (!targetIsEnemy)
+            {
+                itachi.isAttacking = true;
+                StartCoroutine(VanishRelocate());
+            }
         }
     }
 
@@ -40,7 +50,7 @@ public class ItachiKick : MonoBehaviour
         {
             audioManager.PlaySFX(audioManager.ItachiTsukyumi);
             //itachi.tag = "ItachiKickAboveD";// there is a problem of tag name that reach to the target, add this to ensure the tag reach to enemy is * ItachiKickAboveD*
-            float kickingRePosition = itachi.isFacingRight ? -0.5f : 0.5f;// for position to direct hit with leg 
+            float kickingRePosition = itachi.isFacingRight ? -0.5f : 0.5f;// modify position to direct hit with leg 
             canKick = false;
             isKicking=true;
 
@@ -66,5 +76,19 @@ public class ItachiKick : MonoBehaviour
             isKicking = false;
             itachi.isAttacking = false;
         }
+    }
+    public IEnumerator VanishRelocate()
+    {
+        itachi.isAttacking=true;
+        //itachi.isSpecialKicking = true;
+        audioManager.PlaySFX(audioManager.ItachiTsukyumi);
+        Vector2 newPos = new Vector2(target.transform.position.x, target.transform.position.y);
+        itachi.comingAnimation = "ItachiVanish";
+        yield return new WaitForSeconds(0.30f);
+        itachi.transform.position = newPos;
+        Destroy(target);
+        yield return new WaitForSeconds(0.9f);
+        //itachi.isSpecialKicking = false;
+        itachi.isAttacking=false;
     }
 }

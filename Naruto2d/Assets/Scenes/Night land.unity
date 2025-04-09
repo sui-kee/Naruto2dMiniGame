@@ -1388,11 +1388,11 @@ PrefabInstance:
       objectReference: {fileID: 1633376343}
     - target: {fileID: 3470207522955219513, guid: 270e0189c3a0def4db87f0636e38abc7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 26.53
+      value: 27.4
       objectReference: {fileID: 0}
     - target: {fileID: 3470207522955219513, guid: 270e0189c3a0def4db87f0636e38abc7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.86999995
+      value: -0.60999995
       objectReference: {fileID: 0}
     - target: {fileID: 3470207522955219513, guid: 270e0189c3a0def4db87f0636e38abc7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1854,7 +1854,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 26.53, y: -0.86999995, z: -9.959896}
+  m_LocalPosition: {x: 27.4, y: -0.60999995, z: -9.959896}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3291,6 +3291,7 @@ MonoBehaviour:
   body1: {fileID: 1471614413}
   body2: {fileID: 1910405477}
   target: {fileID: 0}
+  targetIsEnemy: 0
   isKicking: 0
   spondingPos: 1.6
 --- !u!1 &890234504
@@ -9263,7 +9264,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1206784543
 Transform:
   m_ObjectHideFlags: 0
@@ -12162,11 +12163,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 981999763646018256, guid: 1f47c5fe2e4c8ac4e84bf560766738cb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 26.53
+      value: 27.4
       objectReference: {fileID: 0}
     - target: {fileID: 981999763646018256, guid: 1f47c5fe2e4c8ac4e84bf560766738cb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.66
+      value: -1.4
       objectReference: {fileID: 0}
     - target: {fileID: 981999763646018256, guid: 1f47c5fe2e4c8ac4e84bf560766738cb, type: 3}
       propertyPath: m_LocalPosition.z

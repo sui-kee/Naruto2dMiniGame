@@ -19,6 +19,8 @@ public class Kunai : MonoBehaviour
     {
         rb.linearVelocity = transform.right * speed;
         StartCoroutine(KunaiBehaviour());
+        specialKick.target = gameObject;
+        specialKick.targetIsEnemy = false;
     }
 
     // Update is called once per frame
@@ -41,13 +43,13 @@ public class Kunai : MonoBehaviour
     {
         if (collision.CompareTag("OrochimaruBody") || collision.CompareTag("AnbuBody"))
         {
-
+            specialKick.targetIsEnemy = true;
             specialKick.target = collision.gameObject;
             Destroy(gameObject);
-        }
-        if (!collision.CompareTag("OroObjectDetector"))
+        }else if (!collision.CompareTag("OroObjectDetector")) 
         {
-            //specialKick.target = gameObject; 
+            //Debug.Log("It also went here");
+            specialKick.targetIsEnemy = false;
             Destroy(gameObject);
         }   
     }

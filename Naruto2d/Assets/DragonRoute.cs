@@ -19,7 +19,7 @@ public class DragonRoute : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("WaterDragon"))
+        if (collision.CompareTag("WaterDragon") || collision.CompareTag("BelowD"))
         {
             Transform nextRoute = lastRoute ? dragonGate.itachi.transform : next_route;
             dragonGate.dragon_target = nextRoute;
