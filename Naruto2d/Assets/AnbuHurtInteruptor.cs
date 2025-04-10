@@ -14,9 +14,12 @@ public class AnbuHurtInteruptor : StateMachineBehaviour
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        if (anbu.isHurt)
+        if (anbu.isHurt && anbu.lives>0)
         {
             animator.SetTrigger("Hurt");
+        }else if(anbu.lives <= 0)
+        {
+            animator.SetTrigger("Die");
         }
     }
 

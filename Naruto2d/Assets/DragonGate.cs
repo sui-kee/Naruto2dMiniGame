@@ -7,14 +7,12 @@ public class DragonGate : MonoBehaviour
     [SerializeField] private Transform route3;
     [SerializeField] private GameObject waterGate;
     [SerializeField] private GameObject dragon;
-    public Itachi itachi;
-    Anbu anbu;
+    public Anbu anbu;
     public Transform dragon_target;// define the target that the dragon should after
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         anbu = GameObject.FindGameObjectWithTag("AnbuEnemy").GetComponent<Anbu>();
-        itachi = GameObject.FindGameObjectWithTag("Player").GetComponent<Itachi>();
         dragon_target = route1;
         waterGate.SetActive(true);
         Invoke(nameof(ActivateDragon), 0.43f);

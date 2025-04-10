@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hiddenleaf_ground_0: -8625051080253147344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

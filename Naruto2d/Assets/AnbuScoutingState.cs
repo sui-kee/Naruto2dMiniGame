@@ -15,7 +15,7 @@ public class AnbuScoutingState : StateMachineBehaviour
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         anbu.rb.gravityScale = 0f;
-        if(body.player_anbu_distance <= 14f)
+        if(body.player_anbu_distance <= 11f)
         {
             animator.SetTrigger("Detect");
         }

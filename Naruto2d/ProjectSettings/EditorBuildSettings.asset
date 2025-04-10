@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Orochimaru.unity
     guid: af4fda7ed2b83d24d844a283092474cc
+  - enabled: 1
+    path: Assets/Scenes/Night land.unity
+    guid: 31ed415224645d54294f80607966a23b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

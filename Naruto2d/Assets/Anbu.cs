@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class Anbu : MonoBehaviour
@@ -5,8 +6,8 @@ public class Anbu : MonoBehaviour
     [SerializeField] public Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
+    [SerializeField] public Itachi itachi;
     public float Ground_CheckPoint_radius = 0.2f;
-    Itachi itachi;
     AnbuBody anbuBody;
     public float lives = 3f;
     public float distance;
@@ -17,7 +18,6 @@ public class Anbu : MonoBehaviour
     void Start()
     {
         anbuBody = GameObject.FindGameObjectWithTag("AnbuEnemy").GetComponentInChildren<AnbuBody>();
-        itachi = GameObject.FindGameObjectWithTag("Player").GetComponent<Itachi>();
     }
 
     // Update is called once per frame
@@ -46,5 +46,16 @@ public class Anbu : MonoBehaviour
             isFacingRight = !isFacingRight;
             transform.Rotate(0f, 180f, 0f);
         }
+    }
+
+    public void DestroyAnbu()
+    {
+        StartCoroutine(Die());
+    }
+
+    private IEnumerator Die()
+    {
+        yield return new WaitForSeconds(1.20f);
+        Destroy(gameObject);
     }
 }

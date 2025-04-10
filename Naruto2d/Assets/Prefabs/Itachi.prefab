@@ -13,10 +13,6 @@ GameObject:
   - component: {fileID: 1815361732073660900}
   - component: {fileID: 2472566958922633800}
   - component: {fileID: 1693187861678449641}
-  - component: {fileID: 665407377792873153}
-  - component: {fileID: 8943293281303074330}
-  - component: {fileID: 6137626677948347272}
-  - component: {fileID: 1387210055920288018}
   m_Layer: 0
   m_Name: Itachi
   m_TagString: Player
@@ -43,6 +39,9 @@ Transform:
   - {fileID: 2556304417818880885}
   - {fileID: 6178360622139330892}
   - {fileID: 2582105952635526400}
+  - {fileID: 8514410047184462344}
+  - {fileID: 3036278078546154299}
+  - {fileID: 1783767501440996984}
   - {fileID: 8704101251492977975}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -183,68 +182,37 @@ MonoBehaviour:
   isDying: 0
   isSpecialKicking: 0
   susanooScale: 3
---- !u!114 &665407377792873153
-MonoBehaviour:
+--- !u!1 &669418164559843930
+GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 478502891051809813}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f3515b7f6ac548a41a55620fc26e9aea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  fireBall: {fileID: 5684499090771543649, guid: fbbdb5cd8b1e14e4a836c9f4cada4fc9, type: 3}
-  shootingPoint: {fileID: 8489134097175519772}
-  itachi: {fileID: 1693187861678449641}
---- !u!114 &8943293281303074330
-MonoBehaviour:
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3036278078546154299}
+  m_Layer: 0
+  m_Name: Fire ball attack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3036278078546154299
+Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 478502891051809813}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 291216010a0230d4cb52bef4493780e9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  kunai: {fileID: 7086636697201096733, guid: 58e2202e9ec3632479e62e60f0db9763, type: 3}
-  shootingPoint: {fileID: 617670525653280350}
-  itachi: {fileID: 1693187861678449641}
---- !u!114 &6137626677948347272
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 478502891051809813}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 255c6c42e602ab049b72145d78b24667, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Flame: {fileID: 4027184745685081087, guid: 8411568a73330b442aa2c34cff7a3f89, type: 3}
-  EnemyTran: {fileID: 0}
-  itachi: {fileID: 1693187861678449641}
-  S_P_reducer: 0
-  Range: 0
---- !u!114 &1387210055920288018
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 478502891051809813}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d4b5dc88916f1d4c9eb80418f64fb64, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itachiRunBody: {fileID: 5569671882106606425}
-  isHurtFromBelow: 0
-  isFalling: 0
+  m_GameObject: {fileID: 669418164559843930}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 981999763646018256}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &741431897326059371
 GameObject:
   m_ObjectHideFlags: 0
@@ -410,6 +378,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 617670525653280350}
+  - component: {fileID: 193011723028632851}
   m_Layer: 0
   m_Name: Shooting point Kunai
   m_TagString: Untagged
@@ -432,6 +401,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 981999763646018256}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &193011723028632851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3724681336680659467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 291216010a0230d4cb52bef4493780e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kunai: {fileID: 0}
+  shootingPoint: {fileID: 0}
+  itachi: {fileID: 0}
 --- !u!1 &4252428461235301550
 GameObject:
   m_ObjectHideFlags: 0
@@ -442,6 +426,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2556304417818880885}
   - component: {fileID: 955628592042283386}
+  - component: {fileID: 873594889464559735}
   m_Layer: 0
   m_Name: IdleBody
   m_TagString: Untagged
@@ -501,6 +486,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.014663333, y: 0.04967447}
   m_Size: {x: 0.20673083, y: 0.55850416}
   m_Direction: 0
+--- !u!114 &873594889464559735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4252428461235301550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8d70d40f95fbd4bbe17fdfe6a16f7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitThurst: 2
 --- !u!1 &5164778917498734055
 GameObject:
   m_ObjectHideFlags: 0
@@ -662,6 +660,89 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitThurst: 2
+--- !u!1 &6522969550212889374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1783767501440996984}
+  m_Layer: 0
+  m_Name: Hurt behaviour
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1783767501440996984
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6522969550212889374}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 981999763646018256}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7598446417263393381
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8514410047184462344}
+  - component: {fileID: 8045361937684959309}
+  m_Layer: 0
+  m_Name: Itachi Kick skill
+  m_TagString: ItachiKick
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8514410047184462344
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7598446417263393381}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 981999763646018256}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8045361937684959309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7598446417263393381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a407b1dfaac33d46a4240fbf2e5ed93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itachi: {fileID: 1693187861678449641}
+  skillDamageBox: {fileID: 2020006879727503729}
+  body1: {fileID: 4252428461235301550}
+  body2: {fileID: 5569671882106606425}
+  target: {fileID: 0}
+  targetIsEnemy: 0
+  isKicking: 0
+  spondingPos: 1.6
 --- !u!1 &8909246323654819948
 GameObject:
   m_ObjectHideFlags: 0
@@ -671,6 +752,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8489134097175519772}
+  - component: {fileID: 6749481190077866750}
   m_Layer: 0
   m_Name: Shooting point FB
   m_TagString: Untagged
@@ -693,3 +775,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 981999763646018256}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6749481190077866750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8909246323654819948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3515b7f6ac548a41a55620fc26e9aea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireBall: {fileID: 5684499090771543649, guid: fbbdb5cd8b1e14e4a836c9f4cada4fc9, type: 3}
+  shootingPoint: {fileID: 8489134097175519772}
+  itachi: {fileID: 1693187861678449641}

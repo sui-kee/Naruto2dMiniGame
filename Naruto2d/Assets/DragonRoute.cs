@@ -21,7 +21,7 @@ public class DragonRoute : MonoBehaviour
     {
         if (collision.CompareTag("WaterDragon") || collision.CompareTag("BelowD"))
         {
-            Transform nextRoute = lastRoute ? dragonGate.itachi.transform : next_route;
+            Transform nextRoute = lastRoute ? dragonGate.anbu.itachi.transform : next_route;
             dragonGate.dragon_target = nextRoute;
             Destroy(gameObject);
         }

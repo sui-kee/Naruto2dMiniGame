@@ -30,6 +30,7 @@ public class AnbuBody : MonoBehaviour
         Debug.Log($"hit by:{collision.gameObject.tag}");
         if (collision.CompareTag("ItachiKickAboveD"))
         {
+            anbu.lives--;
             anbu.isHurt = true;
         }
     }

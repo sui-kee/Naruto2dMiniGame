@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ItachiRunBody : MonoBehaviour
 {
-    ItachiBelowHurt itachiBelowHurt;
+    [SerializeField] private ItachiBelowHurt itachiBelowHurt;
     Itachi itachi;
     AudioManager audioManager;
     [SerializeField] private float hitThurst = 2f;// the thurst force when the enemy's weapon hit
@@ -16,7 +16,6 @@ public class ItachiRunBody : MonoBehaviour
     void Start()
     {
         itachi = GameObject.FindGameObjectWithTag("Player").GetComponent<Itachi>();
-        itachiBelowHurt = GameObject.FindGameObjectWithTag("Player").GetComponent<ItachiBelowHurt>();
     }
 
     // Update is called once per frame

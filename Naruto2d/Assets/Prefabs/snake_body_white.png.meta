@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      snake_body_white_0: -4842430907282394685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
