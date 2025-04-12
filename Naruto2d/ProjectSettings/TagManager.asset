@@ -21,6 +21,8 @@ TagManager:
   - AnbuEnemy
   - AnbuBody
   - BelowD
+  - KunaiNormalDamage
+  - KunaiCamera
   layers:
   - Default
   - TransparentFX

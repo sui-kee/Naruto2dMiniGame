@@ -87,6 +87,7 @@ public class ItachiKick : MonoBehaviour
         yield return new WaitForSeconds(0.30f);
         itachi.transform.position = newPos;
         Destroy(target);
+        itachi.throwingKunai = false;// since kunai is used and destroyed the throwing kunai bool should also reset for next throw
         yield return new WaitForSeconds(0.9f);
         //itachi.isSpecialKicking = false;
         itachi.isAttacking=false;

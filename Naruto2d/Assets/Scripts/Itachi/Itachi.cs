@@ -19,6 +19,7 @@ public class Itachi : MonoBehaviour
     public bool SusanooMode = false;
     public bool isAttacking = false;
     public bool isHurt = false;
+    public bool throwingKunai = false;// for switching camera purpose only
     public bool isDying = false;// this dying bool should be TRUE when ever the player get knock up or knock down and also for death mode
     public bool isSpecialKicking = false;// special bool for controlling player linear velocity for kicking skill
     public float susanooScale = 3f;

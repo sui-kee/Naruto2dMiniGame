@@ -17,8 +17,9 @@ public class ItachiKunaiAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.R) && canShoot && !itachi.isAttacking)
+        if (Input.GetKeyDown(KeyCode.R) && canShoot && !itachi.isAttacking && !itachi.throwingKunai)
         {
+            itachi.throwingKunai = true;
             itachi.isAttacking = true;
             isShooting=true;
             canShoot = false;
@@ -34,7 +35,7 @@ public class ItachiKunaiAttack : MonoBehaviour
     {
         itachi.comingAnimation = "ItachiKunai";
         yield return new WaitForSeconds(0.07f);
-        Instantiate(kunai, shootingPoint.position, shootingPoint.rotation);
+        Instantiate(kunai, shootingPoint.position, itachi.transform.rotation);
         isShooting = false;
         itachi.isAttacking = false;
         yield return new WaitForSeconds(0.5f);
